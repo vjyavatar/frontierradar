@@ -1,7 +1,7 @@
 """FrontierRadar daily builder: data/*.json -> dated pages + report.html (latest) + index archive."""
 import json,glob,html,os
 E=lambda s:html.escape(str(s))
-BASE="https://vjyavatar.github.io/frontierradar/"
+BASE="https://research.celesys.ai/"
 CSS=""":root{--bg:#070b12;--card:#101826;--bd:#1f2b3d;--tx:#e8eef5;--tx2:#a9b6c6;--tx3:#71839a;--acc:#4da3ff;--g:#2ecc71;--r:#ff5c5c;--y:#f5c542;--p:#b07cff}
 *{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--bg);color:var(--tx);font:16px/1.6 system-ui,-apple-system,Segoe UI,Roboto,sans-serif}
 a{color:var(--acc)}#prog{position:fixed;top:0;left:0;height:3px;background:linear-gradient(90deg,var(--g),var(--acc));width:0;z-index:20}
@@ -559,7 +559,7 @@ CSS3+=""".rt{float:right;font-size:.78em;color:var(--tx3);margin-top:6px}.bb{dis
 @media(max-width:700px){.bb{grid-template-columns:1fr}.mn .x{display:none}.bnav{display:flex;position:fixed;bottom:0;left:0;right:0;z-index:50;background:#070b12f2;border-top:1px solid var(--bd);backdrop-filter:blur(8px)}.bnav a{flex:1;text-align:center;font-size:.7em;color:var(--tx2);text-decoration:none;padding:6px 0 8px}.bnav a span{display:block;font-size:1.4em}.bnav a.on{color:var(--g)}body{padding-bottom:64px}.switch{bottom:76px!important}.badge{bottom:76px!important}.totop{bottom:128px}abbr.gl:focus::after{width:180px}}"""
 _main4=main
 def main():
-    _main4();methodology(ALL[-1]);track(ALL);home_ux()
+    _main4();methodology(next(x for x in ALL if x["date"]=="2026-10-28"));track(ALL);home_ux()
     sm=open("sitemap.xml").read().replace("</urlset>",f"<url><loc>{BASE}methodology.html</loc></url><url><loc>{BASE}track-record.html</loc></url></urlset>")
     open("sitemap.xml","w").write(sm)
     for d in ALL:
@@ -571,4 +571,149 @@ def main():
         for o in raw["opportunities"]:
             if o["name"] in OO and "score" in o:o["conv"]=OO[o["name"]]["conv"];o["conv_score"]=OO[o["name"]]["_cs"]
         json.dump(raw,open(fn,"w"),indent=1,ensure_ascii=False)
+
+
+
+# ---------- v6: less scrolling: page tabs, card grid + item drawer, compact tables, compact home ----------
+TABS6={
+ "research.html":[["today","🆕 Today's new",["items"]],["all","📚 All tracked",["items"]],["map","🗺 Readiness map",["pipe","map"]],["timeline","🗞 Timeline",["timeline"]],["more","➕ Poll, dates & plans",["poll","dates","premium"]]],
+ "results.html":[["numbers","🔢 Key numbers",["numbers"]],["charts","📊 Charts",["money"]],["valuations","💲 Valuations",["value","hist"]],["calendar","🗓 Calendar",["cal","dates"]],["sources","🔗 Sources",["sources"]]],
+ "index.html":[["start","⚡ Start here",["start","paths"]],["pipeline","🧪 Paper → Profit",["pipeline"]],["earliest","🔬 Earliest ideas",["earliest"]],["archive","🗂 Archive",["archivesec"]],["dates","⏳ Countdowns",["dates"]],["plans","💎 Plans",["premium"]]],
+}
+CSS3+=""".ptabs{display:flex;gap:6px;overflow-x:auto;scroll-snap-type:x mandatory;position:sticky;top:56px;z-index:20;background:#070b12f0;backdrop-filter:blur(6px);padding:8px 0;margin:6px 0 12px;border-bottom:1px solid var(--bd);scrollbar-width:none}.ptabs::-webkit-scrollbar{display:none}
+.ptabs [role=tab],.dtabs [role=tab]{flex:0 0 auto;scroll-snap-align:start;background:#0c1422;color:var(--tx2);border:1px solid var(--bd);border-radius:99px;padding:8px 14px;font:inherit;font-size:.9em;cursor:pointer;min-height:40px;white-space:nowrap}
+.ptabs [aria-selected=true],.dtabs [aria-selected=true]{background:var(--g);color:#04111f;border-color:var(--g);font-weight:800}[role=tab]:focus-visible,.rc:focus-visible{outline:3px solid #f5c542;outline-offset:2px}
+[hidden]{display:none!important}#opp .oc-x{display:none!important}.oc-mm{display:none}.v6hide{display:none!important}.ri.v6src{display:none!important}
+.rgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:12px;margin:12px 0}.rc{display:flex;flex-direction:column;background:var(--card);border:1px solid var(--bd);border-radius:14px;overflow:hidden;text-decoration:none;color:inherit;transition:transform .15s,border-color .15s}.rc:hover{transform:translateY(-2px);border-color:var(--g)}
+.rc img{width:100%;aspect-ratio:640/220;object-fit:cover;display:block}.rc .rb{padding:10px 12px;display:flex;flex-direction:column;gap:6px;flex:1}.rc h3{font-size:1em;margin:0;line-height:1.3}.rc .hk{font-size:.86em;color:var(--tx2);margin:0;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}body.kid .rc .hk.eli{display:-webkit-box;background:none;border:0;padding:0}body.kid .rc .hk.adult{display:none}.rc .rbar{height:6px;border-radius:99px;background:#1f2b3d}.rc .rbar i{display:block;height:6px;border-radius:99px}.rc .rr{display:flex;justify-content:space-between;font-size:.8em;color:var(--tx2)}.rc .nb{font-size:.75em}.rc.nv{outline:2px solid #f5c542}
+.drw-bg{position:fixed;inset:0;background:#000a;z-index:90;display:none}.drw-bg.open{display:block}.drw{position:fixed;top:0;right:0;bottom:0;width:min(760px,100%);background:#0a111c;border-left:1px solid var(--bd);z-index:91;display:flex;flex-direction:column;transform:translateX(100%);transition:transform .22s;visibility:hidden}.drw.open{transform:none;visibility:visible}
+.drw header{display:flex;gap:10px;align-items:flex-start;padding:12px 14px 6px;border-bottom:1px solid var(--bd)}.drw header h2{font-size:1.05em;margin:0;flex:1;line-height:1.3}.drw .x{background:#1a2638;border:1px solid var(--bd);color:var(--tx);border-radius:50%;width:38px;height:38px;font-size:1.1em;cursor:pointer;flex:0 0 auto}
+.dtabs{display:flex;gap:6px;overflow-x:auto;padding:8px 14px;border-bottom:1px solid var(--bd);scrollbar-width:none}.dtabs::-webkit-scrollbar{display:none}.dbody{overflow-y:auto;padding:12px 16px 30px;flex:1;overscroll-behavior:contain}.dbody article.ri{margin:0!important;border:0;background:none;padding:0}
+.dpanel[hidden]{display:none}.dnav{display:flex;justify-content:space-between;gap:8px;padding:8px 14px;border-top:1px solid var(--bd)}.dnav button{background:#0c1422;color:var(--tx);border:1px solid var(--bd);border-radius:99px;padding:6px 12px;font:inherit;font-size:.85em;cursor:pointer}
+.oppc .oc-x{display:none}.oppc td,.oppc th{vertical-align:top}.ox{background:none;border:1px solid var(--bd);color:var(--g);border-radius:99px;padding:2px 10px;font:inherit;font-size:.8em;cursor:pointer;margin-top:4px}.odet td{background:#0b121d}.odet .og{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:10px}.odet .og b{display:block;font-size:.8em;color:var(--tx3);text-transform:uppercase;letter-spacing:.05em}
+details.flt>summary{cursor:pointer;padding:6px 0;font-weight:700}.t30{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}.t30 .card{padding:10px 12px;margin:0}.t30 .card b{display:block}.homtop{display:grid;grid-template-columns:1.15fr 1fr;gap:14px;align-items:start}.homtop .botd{display:block;margin:0}.homtop .botd .art{display:none}.t30l{list-style:none;padding:0;margin:0}.t30l li{padding:7px 0;border-bottom:1px solid var(--bd);font-size:.92em}.qt a small{display:none!important}.qt{display:grid;grid-template-columns:repeat(8,1fr);margin:0 0 12px!important;gap:10px;margin:12px 0}.qt a{background:var(--card);border:1px solid var(--bd);border-radius:14px;padding:10px 6px;text-align:center;font-size:.88em;text-decoration:none;color:inherit;display:block}.qt a:hover{border-color:var(--g)}.qt span{font-size:1.5em;display:block}.qt small{color:var(--tx3);display:block}
+.hero{padding:22px 20px 14px!important}.hero h1{font-size:clamp(1.5em,3vw,2.1em)!important;margin:.25em 0!important}.hero .hook{margin:.3em 0 .6em!important}.hero .btn{padding:8px 14px;font-size:.9em}.wn{padding:8px 12px!important;font-size:.88em}.botd.c6{padding:14px}.botd.c6 h2{font-size:1.25em}.botd.c6 p{margin:.4em 0}.dbody [data-p=overview]>h3{display:none}.hero.compact{padding:22px 20px 10px}.hero.compact h1{font-size:clamp(1.4em,3.4vw,2.1em);margin:.2em 0}.hero.compact .hook{margin:.3em 0}.botd.c6{margin:10px 0}.botd.c6 .art{max-height:220px}
+body.v6t .layout{display:block}body.v6t .layout .toc{display:none}@media(max-width:700px){.t30{grid-template-columns:1fr 1fr}.qt{grid-template-columns:1fr 1fr}.ptabs{top:50px}.drw{top:auto;height:88vh;width:100%;border-left:0;border-top:1px solid var(--bd);border-radius:18px 18px 0 0;transform:translateY(100%)}.drw.open{transform:none}.drw header:before{content:"";position:absolute;left:50%;top:6px;width:44px;height:4px;margin-left:-22px;border-radius:99px;background:#3a4a60}.drw header{position:relative;padding-top:16px}.rgrid{grid-template-columns:1fr 1fr;gap:8px}body .rc .hk{display:none!important}.homtop{grid-template-columns:1fr!important}.qt{grid-template-columns:repeat(4,1fr)!important}.qt a{padding:8px 4px;font-size:.78em}.rc h3{font-size:.85em}.rc .rb{padding:8px}#opp .oc-m{display:none!important}.oc-mm{display:block}.hero{padding:16px 14px 10px!important}.hero h1{font-size:1.5em!important;margin:.2em 0!important}.hero .hook{font-size:1em!important;margin:.3em 0!important}.hero .pill{font-size:.72em}.botd.c6 .art{display:none}.layout .toc{display:none}}"""
+JS6=r"""(function(){
+const $=(s,r=document)=>r.querySelector(s),$$=(s,r=document)=>[...r.querySelectorAll(s)];
+const T=window.TABS6||[];let main=$('main');if(!main)return;
+/* ---- page tabs ---- */
+let bar=null,cur=null;
+function tabOf(id){for(const t of T)if(t[2].includes(id))return t[0];return null}
+function setTab(k,push){if(!T.length)return;const t=T.find(x=>x[0]==k)||T[0];cur=t[0];const on=new Set(t[2]);
+ T.forEach(x=>x[2].forEach(id=>{const e=document.getElementById(id);if(e)e.classList.toggle('v6hide',!on.has(id))}));
+ $$('[role=tab]',bar).forEach(b=>{const s=b.dataset.k==cur;b.setAttribute('aria-selected',s);b.tabIndex=s?0:-1});
+ const sb=$(`[data-k="${cur}"]`,bar);if(sb)bar.scrollLeft=Math.max(0,sb.offsetLeft-bar.offsetLeft-20);
+ document.dispatchEvent(new CustomEvent('v6tab',{detail:cur}));
+ if(push)history.replaceState(null,'','#tab-'+cur)}
+if(T.length){document.body.classList.add('v6t');bar=document.createElement('div');bar.className='ptabs';bar.setAttribute('role','tablist');bar.setAttribute('aria-label','Page sections');
+ T.forEach(t=>{const b=document.createElement('button');b.setAttribute('role','tab');b.dataset.k=t[0];b.textContent=t[1];b.onclick=()=>setTab(t[0],1);bar.appendChild(b)});
+ bar.addEventListener('keydown',e=>{const bs=$$('[role=tab]',bar),i=bs.findIndex(b=>b.dataset.k==cur);let j=null;if(e.key=='ArrowRight')j=(i+1)%bs.length;if(e.key=='ArrowLeft')j=(i-1+bs.length)%bs.length;if(e.key=='Home')j=0;if(e.key=='End')j=bs.length-1;if(j!=null){e.preventDefault();setTab(bs[j].dataset.k,1);bs[j].focus()}});
+ const first=T.flatMap(t=>t[2]).map(i=>document.getElementById(i)).filter(Boolean).sort((a,b)=>a.compareDocumentPosition(b)&2?1:-1)[0];if(first)first.parentNode.insertBefore(bar,first);
+ /* swipe between page tabs on touch */
+ let sx=null,sy=null;main.addEventListener('touchstart',e=>{if(e.target.closest('.tw,.ptabs,input,.cals'))return sx=null;sx=e.touches[0].clientX;sy=e.touches[0].clientY},{passive:true});
+ main.addEventListener('touchend',e=>{if(sx==null)return;const dx=e.changedTouches[0].clientX-sx,dy=e.changedTouches[0].clientY-sy;if(Math.abs(dx)>80&&Math.abs(dx)>2*Math.abs(dy)){const i=T.findIndex(t=>t[0]==cur),j=dx<0?Math.min(T.length-1,i+1):Math.max(0,i-1);if(j!=i){setTab(T[j][0],1);bar.scrollIntoView({block:'start'})}}sx=null},{passive:true})}
+/* ---- research: card grid + drawer ---- */
+const arts=$$('article.ri[data-s]');let grid=null,drw=null,bg=null,openId=null,lastFocus=null,ph={};
+const PAN=[['overview','Overview'],['scores','Scores'],['bullbear','Bull vs Bear'],['investors','Investors'],['brief','Briefing & Script'],['history','History']];
+function restructure(a){const ps={};PAN.forEach(([k,l])=>{const d=document.createElement('div');d.className='dpanel';d.dataset.p=k;d.setAttribute('role','tabpanel');d.id=a.id+'--p-'+k;ps[k]=d});
+ const kids=[...a.children];kids.forEach(c=>{let k='overview';if(c.matches('.grid,details.how'))k='scores';else if(c.matches('.bb'))k='bullbear';else if(c.matches('.sowhat'))k='investors';else if(c.matches('details'))k='brief';if(c.matches('.dline'))k='overview';ps[k].appendChild(c);if(c.matches('details'))c.open=true});
+ const g=ps.scores.querySelector('.grid');if(g){const w=g.children[3];if(w)ps.investors.appendChild(w.cloneNode(true))}
+ const ol=OPPS[a.id];if(ol&&ol.length){const d=document.createElement('div');d.className='card';d.innerHTML='<b>🎯 Linked opportunities</b><ul>'+ol.map(o=>`<li><a href="${PFX}opportunities.html#${o[0]}">${o[1]}</a> · ${o[2]} conviction</li>`).join('')+'</ul>';ps.investors.appendChild(d)}
+ const dl=ps.overview.querySelector('.dline');const h=document.createElement('div');h.innerHTML=`<p><b>First seen:</b> ${a.dataset.f} · <b>Last updated:</b> ${a.dataset.u}</p>`;if(dl){const hm=dl.querySelector('div.meta');if(hm)h.appendChild(hm.cloneNode(true));else h.insertAdjacentHTML('beforeend','<p class="meta">Only one issue so far for this item; history grows with each daily issue.</p>');h.appendChild(dl.querySelector('span.meta').cloneNode(true))}
+ ps.history.appendChild(h);PAN.forEach(([k])=>a.appendChild(ps[k]))}
+function hookOf(a){const p=a.querySelector('p.adult');let t=p?p.textContent.replace(/^What they found:\s*/,''):'';t=t.split(/(?<=\.)\s/)[0];return t.length>150?t.slice(0,147)+'…':t}
+function card(a){const h=a.querySelector('h3').textContent.replace(/^\d+\.\s*/,''),img=a.querySelector('img.art'),st=a.querySelector('.st'),m=(a.textContent.match(/Readiness\s*(\d+)\/100/)||[])[1]||'0';
+ const col=m>=60?'#2ecc71':m>=35?'#f5c542':'#ff5c5c',nw=a.querySelector('.newt'),eli=a.querySelector('p.eli');const c=document.createElement('a');c.className='rc';c.href='#'+a.id;c.dataset.id=a.id;
+ c.innerHTML=`${img?`<img src="${img.getAttribute('src')}" alt="" loading="lazy" width="640" height="220">`:''}<div class="rb"><div>${st?st.outerHTML:''} ${nw?'<span class="pill newt nb">🆕 New</span>':(a.dataset.u==ISSUE?'<span class="pill nb">✏️ Updated</span>':'')}</div><h3>${h}</h3><p class="hk adult">${hookOf(a)}</p><p class="hk eli">${eli?eli.textContent.replace(/^🧒\s*Like I'm 10:\s*/,''):''}</p><div class="rr"><span>Readiness <b style="color:${col}">${m}</b>/100</span><span>${a.dataset.a}</span></div><div class="rbar"><i style="width:${m}%;background:${col}"></i></div></div>`;
+ c.setAttribute('aria-label',h+', readiness '+m+' of 100. Open details');return c}
+function sync(){if(!grid)return;let n=0;$$('.rc',grid).forEach(c=>{const a=document.getElementById(c.dataset.id)||ph[c.dataset.id];const hid=(a&&a.style.display=='none')||(cur=='today'&&!c.querySelector('.newt'));c.hidden=hid;if(!hid)n++;if(a&&a.classList.contains('nv'))c.classList.add('nv')});
+ let e=$('#v6empty');if(!e){e=document.createElement('p');e.id='v6empty';e.className='card';grid.after(e)}e.hidden=n>0;e.textContent=cur=='today'?'No new items match these filters today. Try “All tracked”.':'No items match these filters.';const fc=$('#fc');if(fc)fc.textContent=n+' shown'}
+function sub(k,push){if(!openId)return;const a=document.getElementById(openId);$$('.dpanel',a).forEach(p=>p.hidden=p.dataset.p!=k);$$('[role=tab]',drw).forEach(b=>{const s=b.dataset.p==k;b.setAttribute('aria-selected',s);b.tabIndex=s?0:-1;if(s){const tl=b.parentNode;tl.scrollLeft=Math.max(0,b.offsetLeft-tl.offsetLeft-20)}});$('.dbody',drw).scrollTop=0;if(push)history.replaceState(null,'','#'+openId+(k=='overview'?'':'--'+k))}
+function openItem(id,k){const a=document.getElementById(id);if(!a||!drw)return;if(openId&&openId!=id)closeItem(1);if(openId!=id){lastFocus=document.activeElement;ph[id]=document.createComment(id);a.before(ph[id]);a.classList.remove('v6src');$('.dbody',drw).appendChild(a);openId=id;$('h2',drw).textContent=a.querySelector('h3').textContent;
+ const r=LS('read')||[];if(!r.includes(id)){r.push(id);LS('read',r)}try{paint()}catch(e){}}
+ sub(k||'overview');bg.classList.add('open');drw.classList.add('open');drw.setAttribute('aria-hidden','false');document.body.style.overflow='hidden';const ids=vis(),i=ids.indexOf(id);$('.pv',drw).disabled=i<=0;$('.nx',drw).disabled=i<0||i>=ids.length-1;setTimeout(()=>$('.x',drw).focus(),30)}
+function closeItem(keep){if(!openId)return;const a=document.getElementById(openId);a.classList.add('v6src');ph[openId].replaceWith(a);delete ph[openId];openId=null;if(keep)return;bg.classList.remove('open');drw.classList.remove('open');drw.setAttribute('aria-hidden','true');document.body.style.overflow='';history.replaceState(null,'','#tab-'+(cur||'all'));if(lastFocus&&lastFocus.focus)lastFocus.focus()}
+function vis(){return $$('.rc',grid).filter(c=>!c.hidden).map(c=>c.dataset.id)}
+if(arts.length){const sec=$('#items');grid=document.createElement('div');grid.className='rgrid';grid.setAttribute('aria-label','Research items');arts[0].before(grid);
+ arts.forEach(a=>{grid.appendChild(card(a));restructure(a);a.classList.add('v6src');a.removeAttribute('style')});
+ bg=document.createElement('div');bg.className='drw-bg';bg.onclick=()=>closeItem();drw=document.createElement('div');drw.className='drw';drw.setAttribute('role','dialog');drw.setAttribute('aria-modal','true');drw.setAttribute('aria-hidden','true');drw.setAttribute('aria-label','Research item details');
+ drw.innerHTML='<header><h2></h2><button class="x" aria-label="Close (Esc)">✕</button></header><div class="dtabs" role="tablist" aria-label="Item sections">'+PAN.map(([k,l])=>`<button role="tab" data-p="${k}">${l}</button>`).join('')+'</div><div class="dbody"></div><div class="dnav"><button class="pv">◀ Previous</button><button class="nx">Next ▶</button></div>';
+ document.body.append(bg,drw);$('.x',drw).onclick=()=>closeItem();$$('[role=tab]',drw).forEach(b=>b.onclick=()=>sub(b.dataset.p,1));
+ const step=d=>{const ids=vis(),i=ids.indexOf(openId);const j=i+d;if(j>=0&&j<ids.length){history.replaceState(null,'','#'+ids[j]);openItem(ids[j])}};$('.pv',drw).onclick=()=>step(-1);$('.nx',drw).onclick=()=>step(1);
+ $('.dtabs',drw).addEventListener('keydown',e=>{const bs=$$('[role=tab]',drw),i=bs.findIndex(b=>b.getAttribute('aria-selected')=='true');let j=null;if(e.key=='ArrowRight')j=(i+1)%bs.length;if(e.key=='ArrowLeft')j=(i-1+bs.length)%bs.length;if(j!=null){e.preventDefault();sub(bs[j].dataset.p,1);bs[j].focus()}});
+ drw.addEventListener('keydown',e=>{if(e.key=='Escape'){e.preventDefault();closeItem()}if(e.key=='Tab'){const f=$$('a[href],button:not([disabled]),input,select,summary,[tabindex="0"]',drw).filter(x=>x.offsetParent);if(!f.length)return;const a=f[0],z=f[f.length-1];if(e.shiftKey&&document.activeElement==a){e.preventDefault();z.focus()}else if(!e.shiftKey&&document.activeElement==z){e.preventDefault();a.focus()}}});
+ let tx=null,ty=null;const db=$('.dbody',drw);db.addEventListener('touchstart',e=>{if(e.target.closest('.tw,input'))return tx=null;tx=e.touches[0].clientX;ty=e.touches[0].clientY},{passive:true});db.addEventListener('touchend',e=>{if(tx==null)return;const dx=e.changedTouches[0].clientX-tx,dy=e.changedTouches[0].clientY-ty;if(Math.abs(dx)>70&&Math.abs(dx)>2*Math.abs(dy)){const bs=$$('[role=tab]',drw),i=bs.findIndex(b=>b.getAttribute('aria-selected')=='true'),j=Math.max(0,Math.min(bs.length-1,i+(dx<0?1:-1)));sub(bs[j].dataset.p,1)}tx=null},{passive:true});
+ const hd=$('header',drw);hd.addEventListener('touchstart',e=>{ty=e.touches[0].clientY},{passive:true});hd.addEventListener('touchend',e=>{if(e.changedTouches[0].clientY-ty>80)closeItem()},{passive:true});
+ if(window.rf){const o=window.rf;window.rf=function(){o();sync()}}
+ const fr0=window.fr;if(fr0){window.fr=function(b,n){fr0(b,n);sync()}}
+ document.addEventListener('v6tab',sync);
+ const lead=sec&&sec.querySelector('h2');if(lead)lead.insertAdjacentHTML('afterend','<p class="meta">Tap a card for the full story: Overview, Scores, Bull vs Bear, Investors, Briefing & History.</p>');
+ if(!T.find(t=>t[0]=='today')||!$$('.newt',grid).length){}
+}
+/* ---- opportunities: compact table with expandable rows ---- */
+const ot=$('#opp');if(ot){ot.classList.add('oppc');const hs=$$('thead th',ot).map(t=>t.textContent);const X=['Catalyst','Timeline','Risk','Driven by research'],M=['Region'];
+ const xi=hs.map((h,i)=>X.includes(h)?i:-1).filter(i=>i>=0),mi=hs.map((h,i)=>M.includes(h)?i:-1).filter(i=>i>=0);
+ $$('thead th',ot).forEach((t,i)=>{if(xi.includes(i))t.classList.add('oc-x');if(mi.includes(i))t.classList.add('oc-m')});
+ $$('tbody tr[data-s]',ot).forEach((r,ri)=>{const td=[...r.children],nm=td[1].querySelector('b').textContent,id=nm.toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');r.id=id;
+  const det=document.createElement('tr');det.className='odet';det.hidden=true;det.innerHTML=`<td colspan="${hs.length-xi.length}"><div class="og">`+xi.map(i=>`<div><b>${hs[i]}</b>${td[i].innerHTML}</div>`).join('')+(mi.length?`<div class="oc-mm"><b>Region</b>${td[mi[0]].innerHTML}</div>`:'')+'</div></td>';
+  xi.forEach(i=>td[i].classList.add('oc-x'));mi.forEach(i=>td[i].classList.add('oc-m'));r.after(det);
+  const b=document.createElement('button');b.className='ox';b.setAttribute('aria-expanded','false');b.setAttribute('aria-controls',id+'-d');det.id=id+'-d';b.textContent='▸ Details';b.onclick=()=>{const o=det.hidden;det.hidden=!o;b.setAttribute('aria-expanded',o);b.textContent=o?'▾ Hide':'▸ Details';$$('details',det).forEach(d=>d.open=o);if(o)history.replaceState(null,'','#'+id)};td[1].appendChild(b);
+  new MutationObserver(()=>{if(r.style.display=='none'){det.hidden=true;b.setAttribute('aria-expanded','false');b.textContent='▸ Details'}}).observe(r,{attributes:true,attributeFilter:['style']})});
+ const fl=$$('#table > .tabs');if(fl.length){const d=document.createElement('details');d.className='flt card';d.innerHTML='<summary>🔎 Filters: stage, region, conviction, date added</summary>';fl[0].before(d);fl.forEach(f=>d.appendChild(f))}
+ const ex=document.createElement('p');ex.className='meta';ex.innerHTML='Tap <b>▸ Details</b> on a row for catalyst, timeline, risks, bull vs bear and the linked research. <button class="ox" id="oxall">Expand all</button>';ot.closest('.card').before(ex);$('#oxall').onclick=function(){const o=this.textContent=='Expand all';$$('.ox',ot).forEach(b=>{if((b.getAttribute('aria-expanded')=='true')!=o&&b.closest('tr').style.display!='none')b.click()});this.textContent=o?'Collapse all':'Expand all'}}
+/* ---- hash router ---- */
+function route(){const h=decodeURIComponent(location.hash.slice(1));if(!h){if(T.length)setTab(cur||T[0][0]);return}
+ if(h.startsWith('tab-')){closeItem();setTab(h.slice(4));return}
+ const [id,k]=h.split('--');const el=document.getElementById(id);
+ if(el&&el.matches('article.ri')){if(T.length&&cur!='today'&&cur!='all')setTab(el.querySelector('.newt')?'today':'all');openItem(id,PAN.some(p=>p[0]==k)?k:'overview');return}
+ if(ot&&el&&el.matches('tr[data-s]')){const b=el.querySelector('.ox');if(b&&b.getAttribute('aria-expanded')!='true')b.click();setTimeout(()=>el.scrollIntoView({block:'center'}),50);return}
+ if(el){const sec=el.closest('section[id]');const t=tabOf(el.id)||(sec&&tabOf(sec.id));if(t){closeItem();setTab(t);setTimeout(()=>el.scrollIntoView({block:'start'}),30)}}}
+addEventListener('hashchange',route);
+if(T.length){const nw=grid?$$('.newt',grid).length:1;setTab(T[0][0]=='today'&&!nw?'all':T[0][0])}
+route();if(grid)sync();
+})();"""
+_shell5=shell
+def shell(d,url,p,on,title,hero,body,toc):
+    h=_shell5(d,url,p,on,title,hero,body,toc)
+    O={}
+    for o in d["opportunities"]:
+        for l in o["links"]:O.setdefault(l,[]).append([o["id"],E(o["name"]),o["conv"]])
+    h=h.replace('<div class="botd">','<div class="botd c6">',1)
+    cfg=f'<script>window.TABS6={json.dumps(TABS6.get(on,[]))};const OPPS={json.dumps(O)},PFX="{p}",ISSUE="{d["date"]}";</script>'
+    return h.replace('</body>',cfg+f'<script>{JS6}</script></body>',1)
+def home6():
+    L=ALL[-1];ix=open("index.html").read()
+    # compact hero: drop big image
+    ix=re.sub(r'<img src="assets/hero.svg"[^>]*>','',ix,count=1);ix=re.sub(r'(<div class="hero">.*?</p>)<a class="btn".*?</a><a class="btn"[^>]*>Opportunities</a>',r'\1',ix,count=1,flags=re.S).replace('<div class="hero">','<div class="hero compact">',1)
+    mo=ix.find('<main');ms=ix.find('>',mo)+1;me=ix.find('</main>')
+    body=ix[ms:me]
+    def cut(a,b):
+        nonlocal body
+        i=body.find(a);j=body.find(b,i) if b else len(body)
+        if i<0:return ''
+        seg=body[i:j];body=body[:i]+body[j:];return seg
+    start=cut('<section id="start"','<div class="card wn"')
+    wn=cut('<div class="card wn"','<div class="botd">')
+    botd=cut('<div class="botd">','<h2>🧪 Paper to Profit</h2>')
+    pipe=cut('<h2>🧪 Paper to Profit</h2>','<h2>🔬 Earliest')
+    earl=cut('<h2>🔬 Earliest','<h2 id="archive">')
+    arch=cut('<h2 id="archive">','<section id="dates">')
+    rest=body
+    botd=botd.replace('<div class="botd">','<div class="botd c6">',1)
+    nw=sum(1 for r in L["research"] if r["first_seen"]==L["date"]);up=sum(1 for r in L["research"] if r["last_updated"]==L["date"] and r["first_seen"]!=L["date"])
+    t30=''.join(f'<div class="card"><b>{i} {E(t)}</b><span style="color:{"var(--tx2)" if c=="pos" else "#ff9b9b"}">{E(x)}</span></div>' for i,t,x,c in L["tldr"])
+    tiles=[("research.html#tab-today","🆕",f"{nw} new today",f"{up} updated · {len(L['research'])} tracked"),("research.html#tab-all","🔬","Research","cards + details"),("results.html","📊","Results","earnings & valuations"),("opportunities.html","🎯","Opportunities",f"{len(L['opportunities'])} companies"),("research.html#tab-map","🗺","Readiness map","who is closest"),("methodology.html","📐","Method","open formula"),("track-record.html","📈","Track record","every call logged"),("archive.html","🗓","Archive","all issues")]
+    wn=re.sub(r'<p class="meta">Today \(\d{4}-\d\d-\d\d\):.*?</p>','',wn,count=1)
+    t30l=''.join(f'<li>{i} <b>{E(t)}:</b> <span style="color:{"var(--tx2)" if c=="pos" else "#ff9b9b"}">{E(x)}</span></li>' for i,t,x,c in L["tldr"])
+    top=(f'<div class="homtop">{botd}<section id="t30s" class="card" style="margin:0"><h2 style="margin:0 0 4px;font-size:1.15em">⏱ Today in 30 seconds <span class="meta" style="font-size:.7em">{L["date"]} · {nw} new, {up} updated</span></h2><ul class="t30l">{t30l}</ul></section></div>'
+         '<nav class="qt" aria-label="Quick links">'+''.join(f'<a href="{u}" title="{E(s)}"><span>{i}</span><b>{E(t)}</b><small>{E(s)}</small></a>' for u,i,t,s in tiles)+'</nav>')
+    top=top[top.index('<nav class="qt"'):]+top[:top.index('<nav class="qt"')]+wn
+    nb=top+start+f'<section id="pipeline">{pipe}</section><section id="earliest">{earl}</section><section id="archivesec">{arch}</section>'+rest
+    ix=ix[:ms]+nb+ix[me:]
+    ix=ix.replace('</body>',f'<script>window.TABS6={json.dumps(TABS6["index.html"])};</script><script>{JS6}</script></body>',1)
+    open("index.html","w").write(ix)
+_main5=main
+def main():
+    _main5();home6()
 if __name__=="__main__":main()

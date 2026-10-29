@@ -499,10 +499,10 @@ def opps(d,url,p):
     return _gl(d,_rt(h,"table"))
 _res_r4=results
 def results(d,url,p): return _gl(d,_res_r4(d,url,p))
-BNAV=[("index.html","🏠","Home"),("research.html","🔬","Research"),("results.html","📊","Results"),("opportunities.html","🎯","Opps"),("methodology.html","📐","Method")]
+BNAV=[("index.html","🏠","Home"),("research.html","🔬","Research"),("results.html","📊","Results"),("opportunities.html","🎯","Opps"),("insights.html","🏆","Top 5"),("methodology.html","📐","Method")]
 def ux(h,p,on):
     bn='<nav class="bnav" aria-label="Main (mobile)">'+"".join(f'<a href="{p}{f}"{" class=on aria-current=page" if f==on else ""}><span>{i}</span>{t}</a>' for f,i,t in BNAV)+'</nav><a href="#" class="totop" aria-label="Back to top" onclick="scrollTo({top:0,behavior:\'smooth\'});return false">↑</a>'
-    h=re.sub(r'(<nav class="mn">.*?)(</nav>)',lambda m:m.group(1)+f'<a class="m x{" on" if on=="methodology.html" else ""}" href="{p}methodology.html">📐 Method</a><a class="m x{" on" if on=="track-record.html" else ""}" href="{p}track-record.html">📈 Track record</a>'+m.group(2),h,count=1,flags=re.S)
+    h=re.sub(r'(<nav class="mn">.*?)(</nav>)',lambda m:m.group(1)+f'<a class="m x{" on" if on=="methodology.html" else ""}" href="{p}methodology.html">📐 Method</a><a class="m x{" on" if on=="track-record.html" else ""}" href="{p}track-record.html">📈 Track record</a><a class="m x{" on" if on=="insights.html" else ""}" href="{p}insights.html">🏆 Top 5 & Inferences</a>'+m.group(2),h,count=1,flags=re.S)
     h=re.sub(r'(<nav class="mn">.*?</nav>)',lambda m:re.sub(r'href="(research|results|opportunities)\.html"',lambda k:f'href="{p if p else ""}{k.group(1)}.html"' if False else k.group(0),m.group(1)),h,count=1,flags=re.S)
     return h.replace('</body>',bn+'</body>',1)
 _shell4=shell
@@ -589,11 +589,11 @@ CSS3+=""".ptabs{display:flex;gap:6px;overflow-x:auto;scroll-snap-type:x mandator
 .drw-bg{position:fixed;inset:0;background:#000a;z-index:90;display:none}.drw-bg.open{display:block}.drw{position:fixed;top:0;right:0;bottom:0;width:min(760px,100%);background:#0a111c;border-left:1px solid var(--bd);z-index:91;display:flex;flex-direction:column;transform:translateX(100%);transition:transform .22s;visibility:hidden}.drw.open{transform:none;visibility:visible}
 .drw header{display:flex;gap:10px;align-items:flex-start;padding:12px 14px 6px;border-bottom:1px solid var(--bd)}.drw header h2{font-size:1.05em;margin:0;flex:1;line-height:1.3}.drw .x{background:#1a2638;border:1px solid var(--bd);color:var(--tx);border-radius:50%;width:38px;height:38px;font-size:1.1em;cursor:pointer;flex:0 0 auto}
 .dtabs{display:flex;gap:6px;overflow-x:auto;padding:8px 14px;border-bottom:1px solid var(--bd);scrollbar-width:none}.dtabs::-webkit-scrollbar{display:none}.dbody{overflow-y:auto;padding:12px 16px 30px;flex:1;overscroll-behavior:contain}.dbody article.ri{margin:0!important;border:0;background:none;padding:0}
-.dpanel[hidden]{display:none}.dnav{display:flex;justify-content:space-between;gap:8px;padding:8px 14px;border-top:1px solid var(--bd)}.dnav button{background:#0c1422;color:var(--tx);border:1px solid var(--bd);border-radius:99px;padding:6px 12px;font:inherit;font-size:.85em;cursor:pointer}
+.ttabs{display:flex;flex-wrap:wrap;gap:6px;padding:6px 0 10px;scrollbar-width:none}.ttabs button{flex:0 0 auto;background:#0c1422;color:var(--tx);border:1px solid var(--bd);border-radius:99px;padding:6px 12px;font:inherit;font-size:.82em;cursor:pointer}.ttabs button[aria-pressed=true]{background:#2ecc71;color:#05200f;border-color:#2ecc71;font-weight:700}.dpanel[hidden]{display:none}.dnav{display:flex;justify-content:space-between;gap:8px;padding:8px 14px;border-top:1px solid var(--bd)}.dnav button{background:#0c1422;color:var(--tx);border:1px solid var(--bd);border-radius:99px;padding:6px 12px;font:inherit;font-size:.85em;cursor:pointer}
 .oppc .oc-x{display:none}.oppc td,.oppc th{vertical-align:top}.ox{background:none;border:1px solid var(--bd);color:var(--g);border-radius:99px;padding:2px 10px;font:inherit;font-size:.8em;cursor:pointer;margin-top:4px}.odet td{background:#0b121d}.odet .og{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:10px}.odet .og b{display:block;font-size:.8em;color:var(--tx3);text-transform:uppercase;letter-spacing:.05em}
 details.flt>summary{cursor:pointer;padding:6px 0;font-weight:700}.t30{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}.t30 .card{padding:10px 12px;margin:0}.t30 .card b{display:block}.homtop{display:grid;grid-template-columns:1.15fr 1fr;gap:14px;align-items:start}.homtop .botd{display:block;margin:0}.homtop .botd .art{display:none}.t30l{list-style:none;padding:0;margin:0}.t30l li{padding:7px 0;border-bottom:1px solid var(--bd);font-size:.92em}.qt a small{display:none!important}.qt{display:grid;grid-template-columns:repeat(8,1fr);margin:0 0 12px!important;gap:10px;margin:12px 0}.qt a{background:var(--card);border:1px solid var(--bd);border-radius:14px;padding:10px 6px;text-align:center;font-size:.88em;text-decoration:none;color:inherit;display:block}.qt a:hover{border-color:var(--g)}.qt span{font-size:1.5em;display:block}.qt small{color:var(--tx3);display:block}
 .hero{padding:22px 20px 14px!important}.hero h1{font-size:clamp(1.5em,3vw,2.1em)!important;margin:.25em 0!important}.hero .hook{margin:.3em 0 .6em!important}.hero .btn{padding:8px 14px;font-size:.9em}.wn{padding:8px 12px!important;font-size:.88em}.botd.c6{padding:14px}.botd.c6 h2{font-size:1.25em}.botd.c6 p{margin:.4em 0}.dbody [data-p=overview]>h3{display:none}.hero.compact{padding:22px 20px 10px}.hero.compact h1{font-size:clamp(1.4em,3.4vw,2.1em);margin:.2em 0}.hero.compact .hook{margin:.3em 0}.botd.c6{margin:10px 0}.botd.c6 .art{max-height:220px}
-body.v6t .layout{display:block}body.v6t .layout .toc{display:none}@media(max-width:700px){.t30{grid-template-columns:1fr 1fr}.qt{grid-template-columns:1fr 1fr}.ptabs{top:50px}.drw{top:auto;height:88vh;width:100%;border-left:0;border-top:1px solid var(--bd);border-radius:18px 18px 0 0;transform:translateY(100%)}.drw.open{transform:none}.drw header:before{content:"";position:absolute;left:50%;top:6px;width:44px;height:4px;margin-left:-22px;border-radius:99px;background:#3a4a60}.drw header{position:relative;padding-top:16px}.rgrid{grid-template-columns:1fr 1fr;gap:8px}body .rc .hk{display:none!important}.homtop{grid-template-columns:1fr!important}.qt{grid-template-columns:repeat(4,1fr)!important}.qt a{padding:8px 4px;font-size:.78em}.rc h3{font-size:.85em}.rc .rb{padding:8px}#opp .oc-m{display:none!important}.oc-mm{display:block}.hero{padding:16px 14px 10px!important}.hero h1{font-size:1.5em!important;margin:.2em 0!important}.hero .hook{font-size:1em!important;margin:.3em 0!important}.hero .pill{font-size:.72em}.botd.c6 .art{display:none}.layout .toc{display:none}}"""
+body.v6t .layout{display:block}body.v6t .layout .toc{display:none}@media(max-width:700px){.ttabs{flex-wrap:nowrap;overflow-x:auto;-webkit-mask-image:linear-gradient(90deg,#000 88%,transparent)}.t30{grid-template-columns:1fr 1fr}.qt{grid-template-columns:1fr 1fr}.ptabs{top:50px}.drw{top:auto;height:88vh;width:100%;border-left:0;border-top:1px solid var(--bd);border-radius:18px 18px 0 0;transform:translateY(100%)}.drw.open{transform:none}.drw header:before{content:"";position:absolute;left:50%;top:6px;width:44px;height:4px;margin-left:-22px;border-radius:99px;background:#3a4a60}.drw header{position:relative;padding-top:16px}.rgrid{grid-template-columns:1fr 1fr;gap:8px}body .rc .hk{display:none!important}.homtop{grid-template-columns:1fr!important}.qt{grid-template-columns:repeat(4,1fr)!important}.qt a{padding:8px 4px;font-size:.78em}.rc h3{font-size:.85em}.rc .rb{padding:8px}#opp .oc-m{display:none!important}.oc-mm{display:block}.hero{padding:16px 14px 10px!important}.hero h1{font-size:1.5em!important;margin:.2em 0!important}.hero .hook{font-size:1em!important;margin:.3em 0!important}.hero .pill{font-size:.72em}.botd.c6 .art{display:none}.layout .toc{display:none}}"""
 JS6=r"""(function(){
 const $=(s,r=document)=>r.querySelector(s),$$=(s,r=document)=>[...r.querySelectorAll(s)];
 const T=window.TABS6||[];let main=$('main');if(!main)return;
@@ -621,13 +621,13 @@ function restructure(a){const ps={};PAN.forEach(([k,l])=>{const d=document.creat
  const g=ps.scores.querySelector('.grid');if(g){const w=g.children[3];if(w)ps.investors.appendChild(w.cloneNode(true))}
  const ol=OPPS[a.id];if(ol&&ol.length){const d=document.createElement('div');d.className='card';d.innerHTML='<b>🎯 Linked opportunities</b><ul>'+ol.map(o=>`<li><a href="${PFX}opportunities.html#${o[0]}">${o[1]}</a> · ${o[2]} conviction</li>`).join('')+'</ul>';ps.investors.appendChild(d)}
  const dl=ps.overview.querySelector('.dline');const h=document.createElement('div');h.innerHTML=`<p><b>First seen:</b> ${a.dataset.f} · <b>Last updated:</b> ${a.dataset.u}</p>`;if(dl){const hm=dl.querySelector('div.meta');if(hm)h.appendChild(hm.cloneNode(true));else h.insertAdjacentHTML('beforeend','<p class="meta">Only one issue so far for this item; history grows with each daily issue.</p>');h.appendChild(dl.querySelector('span.meta').cloneNode(true))}
- ps.history.appendChild(h);PAN.forEach(([k])=>a.appendChild(ps[k]))}
+ ps.history.appendChild(h);if(typeof TOPS!='undefined'&&TOPS[a.id]&&TOPS[a.id][1]){const pl=TOPS[a.id][1],col=pl=='Small bet'?'#2ecc71':pl=='Wait'?'#ff5c5c':'#f5c542';const q=document.createElement('div');q.className='card';q.innerHTML=`<b>🧭 Investing plan (our judgment): <span style="color:${col}">${pl}</span></b><p class="meta">Watch = follow the news · Small bet = only money you can afford to lose · Wait = too early. Not financial advice.</p>`;ps.investors.prepend(q)}if(typeof VIDS!='undefined'&&VIDS[a.id]!=null){const v=document.createElement('div');v.className='card vidc';const n=VIDS[a.id].split('\n\n').slice(1);v.innerHTML=`<b>🎬 1-minute explainer</b><video controls preload="metadata" playsinline src="${PFX}videos/${a.id}.mp4" style="width:100%;max-height:60vh;border-radius:12px;background:#000;margin-top:6px"></video><details open><summary>🎙️ Voiceover notes</summary>${n.map(x=>{const[l,...r]=x.split('\n');return `<p><b>${l}</b><br>${r.join(' ')}</p>`}).join('')}</details>`;ps.overview.prepend(v)}PAN.forEach(([k])=>a.appendChild(ps[k]))}
 function hookOf(a){const p=a.querySelector('p.adult');let t=p?p.textContent.replace(/^What they found:\s*/,''):'';t=t.split(/(?<=\.)\s/)[0];return t.length>150?t.slice(0,147)+'…':t}
 function card(a){const h=a.querySelector('h3').textContent.replace(/^\d+\.\s*/,''),img=a.querySelector('img.art'),st=a.querySelector('.st'),m=(a.textContent.match(/Readiness\s*(\d+)\/100/)||[])[1]||'0';
  const col=m>=60?'#2ecc71':m>=35?'#f5c542':'#ff5c5c',nw=a.querySelector('.newt'),eli=a.querySelector('p.eli');const c=document.createElement('a');c.className='rc';c.href='#'+a.id;c.dataset.id=a.id;
  c.innerHTML=`${img?`<img src="${img.getAttribute('src')}" alt="" loading="lazy" width="640" height="220">`:''}<div class="rb"><div>${st?st.outerHTML:''} ${nw?'<span class="pill newt nb">🆕 New</span>':(a.dataset.u==ISSUE?'<span class="pill nb">✏️ Updated</span>':'')}</div><h3>${h}</h3><p class="hk adult">${hookOf(a)}</p><p class="hk eli">${eli?eli.textContent.replace(/^🧒\s*Like I'm 10:\s*/,''):''}</p><div class="rr"><span>Readiness <b style="color:${col}">${m}</b>/100</span><span>${a.dataset.a}</span></div><div class="rbar"><i style="width:${m}%;background:${col}"></i></div></div>`;
  c.setAttribute('aria-label',h+', readiness '+m+' of 100. Open details');return c}
-function sync(){if(!grid)return;let n=0;$$('.rc',grid).forEach(c=>{const a=document.getElementById(c.dataset.id)||ph[c.dataset.id];const hid=(a&&a.style.display=='none')||(cur=='today'&&!c.querySelector('.newt'));c.hidden=hid;if(!hid)n++;if(a&&a.classList.contains('nv'))c.classList.add('nv')});
+function sync(){if(!grid)return;let n=0;$$('.rc',grid).forEach(c=>{const a=document.getElementById(c.dataset.id)||ph[c.dataset.id];const hid=(a&&a.style.display=='none')||(cur=='today'&&!c.querySelector('.newt'))||(window.TOP&&(TOPS[c.dataset.id]||['Chips'])[0]!=TOP);c.hidden=hid;if(!hid)n++;if(a&&a.classList.contains('nv'))c.classList.add('nv')});
  let e=$('#v6empty');if(!e){e=document.createElement('p');e.id='v6empty';e.className='card';grid.after(e)}e.hidden=n>0;e.textContent=cur=='today'?'No new items match these filters today. Try “All tracked”.':'No items match these filters.';const fc=$('#fc');if(fc)fc.textContent=n+' shown'}
 function sub(k,push){if(!openId)return;const a=document.getElementById(openId);$$('.dpanel',a).forEach(p=>p.hidden=p.dataset.p!=k);$$('[role=tab]',drw).forEach(b=>{const s=b.dataset.p==k;b.setAttribute('aria-selected',s);b.tabIndex=s?0:-1;if(s){const tl=b.parentNode;tl.scrollLeft=Math.max(0,b.offsetLeft-tl.offsetLeft-20)}});$('.dbody',drw).scrollTop=0;if(push)history.replaceState(null,'','#'+openId+(k=='overview'?'':'--'+k))}
 function openItem(id,k){const a=document.getElementById(id);if(!a||!drw)return;if(openId&&openId!=id)closeItem(1);if(openId!=id){lastFocus=document.activeElement;ph[id]=document.createComment(id);a.before(ph[id]);a.classList.remove('v6src');$('.dbody',drw).appendChild(a);openId=id;$('h2',drw).textContent=a.querySelector('h3').textContent;
@@ -635,7 +635,7 @@ function openItem(id,k){const a=document.getElementById(id);if(!a||!drw)return;i
  sub(k||'overview');bg.classList.add('open');drw.classList.add('open');drw.setAttribute('aria-hidden','false');document.body.style.overflow='hidden';const ids=vis(),i=ids.indexOf(id);$('.pv',drw).disabled=i<=0;$('.nx',drw).disabled=i<0||i>=ids.length-1;setTimeout(()=>$('.x',drw).focus(),30)}
 function closeItem(keep){if(!openId)return;const a=document.getElementById(openId);a.classList.add('v6src');ph[openId].replaceWith(a);delete ph[openId];openId=null;if(keep)return;bg.classList.remove('open');drw.classList.remove('open');drw.setAttribute('aria-hidden','true');document.body.style.overflow='';history.replaceState(null,'','#tab-'+(cur||'all'));if(lastFocus&&lastFocus.focus)lastFocus.focus()}
 function vis(){return $$('.rc',grid).filter(c=>!c.hidden).map(c=>c.dataset.id)}
-if(arts.length){const sec=$('#items');grid=document.createElement('div');grid.className='rgrid';grid.setAttribute('aria-label','Research items');arts[0].before(grid);
+if(arts.length){const sec=$('#items');grid=document.createElement('div');grid.className='rgrid';grid.setAttribute('aria-label','Research items');arts[0].before(grid);if(typeof TOPS!='undefined'){const ic={'All':'🌐','Chips':'💾','Medical/Biotech':'💉','Neuro/BCI':'🧠','Superintelligence/AI':'🤖','Quantum':'⚛️','Materials/Energy':'🔋','DNA data storage':'🧬','Space/Rockets':'🚀'};const ts=['All',...new Set(Object.values(TOPS).map(x=>x[0]))];const tb=document.createElement('nav');tb.className='ttabs';tb.setAttribute('aria-label','Topics');tb.innerHTML=ts.map(t=>{const c=t=='All'?Object.keys(TOPS).length:Object.values(TOPS).filter(x=>x[0]==t).length;return `<button data-t="${t}" aria-pressed="${t=='All'}">${ic[t]||'•'} ${t} <small>${c}</small></button>`}).join('');grid.before(tb);const pick=t=>{window.TOP=t=='All'?null:t;$$('button',tb).forEach(x=>x.setAttribute('aria-pressed',x.dataset.t==t));sync()};tb.onclick=e=>{const x=e.target.closest('button');if(x){pick(x.dataset.t);history.replaceState(null,'','#topic-'+encodeURIComponent(x.dataset.t))}};const m=location.hash.match(/^#topic-(.+)/);if(m)setTimeout(()=>pick(decodeURIComponent(m[1])),0)}
  arts.forEach(a=>{grid.appendChild(card(a));restructure(a);a.classList.add('v6src');a.removeAttribute('style')});
  bg=document.createElement('div');bg.className='drw-bg';bg.onclick=()=>closeItem();drw=document.createElement('div');drw.className='drw';drw.setAttribute('role','dialog');drw.setAttribute('aria-modal','true');drw.setAttribute('aria-hidden','true');drw.setAttribute('aria-label','Research item details');
  drw.innerHTML='<header><h2></h2><button class="x" aria-label="Close (Esc)">✕</button></header><div class="dtabs" role="tablist" aria-label="Item sections">'+PAN.map(([k,l])=>`<button role="tab" data-p="${k}">${l}</button>`).join('')+'</div><div class="dbody"></div><div class="dnav"><button class="pv">◀ Previous</button><button class="nx">Next ▶</button></div>';
@@ -674,13 +674,19 @@ if(T.length){const nw=grid?$$('.newt',grid).length:1;setTab(T[0][0]=='today'&&!n
 route();if(grid)sync();
 })();"""
 _shell5=shell
+def _vids():
+    V={}
+    for f in glob.glob(os.path.join(os.path.dirname(os.path.abspath(__file__)),'videos','*.mp4')):
+        i=os.path.basename(f)[:-4];t=f[:-4]+'.txt'
+        if os.path.exists(t): V[i]=open(t).read()
+    return V
 def shell(d,url,p,on,title,hero,body,toc):
     h=_shell5(d,url,p,on,title,hero,body,toc)
     O={}
     for o in d["opportunities"]:
         for l in o["links"]:O.setdefault(l,[]).append([o["id"],E(o["name"]),o["conv"]])
     h=h.replace('<div class="botd">','<div class="botd c6">',1)
-    cfg=f'<script>window.TABS6={json.dumps(TABS6.get(on,[]))};const OPPS={json.dumps(O)},PFX="{p}",ISSUE="{d["date"]}";</script>'
+    cfg=f'<script>window.TABS6={json.dumps(TABS6.get(on,[]))};const VIDS={json.dumps(_vids())},TOPS={json.dumps({r['id']:[r.get('topic','Chips'),r.get('plan','')] for r in d['research']})},OPPS={json.dumps(O)},PFX="{p}",ISSUE="{d["date"]}";</script>'
     return h.replace('</body>',cfg+f'<script>{JS6}</script></body>',1)
 def home6():
     L=ALL[-1];ix=open("index.html").read()
@@ -716,4 +722,48 @@ def home6():
 _main5=main
 def main():
     _main5();home6()
+
+# ---------- v10: topic art, topic stage ladders, OG image ----------
+from art2 import topic_art,stage_name,LADDERS
+def make_assets(L):
+    for f in sorted(glob.glob("data/20*.json")):
+        for r in json.load(open(f))["research"]:open(f'assets/{r["id"]}.svg',"w").write(topic_art(r))
+    open("assets/hero.svg","w").write(art("hero-frontier","light",1200,420))
+def _relabel():
+    T={}
+    for f in sorted(glob.glob("data/20*.json")):
+        for r in json.load(open(f))["research"]:T[r["id"]]=r.get("topic","Chips")
+    T={k:v for k,v in T.items() if v!="Chips"}
+    for fn in glob.glob("*.html")+glob.glob("20*/*.html"):
+        h=open(fn).read();o=h
+        for i,t in T.items():
+            for m in list(re.finditer(rf'(?:id="{re.escape(i)}"|#{re.escape(i)}"|data-id="{re.escape(i)}")',h)):
+                seg=h[m.end():m.end()+1500]
+                mm=re.search(r'Stage (\d) · [^<]+</span>',seg)
+                if mm and mm.start()<1200:
+                    n=int(mm.group(1));new=f'Stage {n} · {stage_name(t,n)}</span>'
+                    h=h[:m.end()+mm.start()]+new+h[m.end()+mm.end():]
+        for bm in re.finditer(r'BREAKTHROUGH OF THE DAY',h):
+            seg=h[bm.end():bm.end()+3000]
+            for i,t in T.items():
+                if f'{i}' in seg[:3000]:
+                    mm=re.search(r'Stage (\d) · [^<]+</span>',seg)
+                    if mm: n=int(mm.group(1));h=h[:bm.end()+mm.start()]+f'Stage {n} · {stage_name(t,n)}</span>'+h[bm.end()+mm.end():]
+                    break
+        if h!=o:open(fn,"w").write(h)
+def _og():
+    import cairosvg
+    L=json.load(open(sorted(glob.glob("data/20*.json"))[-1]));b=L["botd"]["id"];r=next(x for x in L["research"] if x["id"]==b)
+    cairosvg.svg2png(bytestring=topic_art(r,1200,630).encode(),write_to="og-image.png")
+_main10=main
+def main():
+    import insights;insights.build(page)
+    _main10();_relabel();_og();_meth()
+def _meth():
+    h=open("methodology.html").read()
+    if 'id="ladders"' in h: return
+    rows="".join(f"<tr><td><b>{E(t)}</b></td>"+"".join(f"<td>{E(x)}</td>" for x in L)+"</tr>" for t,L in LADDERS.items())
+    sec=f'<section id="ladders" class="card"><h2>Stage ladders by topic</h2><p class="lead">The readiness score and stage use the same formula for every topic. Only the stage names change, so they read naturally in each field. Stage 1 = evidence 0–1, Stage 2 = 2–3, Stage 3 = 4 (volume / in use), Stage 4 = 5 (revenue / approved). Mapping names to topics is our judgment.</p><div style="overflow-x:auto"><table><tr><th>Topic</th><th>Stage 1</th><th>Stage 2</th><th>Stage 3</th><th>Stage 4</th></tr>{rows}</table></div><p class="meta">How to read readiness: under 35 = early (usually Wait), 35–59 = proving out (usually Watch), 60+ = near or in market (Watch or Small bet). The plan on each card is a judgment call, not financial advice.</p></section>'
+    k=h.rfind("</main>");k=k if k>0 else h.rfind("<footer")
+    open("methodology.html","w").write(h[:k]+sec+h[k:])
 if __name__=="__main__":main()

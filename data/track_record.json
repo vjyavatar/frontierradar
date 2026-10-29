@@ -678,5 +678,740 @@
   "ready": 67,
   "call": "Watch conviction",
   "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "research",
+  "id": "dna-gungnir",
+  "name": "HKU's 'Gungnir' code recovers data from DNA damaged like 400-year-old archives",
+  "stage": 1,
+  "ready": 28,
+  "call": "Readiness 28, 4-8 yrs to market",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "research",
+  "id": "dna-sam",
+  "name": "DNA-SaM: a DNA storage system tested in the lab and in living cells with 100% recovery",
+  "stage": 1,
+  "ready": 28,
+  "call": "Readiness 28, 4-8 yrs to market",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "research",
+  "id": "dna-chip",
+  "name": "A porous silica chip writes 11× more DNA per spot, a step to cheaper 'DNA drives'",
+  "stage": 1,
+  "ready": 34,
+  "call": "Readiness 34, 2-6 yrs to market",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "research",
+  "id": "q-google-magic",
+  "name": "Google shows 'magic state cultivation' on its Willow chip, cutting errors about 40×",
+  "stage": 2,
+  "ready": 46,
+  "call": "Readiness 46, 3-6 yrs to market",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "research",
+  "id": "q-quantinuum",
+  "name": "Quantinuum reports 99.9995% logical fidelity on Helios, five errors per million",
+  "stage": 2,
+  "ready": 54,
+  "call": "Readiness 54, 2-4 yrs to market",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "research",
+  "id": "q-iqm-54",
+  "name": "IQM entangles all 54 qubits on its cloud Emerald chip at once",
+  "stage": 3,
+  "ready": 67,
+  "call": "Readiness 67, 0-2 yrs to market",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "research",
+  "id": "bio-prime",
+  "name": "First prime edit inside a human body: Prime Medicine treats a Wilson's disease patient",
+  "stage": 2,
+  "ready": 43,
+  "call": "Readiness 43, 3-6 yrs to market",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "research",
+  "id": "bio-dmd",
+  "name": "A gene-editing trial for Duchenne muscular dystrophy shows a narrow safety window",
+  "stage": 2,
+  "ready": 32,
+  "call": "Readiness 32, 3-6 yrs to market",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "research",
+  "id": "bio-zeta",
+  "name": "Switching back on a baby-stage gene could treat severe alpha-thalassemia",
+  "stage": 1,
+  "ready": 30,
+  "call": "Readiness 30, 4-8 yrs to market",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "research",
+  "id": "neuro-coma",
+  "name": "A bedside brain-wave cap let 1 in 3 'unresponsive' patients control a sound",
+  "stage": 2,
+  "ready": 44,
+  "call": "Readiness 44, 1-4 yrs to market",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "research",
+  "id": "neuro-neuralink",
+  "name": "Neuralink pretrains its brain decoder on 50,000 hours of recordings",
+  "stage": 2,
+  "ready": 39,
+  "call": "Readiness 39, 3-6 yrs to market",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "research",
+  "id": "neuro-precision",
+  "name": "Precision Neuroscience pools 70 patients into one map of the human nervous system",
+  "stage": 2,
+  "ready": 37,
+  "call": "Readiness 37, 3-6 yrs to market",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "research",
+  "id": "ai-muse",
+  "name": "Meta's superintelligence lab ships its first frontier model, Muse Wonder",
+  "stage": 3,
+  "ready": 78,
+  "call": "Readiness 78, 0-2 yrs to market",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "research",
+  "id": "ai-genie4",
+  "name": "Google DeepMind's Genie 4 generates interactive worlds with sound and dialogue",
+  "stage": 2,
+  "ready": 45,
+  "call": "Readiness 45, 3-6 yrs to market",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "research",
+  "id": "ai-muse-open",
+  "name": "Meta releases Muse Spark Open, which it calls the most capable US open-weight model",
+  "stage": 3,
+  "ready": 78,
+  "call": "Readiness 78, 0-2 yrs to market",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "research",
+  "id": "en-oxyhalide",
+  "name": "A new solid electrolyte keeps 81% capacity after 2,000 fast charges at high voltage",
+  "stage": 1,
+  "ready": 32,
+  "call": "Readiness 32, 4-8 yrs to market",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "research",
+  "id": "en-tandem",
+  "name": "Two-sided perovskite-silicon solar cells keep 90% efficiency after 1,000 hot hours",
+  "stage": 1,
+  "ready": 32,
+  "call": "Readiness 32, 4-8 yrs to market",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "research",
+  "id": "en-helena",
+  "name": "EU's HELENA project makes halide solid-state battery pouch cells",
+  "stage": 2,
+  "ready": 41,
+  "call": "Readiness 41, 3-6 yrs to market",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "research",
+  "id": "sp-starship15",
+  "name": "SpaceX plans to catch both Starship stages on Flight 15",
+  "stage": 3,
+  "ready": 74,
+  "call": "Readiness 74, 0-2 yrs to market",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "research",
+  "id": "sp-neutron",
+  "name": "Rocket Lab pushes Neutron's first launch to 2027 after finding flaws in fuel-tank domes",
+  "stage": 2,
+  "ready": 41,
+  "call": "Readiness 41, 3-6 yrs to market",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "research",
+  "id": "sp-newglenn",
+  "name": "Blue Origin plans new Florida launch pads to raise New Glenn's flight rate",
+  "stage": 3,
+  "ready": 70,
+  "call": "Readiness 70, 0-2 yrs to market",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "research",
+  "id": "psiq-ocs",
+  "name": "PsiQuantum shows a light-based switch that rewires AI data-centre networks in 3 ms",
+  "stage": 2,
+  "ready": 46,
+  "call": "Readiness 46, 1-4 yrs to market",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "research",
+  "id": "duopd",
+  "name": "DuoPD: small compute units inside HBM4 memory could make AI chatbots answer up to 2.2× faster",
+  "stage": 1,
+  "ready": 27,
+  "call": "Readiness 27, 4-8 yrs to market",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "research",
+  "id": "bfo-thin",
+  "name": "Brown University: a magnetic-electric material that keeps working at 1.6 nm, a step toward ultra-low-power memory",
+  "stage": 1,
+  "ready": 16,
+  "call": "Readiness 16, 6-10 yrs to market",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "research",
+  "id": "agilex27",
+  "name": "Altera launches Agilex 2X FPGAs with 1.8× better performance per watt for AI infrastructure",
+  "stage": 2,
+  "ready": 67,
+  "call": "Readiness 67, 2-4 yrs to market",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "research",
+  "id": "ceva-npu",
+  "name": "Ceva unveils next-gen NeuPro AI engines (2× throughput per mm²) and enters AI infrastructure",
+  "stage": 2,
+  "ready": 66,
+  "call": "Readiness 66, 2-4 yrs to market",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "research",
+  "id": "neurophos",
+  "name": "Computing with light instead of electricity (optical AI chip)",
+  "stage": 2,
+  "ready": 31,
+  "call": "Readiness 31, 3-6 yrs to market",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "research",
+  "id": "volantis",
+  "name": "A light-based 'highway' between AI chip and memory",
+  "stage": 1,
+  "ready": 32,
+  "call": "Readiness 32, 4-8 yrs to market",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "research",
+  "id": "ibm-superpose",
+  "name": "Storing many values in one memory spot (superposed analog memory)",
+  "stage": 1,
+  "ready": 19,
+  "call": "Readiness 19, 6-10 yrs to market",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "research",
+  "id": "micron-split",
+  "name": "Making noisy analog AI chips accurate (weight splitting)",
+  "stage": 1,
+  "ready": 35,
+  "call": "Readiness 35, 4-8 yrs to market",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "research",
+  "id": "modulator",
+  "name": "A light switch sending 200 billion bits per second per colour",
+  "stage": 1,
+  "ready": 36,
+  "call": "Readiness 36, 2-6 yrs to market",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "research",
+  "id": "cfet2d",
+  "name": "Stacking atom-thin transistors on top of each other (2D CFETs)",
+  "stage": 1,
+  "ready": 16,
+  "call": "Readiness 16, 6-10 yrs to market",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "research",
+  "id": "hybridbond",
+  "name": "Gluing chips together copper-to-copper (hybrid bonding)",
+  "stage": 3,
+  "ready": 80,
+  "call": "Readiness 80, 0-2 yrs to market",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "research",
+  "id": "glass",
+  "name": "Glass replacing plastic under AI chips (glass substrates)",
+  "stage": 2,
+  "ready": 52,
+  "call": "Readiness 52, 2-4 yrs to market",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "research",
+  "id": "snn-train",
+  "name": "Brain-like chip that can learn on the device (neuromorphic)",
+  "stage": 1,
+  "ready": 28,
+  "call": "Readiness 28, 4-8 yrs to market",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "research",
+  "id": "snn-logic",
+  "name": "One transistor that can be logic, memory or neuron",
+  "stage": 1,
+  "ready": 16,
+  "call": "Readiness 16, 6-10 yrs to market",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "research",
+  "id": "photonic-snn",
+  "name": "Light-powered brain chip: 1,176x faster on vision",
+  "stage": 1,
+  "ready": 16,
+  "call": "Readiness 16, 6-10 yrs to market",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "research",
+  "id": "st-pic",
+  "name": "Silicon photonics reaches high-volume factories",
+  "stage": 3,
+  "ready": 84,
+  "call": "Readiness 84, 0-2 yrs to market",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "opp",
+  "id": "alphabet",
+  "name": "Alphabet",
+  "stage": 2,
+  "ready": 46,
+  "call": "Medium conviction",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "opp",
+  "id": "quantinuum",
+  "name": "Quantinuum",
+  "stage": 2,
+  "ready": 54,
+  "call": "High conviction",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "opp",
+  "id": "iqm-quantum-computers",
+  "name": "IQM Quantum Computers",
+  "stage": 2,
+  "ready": 67,
+  "call": "High conviction",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "opp",
+  "id": "defiance-quantum-etf",
+  "name": "Defiance Quantum ETF",
+  "stage": 2,
+  "ready": 56,
+  "call": "Medium conviction",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "opp",
+  "id": "prime-medicine",
+  "name": "Prime Medicine",
+  "stage": 2,
+  "ready": 43,
+  "call": "High conviction",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "opp",
+  "id": "meta-platforms",
+  "name": "Meta Platforms",
+  "stage": 2,
+  "ready": 78,
+  "call": "High conviction",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "opp",
+  "id": "rocket-lab",
+  "name": "Rocket Lab",
+  "stage": 2,
+  "ready": 41,
+  "call": "Medium conviction",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "opp",
+  "id": "procure-space-etf",
+  "name": "Procure Space ETF",
+  "stage": 2,
+  "ready": 58,
+  "call": "Medium conviction",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "opp",
+  "id": "twist-bioscience",
+  "name": "Twist Bioscience",
+  "stage": 2,
+  "ready": 31,
+  "call": "Watch conviction",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "opp",
+  "id": "aixtron",
+  "name": "Aixtron",
+  "stage": 1,
+  "ready": 16,
+  "call": "Watch conviction",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "opp",
+  "id": "micron",
+  "name": "Micron",
+  "stage": 1,
+  "ready": 27,
+  "call": "Medium conviction",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "opp",
+  "id": "ibiden",
+  "name": "Ibiden",
+  "stage": 2,
+  "ready": 52,
+  "call": "Medium conviction",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "opp",
+  "id": "tata-electronics-fab",
+  "name": "Tata Electronics fab",
+  "stage": 2,
+  "ready": 52,
+  "call": "Watch conviction",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "opp",
+  "id": "coherent",
+  "name": "Coherent",
+  "stage": 2,
+  "ready": 51,
+  "call": "Medium conviction",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "opp",
+  "id": "tower-semiconductor",
+  "name": "Tower Semiconductor",
+  "stage": 2,
+  "ready": 34,
+  "call": "Medium conviction",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "opp",
+  "id": "corning",
+  "name": "Corning",
+  "stage": 2,
+  "ready": 52,
+  "call": "Medium conviction",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "opp",
+  "id": "brainchip",
+  "name": "BrainChip",
+  "stage": 2,
+  "ready": 28,
+  "call": "Speculative conviction",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "opp",
+  "id": "ceva",
+  "name": "Ceva",
+  "stage": 2,
+  "ready": 66,
+  "call": "Medium conviction",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "opp",
+  "id": "globalfoundries",
+  "name": "GlobalFoundries",
+  "stage": 2,
+  "ready": 46,
+  "call": "Medium conviction",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "opp",
+  "id": "altera",
+  "name": "Altera",
+  "stage": 2,
+  "ready": 67,
+  "call": "Watch conviction",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "opp",
+  "id": "besi",
+  "name": "Besi",
+  "stage": 3,
+  "ready": 80,
+  "call": "High conviction",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "opp",
+  "id": "advantest",
+  "name": "Advantest",
+  "stage": 3,
+  "ready": 80,
+  "call": "Medium conviction",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "opp",
+  "id": "kaynes-technology",
+  "name": "Kaynes Technology",
+  "stage": 3,
+  "ready": 35,
+  "call": "Watch conviction",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "opp",
+  "id": "cg-power",
+  "name": "CG Power",
+  "stage": 3,
+  "ready": 80,
+  "call": "Watch conviction",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "opp",
+  "id": "adeia",
+  "name": "Adeia",
+  "stage": 3,
+  "ready": 80,
+  "call": "Medium conviction",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "opp",
+  "id": "stmicroelectronics",
+  "name": "STMicroelectronics",
+  "stage": 3,
+  "ready": 84,
+  "call": "High conviction",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "opp",
+  "id": "sk-hynix",
+  "name": "SK hynix",
+  "stage": 4,
+  "ready": 80,
+  "call": "High conviction",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "opp",
+  "id": "tsmc",
+  "name": "TSMC",
+  "stage": 4,
+  "ready": 52,
+  "call": "Medium conviction",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "opp",
+  "id": "nvidia",
+  "name": "Nvidia",
+  "stage": 4,
+  "ready": 60,
+  "call": "Medium conviction",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "opp",
+  "id": "amd",
+  "name": "AMD",
+  "stage": 4,
+  "ready": 28,
+  "call": "Watch conviction",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "top5",
+  "id": "st-pic",
+  "name": "Silicon photonics reaches high-volume factories",
+  "rank": 1,
+  "stage": 3,
+  "ready": 84,
+  "call": "Top-5 #1: Watch, 0-2 yrs",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "top5",
+  "id": "hybridbond",
+  "name": "Gluing chips together copper-to-copper (hybrid bonding)",
+  "rank": 2,
+  "stage": 3,
+  "ready": 80,
+  "call": "Top-5 #2: Watch, 0-2 yrs",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "top5",
+  "id": "ai-muse",
+  "name": "Meta's superintelligence lab ships its first frontier model, Muse Wonder",
+  "rank": 3,
+  "stage": 3,
+  "ready": 78,
+  "call": "Top-5 #3: Watch, 0-2 yrs",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "top5",
+  "id": "ai-muse-open",
+  "name": "Meta releases Muse Spark Open, which it calls the most capable US open-weight model",
+  "rank": 4,
+  "stage": 3,
+  "ready": 78,
+  "call": "Top-5 #4: Watch, 0-2 yrs",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "top5",
+  "id": "sp-starship15",
+  "name": "SpaceX plans to catch both Starship stages on Flight 15",
+  "rank": 5,
+  "stage": 3,
+  "ready": 74,
+  "call": "Top-5 #5: Watch, 0-2 yrs",
+  "outcome": "pending"
  }
 ]

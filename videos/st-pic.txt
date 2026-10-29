@@ -1,0 +1,26 @@
+FrontierRadar explainer: Silicon photonics reaches high-volume factories
+Issue: 2026-10-30 | Stage 3 · Factories & orders | Readiness 84/100 | Voice: Piper en_US-lessac-medium (local)
+
+HOOK
+Chips that talk using light are already being made in big factories right now.
+
+WHAT IT IS
+Silicon photonics reaches high-volume factories.
+
+WHAT IT DOES
+ST says its PIC100 silicon-photonics process entered high-volume production on 300 mm lines for hyperscalers (800G and 1.6T optical links), with plans to more than quadruple capacity by 2027. Think of it like this: The lab recipe is now on the supermarket shelf.
+
+BEFORE
+The proof point that photonics research becomes revenue: ST is at volume.
+
+AFTER
+Who could benefit: STMicro STM and Coherent COHR.
+
+WHY IT MATTERS
+We rate it Stage 3, Factories & orders, readiness 84 out of 100. The catch: Nvidia networking SVP: 'If you can use copper, use copper' — optics only where distance forces it. Our judgment: watch. Not financial advice.
+
+NEXT
+Full scores and sources at research.celesys.ai.
+
+SOURCES
+ST PIC100 newsroom; GlobeNewswire copy. Judgment calls are labelled. Not financial advice.

@@ -1,0 +1,26 @@
+FrontierRadar explainer: Brain-like chip that can learn on the device (neuromorphic)
+Issue: 2026-10-30 | Stage 1 · Paper | Readiness 28/100 | Voice: Piper en_US-lessac-medium (local)
+
+HOOK
+A chip that works like a tiny brain and can learn new things by itself, without the cloud.
+
+WHAT IT IS
+Brain-like chip that can learn on the device.
+
+WHAT IT DOES
+A brain-style chip design that can train itself directly, demonstrated on FPGA, beating Nvidia's Jetson Orin 1.9-3.3x and using far less memory traffic than an A100 in training. Think of it like this: A student who learns while working instead of going back to school.
+
+BEFORE
+On-device learning for edge AI is a real gap.
+
+AFTER
+Who could benefit: BrainChip BRN.AX and Lattice LSCC.
+
+WHY IT MATTERS
+We rate it Stage 1, Paper, readiness 28 out of 100. The catch: BrainChip, a listed neuromorphic pioneer, reported only US$1.22M revenue and a US$12.0M loss for H1 2026 — commercial demand for brain-like chips is still tiny. Our judgment: watch. Not financial advice.
+
+NEXT
+Full scores and sources at research.celesys.ai.
+
+SOURCES
+Nature Communications. Judgment calls are labelled. Not financial advice.

@@ -1,0 +1,26 @@
+FrontierRadar explainer: HKU's 'Gungnir' code recovers data from DNA damaged like 400-year-old archives
+Issue: 2026-10-30 | Stage 1 · Lab proof | Readiness 28/100 | Voice: Piper en_US-lessac-medium (local)
+
+HOOK
+Scientists store files in DNA.
+
+WHAT IT IS
+HKU's 'Gungnir' code recovers data from DNA damaged like 400-year-old archives.
+
+WHAT IT DOES
+A blockchain-inspired error-correction method uses computing power to guess and verify the original data. Think of it like this: Like rebuilding a torn, faded letter by trying millions of guesses and checking each against a fingerprint until one fits.
+
+BEFORE
+DNA can hold huge amounts of data for centuries, but the molecules decay and reading them adds errors.
+
+AFTER
+Who could benefit: DNA synthesis and sequencing toolmakers and Archive and cloud storage providers.
+
+WHY IT MATTERS
+We rate it Stage 1, Lab proof, readiness 28 out of 100. The catch: Result reported by the university; independent replication not yet shown. Our judgment: wait. Not financial advice.
+
+NEXT
+Full scores and sources at research.celesys.ai.
+
+SOURCES
+HKU Engineering news (Oct 26, 2026). Judgment calls are labelled. Not financial advice.

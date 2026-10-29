@@ -1,0 +1,25 @@
+{
+ "hook": "What if you could buy the blueprint for an AI brain?",
+ "sections": [
+  [
+   "What it is",
+   "Ceva has unveiled its next-generation NeuPro AI engines, and is expanding from edge devices into AI infrastructure."
+  ],
+  [
+   "What it does",
+   "Ceva sells blueprints, not buildings. Chip makers license the AI-engine design and build it into their own chips."
+  ],
+  [
+   "Before",
+   "Without licensable designs, companies had to build an AI engine from scratch to add AI to their chips."
+  ],
+  [
+   "After",
+   "Ceva claims twice the throughput per square millimetre and 50 percent better efficiency. Early access is open now, with general availability planned for Q2 2027. Ceva and chip makers licensing the design could benefit."
+  ],
+  [
+   "Why it matters",
+   "We rate it Stage 2, Prototype, with a readiness score of 66 out of 100. Gains are vendor-claimed, and royalty revenue arrives years later. Our judgment: watch for named licensees. Not financial advice."
+  ]
+ ]
+}

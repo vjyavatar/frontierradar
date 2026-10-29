@@ -1,0 +1,26 @@
+FrontierRadar explainer: Brown University: a magnetic-electric material that keeps working at 1.6 nm, a step toward ultra-low-power memory
+Issue: 2026-10-30 | Stage 1 · Paper | Readiness 16/100 | Voice: Piper en_US-lessac-medium (local)
+
+HOOK
+Can a material thinner than a strand of DNA still keep its magic?
+
+WHAT IT IS
+Brown University and collaborators, in Nature Materials, studied thin films of bismuth ferrite, a material that is both magnetic and electric.
+
+WHAT IT DOES
+They removed the dead layer near the surface, so the material keeps working down to about 1.6 nanometres. Like paint that used to fail if brushed too thin; now even a near-invisible coat still works.
+
+BEFORE
+Until now, very thin films of this material lost their properties near the surface. That blocked the tiny sizes real devices need.
+
+AFTER
+Materials like this could one day let voltage, not current, flip memory bits, cutting energy use. For now, memory and spintronics research labs benefit.
+
+WHY IT MATTERS
+We rate it Stage 1, Paper, with a readiness score of 16 out of 100. The films grow on a rare crystal, not standard silicon. Our judgment: wait. Watch for growth on silicon and a working memory cell. Not financial advice.
+
+NEXT
+Full scores and sources at research.celesys.ai.
+
+SOURCES
+Nature Materials paper (Oct 28, 2026); Brown University news (Oct 28, 2026). Judgment calls are labelled. Not financial advice.

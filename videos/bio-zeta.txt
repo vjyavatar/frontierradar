@@ -1,0 +1,26 @@
+FrontierRadar explainer: Switching back on a baby-stage gene could treat severe alpha-thalassemia
+Issue: 2026-10-30 | Stage 1 · Preclinical | Readiness 30/100 | Voice: Piper en_US-lessac-medium (local)
+
+HOOK
+Babies use a special blood gene before birth.
+
+WHAT IT IS
+Switching back on a baby-stage gene could treat severe alpha-thalassemia.
+
+WHAT IT DOES
+The team found two switches that silence the embryonic zeta-globin gene and edited them to turn it back on. Think of it like this: Like rehiring a retired worker who knows the job, when the current worker can't show up.
+
+BEFORE
+Severe alpha-thalassemia needs lifelong transfusions or stem-cell transplants.
+
+AFTER
+Who could benefit: Gene-editing therapy developers.
+
+WHY IT MATTERS
+We rate it Stage 1, Preclinical, readiness 30 out of 100. The catch: Mouse embryos survived only until late development, not to birth. Our judgment: wait. Not financial advice.
+
+NEXT
+Full scores and sources at research.celesys.ai.
+
+SOURCES
+Nature Genetics paper (Oct 1, 2026). Judgment calls are labelled. Not financial advice.

@@ -1,0 +1,26 @@
+FrontierRadar explainer: Ceva unveils next-gen NeuPro AI engines (2× throughput per mm²) and enters AI infrastructure
+Issue: 2026-10-30 | Stage 2 · Prototype | Readiness 66/100 | Voice: Piper en_US-lessac-medium (local)
+
+HOOK
+What if you could buy the blueprint for an AI brain?
+
+WHAT IT IS
+Ceva has unveiled its next-generation NeuPro AI engines, and is expanding from edge devices into AI infrastructure.
+
+WHAT IT DOES
+Ceva sells blueprints, not buildings. Chip makers license the AI-engine design and build it into their own chips.
+
+BEFORE
+Without licensable designs, companies had to build an AI engine from scratch to add AI to their chips.
+
+AFTER
+Ceva claims twice the throughput per square millimetre and 50 percent better efficiency. Early access is open now, with general availability planned for Q2 2027. Ceva and chip makers licensing the design could benefit.
+
+WHY IT MATTERS
+We rate it Stage 2, Prototype, with a readiness score of 66 out of 100. Gains are vendor-claimed, and royalty revenue arrives years later. Our judgment: watch for named licensees. Not financial advice.
+
+NEXT
+Full scores and sources at research.celesys.ai.
+
+SOURCES
+Ceva press release (Oct 28, 2026). Judgment calls are labelled. Not financial advice.

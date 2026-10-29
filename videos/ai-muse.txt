@@ -1,0 +1,26 @@
+FrontierRadar explainer: Meta's superintelligence lab ships its first frontier model, Muse Wonder
+Issue: 2026-10-30 | Stage 3 · Shipping | Readiness 78/100 | Voice: Piper en_US-lessac-medium (local)
+
+HOOK
+Meta made a new AI that can read, look, listen and help with long jobs.
+
+WHAT IT IS
+Meta's superintelligence lab ships its first frontier model, Muse Wonder.
+
+WHAT IT DOES
+Meta released Muse Wonder and Muse Wonder Full for agents, coding, long workflows and multimodal reasoning. Think of it like this: Like a new head chef who can read a whole cookbook at once and cook while watching, listening and planning the next course.
+
+BEFORE
+Meta frames it as a step toward 'personal superintelligence' under its safety framework.
+
+AFTER
+Who could benefit: Meta Platforms META and AI chip and data-centre suppliers.
+
+WHY IT MATTERS
+We rate it Stage 3, Shipping, readiness 78 out of 100. The catch: Capabilities are company-reported. Our judgment: watch. Not financial advice.
+
+NEXT
+Full scores and sources at research.celesys.ai.
+
+SOURCES
+Meta AI Research blog; Model card. Judgment calls are labelled. Not financial advice.

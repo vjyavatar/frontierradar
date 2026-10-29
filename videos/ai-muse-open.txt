@@ -1,0 +1,26 @@
+FrontierRadar explainer: Meta releases Muse Spark Open, which it calls the most capable US open-weight model
+Issue: 2026-10-30 | Stage 3 · Shipping | Readiness 78/100 | Voice: Piper en_US-lessac-medium (local)
+
+HOOK
+Meta shared an AI brain that anyone can download and use.
+
+WHAT IT IS
+Meta releases Muse Spark Open, which it calls the most capable US open-weight model.
+
+WHAT IT DOES
+Meta released Muse Spark Open as an open-weight model, describing it as the most capable US open-weight model to date. Think of it like this: Like publishing a recipe in full, so any restaurant can cook it and tweak it.
+
+BEFORE
+Open weights let companies run models on their own hardware.
+
+AFTER
+Who could benefit: Meta Platforms META and Companies running AI on their own hardware.
+
+WHY IT MATTERS
+We rate it Stage 3, Shipping, readiness 78 out of 100. The catch: 'Most capable' is a company claim. Our judgment: watch. Not financial advice.
+
+NEXT
+Full scores and sources at research.celesys.ai.
+
+SOURCES
+Meta AI Research blog. Judgment calls are labelled. Not financial advice.

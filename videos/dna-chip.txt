@@ -1,0 +1,26 @@
+FrontierRadar explainer: A porous silica chip writes 11× more DNA per spot, a step to cheaper 'DNA drives'
+Issue: 2026-10-30 | Stage 1 · Lab proof | Readiness 34/100 | Voice: Piper en_US-lessac-medium (local)
+
+HOOK
+Making DNA for storage is slow.
+
+WHAT IT IS
+A porous silica chip writes 11× more DNA per spot, a step to cheaper 'DNA drives'.
+
+WHAT IT DOES
+A porous silica thin film raises on-chip DNA yield to more than 1,821 pmol per cm², over 11 times a flat surface, using chip-making-compatible electrochemistry. Think of it like this: Like turning a flat parking lot into a multi-storey garage: same footprint, many more cars.
+
+BEFORE
+Writing DNA is the costliest step in DNA storage.
+
+AFTER
+Who could benefit: Twist Bioscience TWST and Semiconductor foundries.
+
+WHY IT MATTERS
+We rate it Stage 1, Lab proof, readiness 34 out of 100. The catch: Demonstrated with 121-letter strands in a lab-built system. Our judgment: watch. Not financial advice.
+
+NEXT
+Full scores and sources at research.celesys.ai.
+
+SOURCES
+Microsystems & Nanoengineering paper. Judgment calls are labelled. Not financial advice.

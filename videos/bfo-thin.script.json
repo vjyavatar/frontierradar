@@ -1,0 +1,25 @@
+{
+ "hook": "Can a material thinner than a strand of DNA still keep its magic?",
+ "sections": [
+  [
+   "What it is",
+   "Brown University and collaborators, in Nature Materials, studied thin films of bismuth ferrite, a material that is both magnetic and electric."
+  ],
+  [
+   "What it does",
+   "They removed the dead layer near the surface, so the material keeps working down to about 1.6 nanometres. Like paint that used to fail if brushed too thin; now even a near-invisible coat still works."
+  ],
+  [
+   "Before",
+   "Until now, very thin films of this material lost their properties near the surface. That blocked the tiny sizes real devices need."
+  ],
+  [
+   "After",
+   "Materials like this could one day let voltage, not current, flip memory bits, cutting energy use. For now, memory and spintronics research labs benefit."
+  ],
+  [
+   "Why it matters",
+   "We rate it Stage 1, Paper, with a readiness score of 16 out of 100. The films grow on a rare crystal, not standard silicon. Our judgment: wait. Watch for growth on silicon and a working memory cell. Not financial advice."
+  ]
+ ]
+}

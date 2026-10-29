@@ -1,0 +1,26 @@
+FrontierRadar explainer: Stacking atom-thin transistors on top of each other (2D CFETs)
+Issue: 2026-10-30 | Stage 1 · Paper | Readiness 16/100 | Voice: Piper en_US-lessac-medium (local)
+
+HOOK
+Making transistors from sheets just one atom thick and stacking them like pancakes.
+
+WHAT IT IS
+Stacking atom-thin transistors on top of each other.
+
+WHAT IT DOES
+imec tested whether transistors made of atom-thin materials and stacked in pairs beat silicon at the ~2026+ 'A2' node. Think of it like this: A thinner wall doesn't help if the doors and hallways are the bottleneck.
+
+BEFORE
+A sober reality-check paper: 2D CFETs are a 2030s story.
+
+AFTER
+Who could benefit: ASML and Applied Materials AMAT.
+
+WHY IT MATTERS
+We rate it Stage 1, Paper, readiness 16 out of 100. The catch: No fab today grows 2D-material layers at wafer scale with chip-grade yield. Our judgment: watch. Not financial advice.
+
+NEXT
+Full scores and sources at research.celesys.ai.
+
+SOURCES
+arXiv 2607.12707; Related: MoS2/WSe2 CFET (Applied Physics Letters, 2026-08-24). Judgment calls are labelled. Not financial advice.

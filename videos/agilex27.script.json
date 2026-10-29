@@ -1,0 +1,25 @@
+{
+ "hook": "What if you could rebuild a chip after you bought it?",
+ "sections": [
+  [
+   "What it is",
+   "Altera has launched its Agilex 2X family of FPGA chips, led by Agilex 27, for AI infrastructure, networking and edge devices."
+  ],
+  [
+   "What it does",
+   "An FPGA is a chip you can re-wire after you buy it, like Lego you can rebuild for each new AI job."
+  ],
+  [
+   "Before",
+   "AI networking and pre-processing change too fast for custom chips, so FPGAs fill those gaps. The previous generation used more power for the same work."
+  ],
+  [
+   "After",
+   "Altera claims 1.8 times better performance per watt. Altera and network and telecom equipment makers could benefit."
+  ],
+  [
+   "Why it matters",
+   "We rate it Stage 2, Prototype, with a readiness score of 67 out of 100. The figure is vendor-claimed, and Altera is private, so there is no direct listed stock. Our judgment: watch for customer design wins and shipment dates. Not financial advice."
+  ]
+ ]
+}

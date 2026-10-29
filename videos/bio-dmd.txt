@@ -1,0 +1,26 @@
+FrontierRadar explainer: A gene-editing trial for Duchenne muscular dystrophy shows a narrow safety window
+Issue: 2026-10-30 | Stage 2 · Early trial (Ph 1/2) | Readiness 32/100 | Voice: Piper en_US-lessac-medium (local)
+
+HOOK
+Scientists tried fixing a muscle disease gene.
+
+WHAT IT IS
+A gene-editing trial for Duchenne muscular dystrophy shows a narrow safety window.
+
+WHAT IT DOES
+A single-virus-delivered editor restored some dystrophin in four boys, but benefit was limited and one boy on the high dose died of a treatment-related immune reaction. Think of it like this: Like a delivery truck that gets the parcel inside, but the truck itself can set off the building's alarm system.
+
+BEFORE
+Gene editing delivered by AAV virus works in animals, but human immune reactions can be fatal at high doses.
+
+AFTER
+Who could benefit: Patients, through safer future trial designs.
+
+WHY IT MATTERS
+We rate it Stage 2, Early trial (Ph 1/2), readiness 32 out of 100. The catch: Limited benefit and one death. Our judgment: wait. Not financial advice.
+
+NEXT
+Full scores and sources at research.celesys.ai.
+
+SOURCES
+Cell paper; Nature news. Judgment calls are labelled. Not financial advice.

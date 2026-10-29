@@ -1,0 +1,26 @@
+FrontierRadar explainer: Altera launches Agilex 2X FPGAs with 1.8× better performance per watt for AI infrastructure
+Issue: 2026-10-30 | Stage 2 · Prototype | Readiness 67/100 | Voice: Piper en_US-lessac-medium (local)
+
+HOOK
+What if you could rebuild a chip after you bought it?
+
+WHAT IT IS
+Altera has launched its Agilex 2X family of FPGA chips, led by Agilex 27, for AI infrastructure, networking and edge devices.
+
+WHAT IT DOES
+An FPGA is a chip you can re-wire after you buy it, like Lego you can rebuild for each new AI job.
+
+BEFORE
+AI networking and pre-processing change too fast for custom chips, so FPGAs fill those gaps. The previous generation used more power for the same work.
+
+AFTER
+Altera claims 1.8 times better performance per watt. Altera and network and telecom equipment makers could benefit.
+
+WHY IT MATTERS
+We rate it Stage 2, Prototype, with a readiness score of 67 out of 100. The figure is vendor-claimed, and Altera is private, so there is no direct listed stock. Our judgment: watch for customer design wins and shipment dates. Not financial advice.
+
+NEXT
+Full scores and sources at research.celesys.ai.
+
+SOURCES
+Altera newsroom: Agilex 2X (Oct 28, 2026). Judgment calls are labelled. Not financial advice.

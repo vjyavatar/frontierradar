@@ -1,0 +1,26 @@
+FrontierRadar explainer: First prime edit inside a human body: Prime Medicine treats a Wilson's disease patient
+Issue: 2026-10-30 | Stage 2 · Early trial (Ph 1/2) | Readiness 43/100 | Voice: Piper en_US-lessac-medium (local)
+
+HOOK
+Doctors used a super-precise DNA editor inside a patient's liver to fix a broken gene.
+
+WHAT IT IS
+First prime edit inside a human body: Prime Medicine treats a Wilson's disease patient.
+
+WHAT IT DOES
+Prime Medicine treated the first person in a trial that uses prime editing to rewrite DNA in liver cells, aiming to fix a mutation that stops them clearing excess copper. Think of it like this: Classic CRISPR is scissors; prime editing is find-and-replace in a word processor.
+
+BEFORE
+No gene-editing therapy is yet approved for use inside the body.
+
+AFTER
+Who could benefit: Prime Medicine PRME and Gene-editing peers.
+
+WHY IT MATTERS
+We rate it Stage 2, Early trial (Ph 1/2), readiness 43 out of 100. The catch: One patient treated; no efficacy data yet. Our judgment: small bet. Not financial advice.
+
+NEXT
+Full scores and sources at research.celesys.ai.
+
+SOURCES
+Nature news. Judgment calls are labelled. Not financial advice.

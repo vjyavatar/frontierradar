@@ -1,0 +1,26 @@
+FrontierRadar explainer: Computing with light instead of electricity (optical AI chip)
+Issue: 2026-10-30 | Stage 2 · Prototype | Readiness 31/100 | Voice: Piper en_US-lessac-medium (local)
+
+HOOK
+Some computers might one day think with flashlight beams instead of electricity, so they stay cool and fast.
+
+WHAT IT IS
+Computing with light instead of electricity.
+
+WHAT IT DOES
+A startup is building chips that do AI math with light passing through tiny 'metamaterial' patterns, and is working with MIT on the software to run them. Think of it like this: Like sorting mail by shining a torch through a stencil instead of reading every envelope.
+
+BEFORE
+Optical AI compute is still pre-revenue but backed by granted IP and an MIT software partnership.
+
+AFTER
+Who could benefit: Neurophos and GlobalFoundries GFS.
+
+WHY IT MATTERS
+We rate it Stage 2, Prototype, readiness 31 out of 100. The catch: Nature Photonics review: in the cloud, losses and light-to-electric conversions 'dominate power' and have so far prevented commercial photonic tensor cores. Our judgment: watch. Not financial advice.
+
+NEXT
+Full scores and sources at research.celesys.ai.
+
+SOURCES
+MIT CSAIL news; Patent US11843182B2; WO2021026152A1. Judgment calls are labelled. Not financial advice.

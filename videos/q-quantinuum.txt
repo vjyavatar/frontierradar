@@ -1,0 +1,26 @@
+FrontierRadar explainer: Quantinuum reports 99.9995% logical fidelity on Helios, five errors per million
+Issue: 2026-10-30 | Stage 2 · Hardware demo | Readiness 54/100 | Voice: Piper en_US-lessac-medium (local)
+
+HOOK
+Quantum computers make lots of mistakes.
+
+WHAT IT IS
+Quantinuum reports 99.9995% logical fidelity on Helios, five errors per million.
+
+WHAT IT DOES
+Using a colour code on its commercial Helios trapped-ion computer, Quantinuum reports 99.9995% logical fidelity, 10× lower error than its own September record. Think of it like this: Like a typist who used to make 5 mistakes per 100,000 words now making 5 per million.
+
+BEFORE
+Error correction decides when quantum computers become useful.
+
+AFTER
+Who could benefit: Quantinuum QNT and Defiance Quantum ETF QTUM.
+
+WHY IT MATTERS
+We rate it Stage 2, Hardware demo, readiness 54 out of 100. The catch: Result is company-announced; the press release compares favourably with rivals. Our judgment: small bet. Not financial advice.
+
+NEXT
+Full scores and sources at research.celesys.ai.
+
+SOURCES
+Quantinuum press release (Oct 19, 2026). Judgment calls are labelled. Not financial advice.

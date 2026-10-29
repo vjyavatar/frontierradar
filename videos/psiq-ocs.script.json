@@ -1,0 +1,25 @@
+{
+ "hook": "What if AI data centres could stop translating light into electricity?",
+ "sections": [
+  [
+   "What it is",
+   "PsiQuantum, a quantum-computing company, has built a light-based switch for AI data-centre networks. The chips are made at GlobalFoundries."
+  ],
+  [
+   "What it does",
+   "It points beams of light from one computer to another, and can rewire the network in under 3 milliseconds. Think of a railway junction that swaps tracks in a blink, so data trains of light never have to stop."
+  ],
+  [
+   "Before",
+   "Until now, most network switches turn light into electricity and back again, which costs power and adds delay. Google already uses switches built from tiny moving mirrors."
+  ],
+  [
+   "After",
+   "PsiQuantum offers a chip-sized version from a standard factory, with 1.2 dB of signal loss. Who could benefit: PsiQuantum, GlobalFoundries, and big cloud firms building AI clusters."
+  ],
+  [
+   "Why it matters",
+   "We rate it Stage 2, Prototype, with a readiness score of 46 out of 100. Samples are going to select customers, but results are company-reported, and only 8 by 8 ports so far. Our judgment: watch for a named customer and a bigger switch. Not financial advice."
+  ]
+ ]
+}

@@ -1,0 +1,26 @@
+FrontierRadar explainer: Google shows 'magic state cultivation' on its Willow chip, cutting errors about 40×
+Issue: 2026-10-30 | Stage 2 · Hardware demo | Readiness 46/100 | Voice: Piper en_US-lessac-medium (local)
+
+HOOK
+Quantum computers need a special ingredient to do hard maths.
+
+WHAT IT IS
+Google shows 'magic state cultivation' on its Willow chip, cutting errors about 40×.
+
+WHAT IT DOES
+Google demonstrated magic state cultivation on real hardware, reducing errors about 40 times versus un-cultivated states and reaching a record 99.99% logical fidelity for these T-states. Think of it like this: Like a kitchen that can finally make a rare spice in-house instead of waiting for costly imports; every complex recipe needs it.
+
+BEFORE
+Useful quantum algorithms need special 'magic states' that are expensive to make.
+
+AFTER
+Who could benefit: Alphabet GOOGL and Defiance Quantum ETF QTUM.
+
+WHY IT MATTERS
+We rate it Stage 2, Hardware demo, readiness 46 out of 100. The catch: Google says it still needs to show this at larger scale. Our judgment: watch. Not financial advice.
+
+NEXT
+Full scores and sources at research.celesys.ai.
+
+SOURCES
+Google blog (Oct 15, 2026). Judgment calls are labelled. Not financial advice.

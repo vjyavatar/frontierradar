@@ -1,0 +1,26 @@
+FrontierRadar explainer: IQM entangles all 54 qubits on its cloud Emerald chip at once
+Issue: 2026-10-30 | Stage 3 · Cloud access / customers | Readiness 67/100 | Voice: Piper en_US-lessac-medium (local)
+
+HOOK
+A quantum chip has 54 tiny parts.
+
+WHAT IT IS
+IQM entangles all 54 qubits on its cloud Emerald chip at once.
+
+WHAT IT DOES
+IQM prepared a GHZ entangled state across all 54 qubits with fidelity 0.516 (with readout error mitigation), above the 0.500 threshold, and 0.515 at 40 qubits without it. Think of it like this: Like getting a whole orchestra to play in tune at once, not just one section.
+
+BEFORE
+Many studies use only 10 to 20 qubits on bigger chips.
+
+AFTER
+Who could benefit: IQM IQMX and Defiance Quantum ETF QTUM.
+
+WHY IT MATTERS
+We rate it Stage 3, Cloud access / customers, readiness 67 out of 100. The catch: Fidelity 0.516 is only slightly above the 0.500 entanglement threshold. Our judgment: watch. Not financial advice.
+
+NEXT
+Full scores and sources at research.celesys.ai.
+
+SOURCES
+IQM investor news (Oct 29, 2026). Judgment calls are labelled. Not financial advice.

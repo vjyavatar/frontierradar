@@ -1,0 +1,26 @@
+FrontierRadar explainer: One transistor that can be logic, memory or neuron
+Issue: 2026-10-30 | Stage 1 · Paper | Readiness 16/100 | Voice: Piper en_US-lessac-medium (local)
+
+HOOK
+One tiny switch that can change jobs: sometimes a calculator, sometimes a brain cell.
+
+WHAT IT IS
+One transistor that can be logic, memory or neuron.
+
+WHAT IT DOES
+A shape-shifting atom-thin transistor that can be reassigned to act as logic, a synapse or a neuron, filtering out useless data before the 'brain' part wastes energy on it. Think of it like this: A Swiss-army-knife worker who becomes a gatekeeper, clerk or manager as needed.
+
+BEFORE
+Pure research; tracks a promising direction (reconfigurable, back-end-compatible devices).
+
+AFTER
+Who could benefit: Ferroelectric Memory Co and GlobalFoundries GFS.
+
+WHY IT MATTERS
+We rate it Stage 1, Paper, readiness 16 out of 100. The catch: BrainChip, a listed neuromorphic pioneer, reported only US$1.22M revenue and a US$12.0M loss for H1 2026 — commercial demand for brain-like chips is still tiny. Our judgment: watch. Not financial advice.
+
+NEXT
+Full scores and sources at research.celesys.ai.
+
+SOURCES
+Nature Electronics. Judgment calls are labelled. Not financial advice.

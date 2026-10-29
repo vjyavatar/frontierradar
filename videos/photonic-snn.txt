@@ -1,0 +1,26 @@
+FrontierRadar explainer: Light-powered brain chip: 1,176x faster on vision
+Issue: 2026-10-30 | Stage 1 · Paper | Readiness 16/100 | Voice: Piper en_US-lessac-medium (local)
+
+HOOK
+A brain chip that uses light.
+
+WHAT IT IS
+Light-powered brain chip: 1,176x faster on vision.
+
+WHAT IT DOES
+Chip-compatible optical devices that act as both synapse and neuron cut delay 1,176x and energy 239x versus standard designs on vision tasks (in their tests). Think of it like this: Swapping a postal service for a laser pointer between two windows.
+
+BEFORE
+Eye-catching lab gains; geopolitics may keep this inside China.
+
+AFTER
+Who could benefit: Chinese photonics foundries and Tower TSEM.
+
+WHY IT MATTERS
+We rate it Stage 1, Paper, readiness 16 out of 100. The catch: Nature Photonics review: in the cloud, losses and light-to-electric conversions 'dominate power' and have so far prevented commercial photonic tensor cores. Our judgment: watch. Not financial advice.
+
+NEXT
+Full scores and sources at research.celesys.ai.
+
+SOURCES
+Nature Communications. Judgment calls are labelled. Not financial advice.

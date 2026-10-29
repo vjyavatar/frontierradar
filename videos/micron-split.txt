@@ -1,0 +1,26 @@
+FrontierRadar explainer: Making noisy analog AI chips accurate (weight splitting)
+Issue: 2026-10-30 | Stage 1 · Paper | Readiness 35/100 | Voice: Piper en_US-lessac-medium (local)
+
+HOOK
+If one friend guesses wrong, ask three and take the middle answer.
+
+WHAT IT IS
+Making noisy analog AI chips accurate.
+
+WHAT IT DOES
+Micron showed that splitting each AI 'weight' across several memory cells averages out the errors that make analog chips unreliable. Think of it like this: Asking three friends to estimate a distance and averaging: fewer big mistakes.
+
+BEFORE
+A memory giant publishing fixes for analog AI errors suggests in-memory compute is moving toward products.
+
+AFTER
+Who could benefit: Micron MU and Kaynes KAYNES.NS.
+
+WHY IT MATTERS
+We rate it Stage 1, Paper, readiness 35 out of 100. The catch: System-level review: specialised analog/physical accelerators can show 'little or no advantage' once conversion, control and memory access are counted. Our judgment: watch. Not financial advice.
+
+NEXT
+Full scores and sources at research.celesys.ai.
+
+SOURCES
+arXiv 2610.20359. Judgment calls are labelled. Not financial advice.

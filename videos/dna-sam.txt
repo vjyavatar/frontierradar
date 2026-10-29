@@ -1,0 +1,26 @@
+FrontierRadar explainer: DNA-SaM: a DNA storage system tested in the lab and in living cells with 100% recovery
+Issue: 2026-10-30 | Stage 1 · Lab proof | Readiness 28/100 | Voice: Piper en_US-lessac-medium (local)
+
+HOOK
+It is a smart filing system for storing computer files inside DNA, so even huge collections can be found again.
+
+WHAT IT IS
+DNA-SaM: a DNA storage system tested in the lab and in living cells with 100% recovery.
+
+WHAT IT DOES
+DNA-SaM combines fast encoding, checks that avoid problem DNA sequences, and a two-level index for large files. Think of it like this: Like a library that labels every shelf and refuses to print pages that would jam the photocopier.
+
+BEFORE
+Most DNA-storage codecs are slow or create sequences that break lab steps.
+
+AFTER
+Who could benefit: DNA synthesis and sequencing toolmakers.
+
+WHY IT MATTERS
+We rate it Stage 1, Lab proof, readiness 28 out of 100. The catch: The 270 PB figure is a theoretical capacity, not data actually stored. Our judgment: wait. Not financial advice.
+
+NEXT
+Full scores and sources at research.celesys.ai.
+
+SOURCES
+Nature Communications: DNA-SaM. Judgment calls are labelled. Not financial advice.

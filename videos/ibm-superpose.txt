@@ -1,0 +1,26 @@
+FrontierRadar explainer: Storing many values in one memory spot (superposed analog memory)
+Issue: 2026-10-30 | Stage 1 · Paper | Readiness 19/100 | Voice: Piper en_US-lessac-medium (local)
+
+HOOK
+Imagine one drawer that magically holds three toys at once, and you can still pick each one out.
+
+WHAT IT IS
+Storing many values in one memory spot.
+
+WHAT IT DOES
+Researchers showed a way to pack several pieces of information into the same analog memory cell and still read them back, cutting memory needed for AI search. Think of it like this: Like one shelf that holds several books layered as transparent sheets, still readable.
+
+BEFORE
+IBM is pairing research with patent filings, signalling commercial intent.
+
+AFTER
+Who could benefit: IBM and Micron MU.
+
+WHY IT MATTERS
+We rate it Stage 1, Paper, readiness 19 out of 100. The catch: System-level review: specialised analog/physical accelerators can show 'little or no advantage' once conversion, control and memory access are counted. Our judgment: watch. Not financial advice.
+
+NEXT
+Full scores and sources at research.celesys.ai.
+
+SOURCES
+arXiv 2610.26118; IBM patent application; Related IBM patent US 10,678,885. Judgment calls are labelled. Not financial advice.

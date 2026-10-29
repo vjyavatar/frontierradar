@@ -1,0 +1,26 @@
+FrontierRadar explainer: A light switch sending 200 billion bits per second per colour
+Issue: 2026-10-30 | Stage 1 · Paper | Readiness 36/100 | Voice: Piper en_US-lessac-medium (local)
+
+HOOK
+A tiny light switch that blinks billions of times a second to send messages between computers.
+
+WHAT IT IS
+A light switch sending 200 billion bits per second per colour.
+
+WHAT IT DOES
+A tiny silicon 'slow-light' modulator flips light on and off fast enough to carry 200 Gb/s on a single colour of laser. Think of it like this: A shutter so fast it could blink a whole HD movie across in a fraction of a second.
+
+BEFORE
+Next-gen per-lane speed is a key spec for data-centre optics.
+
+AFTER
+Who could benefit: Marvell MRVL and Broadcom AVGO.
+
+WHY IT MATTERS
+We rate it Stage 1, Paper, readiness 36 out of 100. The catch: Nvidia networking SVP: 'If you can use copper, use copper' — optics only where distance forces it. Our judgment: watch. Not financial advice.
+
+NEXT
+Full scores and sources at research.celesys.ai.
+
+SOURCES
+Nature Communications. Judgment calls are labelled. Not financial advice.

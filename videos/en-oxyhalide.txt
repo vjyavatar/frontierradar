@@ -1,0 +1,26 @@
+FrontierRadar explainer: A new solid electrolyte keeps 81% capacity after 2,000 fast charges at high voltage
+Issue: 2026-10-30 | Stage 1 · Lab cell | Readiness 32/100 | Voice: Piper en_US-lessac-medium (local)
+
+HOOK
+Batteries without liquid could charge faster and be safer.
+
+WHAT IT IS
+A new solid electrolyte keeps 81% capacity after 2,000 fast charges at high voltage.
+
+WHAT IT DOES
+An amorphous zirconium oxyhalide electrolyte reaches 4.11 mS/cm at 25 °C and forms a self-protecting layer at the cathode. Think of it like this: Like a road that paves over its own potholes as heavy trucks drive on it.
+
+BEFORE
+Many fast-conducting solid electrolytes break down above about 4.3 V, blocking high-energy cathodes.
+
+AFTER
+Who could benefit: Solid-state battery developers, e.g. QuantumScape QS, Solid Power SLDP.
+
+WHY IT MATTERS
+We rate it Stage 1, Lab cell, readiness 32 out of 100. The catch: Lab coin-type cells with Li-In alloy anode. Our judgment: wait. Not financial advice.
+
+NEXT
+Full scores and sources at research.celesys.ai.
+
+SOURCES
+Nature Communications (Oct 17, 2026). Judgment calls are labelled. Not financial advice.

@@ -1,0 +1,25 @@
+{
+ "hook": "Why do AI chatbots type their answers one word at a time?",
+ "sections": [
+  [
+   "What it is",
+   "DuoPD is a research design from Seoul National University. It adds small compute units inside HBM4, the stacked memory next to AI chips."
+  ],
+  [
+   "What it does",
+   "The GPU reads your prompt, and the memory itself writes the answer word by word. Think of a librarian who writes the answer at the shelf, instead of you running to the library for every sentence."
+  ],
+  [
+   "Before",
+   "Until now, the GPU does all the work and keeps fetching data from memory. HBM4 moves the memory's base layer to a logic process, which opens room for compute."
+  ],
+  [
+   "After",
+   "In simulation, answers come up to 2.23 times more throughput, with up to 37.9 percent energy saving. Memory makers SK hynix, Samsung and Micron could benefit."
+  ],
+  [
+   "Why it matters",
+   "We rate it Stage 1, Paper, with a readiness score of 27 out of 100. It is simulation only, and needs memory makers to buy in. Our judgment: wait, and watch for real silicon. Not financial advice."
+  ]
+ ]
+}

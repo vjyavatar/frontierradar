@@ -1,0 +1,26 @@
+FrontierRadar explainer: Glass replacing plastic under AI chips (glass substrates)
+Issue: 2026-10-30 | Stage 2 · Prototype | Readiness 52/100 | Voice: Piper en_US-lessac-medium (local)
+
+HOOK
+The board under a chip may switch from plastic to glass, because glass stays flat and doesn't warp.
+
+WHAT IT IS
+Glass replacing plastic under AI chips.
+
+WHAT IT DOES
+Several firms are testing glass as the base board under giant AI chips because it stays flat and lets wires sit closer together. Think of it like this: Building a skyscraper on granite instead of plywood.
+
+BEFORE
+Glass substrates are moving from lab to pilot lines.
+
+AFTER
+Who could benefit: Ibiden 4062.T and Samsung Electro-Mechanics 009150.KS.
+
+WHY IT MATTERS
+We rate it Stage 2, Prototype, readiness 52 out of 100. The catch: Tom's Hardware: glass-core substrates are 'still not in a single commercial product' and every timeline has slipped. Our judgment: watch. Not financial advice.
+
+NEXT
+Full scores and sources at research.celesys.ai.
+
+SOURCES
+TSMC-Ibiden validation (Chosunbiz); Samsung Electro-Mechanics (MoneyToday); BOE 24-layer glass (DIGITIMES); Lam Research (Oct 29, 2026): glass in advanced packaging. Judgment calls are labelled. Not financial advice.

@@ -1,0 +1,26 @@
+FrontierRadar explainer: Neuralink pretrains its brain decoder on 50,000 hours of recordings
+Issue: 2026-10-30 | Stage 2 · Pilot / feasibility | Readiness 39/100 | Voice: Piper en_US-lessac-medium (local)
+
+HOOK
+Brain chips need to learn each person.
+
+WHAT IT IS
+Neuralink pretrains its brain decoder on 50,000 hours of recordings.
+
+WHAT IT DOES
+Neuralink reports more than 50,000 hours of human BCI recordings used to pretrain decoders, cutting some users' recalibration from daily to weekly and reaching 11.32 bits per second cursor control. Think of it like this: Like a phone keyboard that learned from millions of typists, so it works for you with far less practice.
+
+BEFORE
+BCI users have needed frequent recalibration.
+
+AFTER
+Who could benefit: Neuralink and Synchron.
+
+WHY IT MATTERS
+We rate it Stage 2, Pilot / feasibility, readiness 39 out of 100. The catch: Company-reported, not peer-reviewed. Our judgment: watch. Not financial advice.
+
+NEXT
+Full scores and sources at research.celesys.ai.
+
+SOURCES
+Neuralink update; NeuroFounders summary. Judgment calls are labelled. Not financial advice.

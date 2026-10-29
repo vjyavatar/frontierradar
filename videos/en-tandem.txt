@@ -1,0 +1,26 @@
+FrontierRadar explainer: Two-sided perovskite-silicon solar cells keep 90% efficiency after 1,000 hot hours
+Issue: 2026-10-30 | Stage 1 · Lab cell | Readiness 32/100 | Voice: Piper en_US-lessac-medium (local)
+
+HOOK
+Special solar cells catch light on both sides.
+
+WHAT IT IS
+Two-sided perovskite-silicon solar cells keep 90% efficiency after 1,000 hot hours.
+
+WHAT IT DOES
+The team identified 'lattice compliance', how well the crystal flexes under stress, as a key to heat-and-light stability. Think of it like this: Like choosing a bridge that flexes in the wind instead of cracking.
+
+BEFORE
+Perovskite-silicon tandems promise more power per panel, but perovskites degrade.
+
+AFTER
+Who could benefit: Solar manufacturers developing tandems.
+
+WHY IT MATTERS
+We rate it Stage 1, Lab cell, readiness 32 out of 100. The catch: 1,000 hours is far below panel lifetimes. Our judgment: watch. Not financial advice.
+
+NEXT
+Full scores and sources at research.celesys.ai.
+
+SOURCES
+Nature Energy paper. Judgment calls are labelled. Not financial advice.

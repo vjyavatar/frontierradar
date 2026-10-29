@@ -1,0 +1,26 @@
+FrontierRadar explainer: Precision Neuroscience pools 70 patients into one map of the human nervous system
+Issue: 2026-10-30 | Stage 2 · Pilot / feasibility | Readiness 37/100 | Voice: Piper en_US-lessac-medium (local)
+
+HOOK
+A company put thin stickers on 70 people's brains during surgery and made a big map of how brains send signals.
+
+WHAT IT IS
+Precision Neuroscience pools 70 patients into one map of the human nervous system.
+
+WHAT IT DOES
+Precision announced a 70-patient, 180-plus-hour neural atlas recorded with its temporary Layer 7 surface arrays, supporting movement, speech and facial-expression decoding. Think of it like this: Like stitching many street-view drives into one city map.
+
+BEFORE
+Surface arrays sit on the brain rather than penetrating it.
+
+AFTER
+Who could benefit: Precision Neuroscience.
+
+WHY IT MATTERS
+We rate it Stage 2, Pilot / feasibility, readiness 37 out of 100. The catch: Data from temporary recordings during procedures. Our judgment: watch. Not financial advice.
+
+NEXT
+Full scores and sources at research.celesys.ai.
+
+SOURCES
+Inside BCI (Oct 9, 2026); Expansion news (GlobeNewswire, Oct 29). Judgment calls are labelled. Not financial advice.

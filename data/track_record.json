@@ -298,5 +298,385 @@
   "ready": 28,
   "call": "Watch conviction",
   "outcome": "pending"
+ },
+ {
+  "date": "2026-10-29",
+  "kind": "research",
+  "id": "psiq-ocs",
+  "name": "PsiQuantum shows a light-based switch that rewires AI data-centre networks in 3 ms",
+  "stage": 2,
+  "ready": 46,
+  "call": "Readiness 46, 1-4 yrs to market",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-29",
+  "kind": "research",
+  "id": "duopd",
+  "name": "DuoPD: small compute units inside HBM4 memory could make AI chatbots answer up to 2.2× faster",
+  "stage": 1,
+  "ready": 27,
+  "call": "Readiness 27, 4-8 yrs to market",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-29",
+  "kind": "research",
+  "id": "bfo-thin",
+  "name": "Brown University: a magnetic-electric material that keeps working at 1.6 nm, a step toward ultra-low-power memory",
+  "stage": 1,
+  "ready": 16,
+  "call": "Readiness 16, 6-10 yrs to market",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-29",
+  "kind": "research",
+  "id": "agilex27",
+  "name": "Altera launches Agilex 2X FPGAs with 1.8× better performance per watt for AI infrastructure",
+  "stage": 2,
+  "ready": 67,
+  "call": "Readiness 67, 2-4 yrs to market",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-29",
+  "kind": "research",
+  "id": "ceva-npu",
+  "name": "Ceva unveils next-gen NeuPro AI engines (2× throughput per mm²) and enters AI infrastructure",
+  "stage": 2,
+  "ready": 66,
+  "call": "Readiness 66, 2-4 yrs to market",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-29",
+  "kind": "research",
+  "id": "neurophos",
+  "name": "Computing with light instead of electricity (optical AI chip)",
+  "stage": 2,
+  "ready": 31,
+  "call": "Readiness 31, 3-6 yrs to market",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-29",
+  "kind": "research",
+  "id": "volantis",
+  "name": "A light-based 'highway' between AI chip and memory",
+  "stage": 1,
+  "ready": 32,
+  "call": "Readiness 32, 4-8 yrs to market",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-29",
+  "kind": "research",
+  "id": "ibm-superpose",
+  "name": "Storing many values in one memory spot (superposed analog memory)",
+  "stage": 1,
+  "ready": 19,
+  "call": "Readiness 19, 6-10 yrs to market",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-29",
+  "kind": "research",
+  "id": "micron-split",
+  "name": "Making noisy analog AI chips accurate (weight splitting)",
+  "stage": 1,
+  "ready": 35,
+  "call": "Readiness 35, 4-8 yrs to market",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-29",
+  "kind": "research",
+  "id": "modulator",
+  "name": "A light switch sending 200 billion bits per second per colour",
+  "stage": 1,
+  "ready": 36,
+  "call": "Readiness 36, 2-6 yrs to market",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-29",
+  "kind": "research",
+  "id": "cfet2d",
+  "name": "Stacking atom-thin transistors on top of each other (2D CFETs)",
+  "stage": 1,
+  "ready": 16,
+  "call": "Readiness 16, 6-10 yrs to market",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-29",
+  "kind": "research",
+  "id": "hybridbond",
+  "name": "Gluing chips together copper-to-copper (hybrid bonding)",
+  "stage": 3,
+  "ready": 80,
+  "call": "Readiness 80, 0-2 yrs to market",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-29",
+  "kind": "research",
+  "id": "glass",
+  "name": "Glass replacing plastic under AI chips (glass substrates)",
+  "stage": 2,
+  "ready": 52,
+  "call": "Readiness 52, 2-4 yrs to market",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-29",
+  "kind": "research",
+  "id": "snn-train",
+  "name": "Brain-like chip that can learn on the device (neuromorphic)",
+  "stage": 1,
+  "ready": 28,
+  "call": "Readiness 28, 4-8 yrs to market",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-29",
+  "kind": "research",
+  "id": "snn-logic",
+  "name": "One transistor that can be logic, memory or neuron",
+  "stage": 1,
+  "ready": 16,
+  "call": "Readiness 16, 6-10 yrs to market",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-29",
+  "kind": "research",
+  "id": "photonic-snn",
+  "name": "Light-powered brain chip: 1,176x faster on vision",
+  "stage": 1,
+  "ready": 16,
+  "call": "Readiness 16, 6-10 yrs to market",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-29",
+  "kind": "research",
+  "id": "st-pic",
+  "name": "Silicon photonics reaches high-volume factories",
+  "stage": 3,
+  "ready": 84,
+  "call": "Readiness 84, 0-2 yrs to market",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-29",
+  "kind": "opp",
+  "id": "aixtron",
+  "name": "Aixtron",
+  "stage": 1,
+  "ready": 16,
+  "call": "Watch conviction",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-29",
+  "kind": "opp",
+  "id": "micron",
+  "name": "Micron",
+  "stage": 1,
+  "ready": 27,
+  "call": "Medium conviction",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-29",
+  "kind": "opp",
+  "id": "ibiden",
+  "name": "Ibiden",
+  "stage": 2,
+  "ready": 52,
+  "call": "Medium conviction",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-29",
+  "kind": "opp",
+  "id": "tata-electronics-fab",
+  "name": "Tata Electronics fab",
+  "stage": 2,
+  "ready": 52,
+  "call": "Watch conviction",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-29",
+  "kind": "opp",
+  "id": "coherent",
+  "name": "Coherent",
+  "stage": 2,
+  "ready": 51,
+  "call": "Medium conviction",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-29",
+  "kind": "opp",
+  "id": "tower-semiconductor",
+  "name": "Tower Semiconductor",
+  "stage": 2,
+  "ready": 34,
+  "call": "Medium conviction",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-29",
+  "kind": "opp",
+  "id": "corning",
+  "name": "Corning",
+  "stage": 2,
+  "ready": 52,
+  "call": "Medium conviction",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-29",
+  "kind": "opp",
+  "id": "brainchip",
+  "name": "BrainChip",
+  "stage": 2,
+  "ready": 28,
+  "call": "Speculative conviction",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-29",
+  "kind": "opp",
+  "id": "besi",
+  "name": "Besi",
+  "stage": 3,
+  "ready": 80,
+  "call": "High conviction",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-29",
+  "kind": "opp",
+  "id": "advantest",
+  "name": "Advantest",
+  "stage": 3,
+  "ready": 80,
+  "call": "Medium conviction",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-29",
+  "kind": "opp",
+  "id": "kaynes-technology",
+  "name": "Kaynes Technology",
+  "stage": 3,
+  "ready": 35,
+  "call": "Watch conviction",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-29",
+  "kind": "opp",
+  "id": "cg-power",
+  "name": "CG Power",
+  "stage": 3,
+  "ready": 80,
+  "call": "Watch conviction",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-29",
+  "kind": "opp",
+  "id": "adeia",
+  "name": "Adeia",
+  "stage": 3,
+  "ready": 80,
+  "call": "Medium conviction",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-29",
+  "kind": "opp",
+  "id": "stmicroelectronics",
+  "name": "STMicroelectronics",
+  "stage": 3,
+  "ready": 84,
+  "call": "High conviction",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-29",
+  "kind": "opp",
+  "id": "sk-hynix",
+  "name": "SK hynix",
+  "stage": 4,
+  "ready": 80,
+  "call": "High conviction",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-29",
+  "kind": "opp",
+  "id": "tsmc",
+  "name": "TSMC",
+  "stage": 4,
+  "ready": 52,
+  "call": "Medium conviction",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-29",
+  "kind": "opp",
+  "id": "nvidia",
+  "name": "Nvidia",
+  "stage": 4,
+  "ready": 60,
+  "call": "Medium conviction",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-29",
+  "kind": "opp",
+  "id": "amd",
+  "name": "AMD",
+  "stage": 4,
+  "ready": 28,
+  "call": "Watch conviction",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-29",
+  "kind": "opp",
+  "id": "ceva",
+  "name": "Ceva",
+  "stage": 2,
+  "ready": 66,
+  "call": "Medium conviction",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-29",
+  "kind": "opp",
+  "id": "globalfoundries",
+  "name": "GlobalFoundries",
+  "stage": 2,
+  "ready": 46,
+  "call": "Medium conviction",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-29",
+  "kind": "opp",
+  "id": "altera",
+  "name": "Altera",
+  "stage": 2,
+  "ready": 67,
+  "call": "Watch conviction",
+  "outcome": "pending"
  }
 ]

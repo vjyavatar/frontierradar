@@ -1,0 +1,2422 @@
+{
+ "date": "2026-10-29",
+ "slug": "2026-10-29",
+ "topic": "AI Chips",
+ "tags": [
+  "AI chips",
+  "Packaging",
+  "Memory",
+  "Photonics",
+  "India"
+ ],
+ "title": "Memory makers sell out to 2029, a photonic switch for AI racks, and 5 new chip ideas",
+ "hook": "SK hynix and Samsung say AI memory is sold out for years. PsiQuantum shows a light-based switch for AI networks. Plus four more new papers and products, each scored.",
+ "desc": "Plain-English tracker of new AI-chip research papers and patents, scored for readiness, patent risk and who could win. Not investment advice.",
+ "tldr": [
+  [
+   "💰",
+   "The money is real",
+   "Nvidia made $96.2B in one quarter, up 106% in a year.",
+   "pos"
+  ],
+  [
+   "🏭",
+   "Factories are the bottleneck",
+   "TSMC will spend $60-64B on new capacity in 2026.",
+   "pos"
+  ],
+  [
+   "🧠",
+   "Memory is sold out",
+   "SK hynix says its DRAM and HBM are booked through 2029; Samsung made ₩107.4T operating profit.",
+   "pos"
+  ],
+  [
+   "💡",
+   "Light for AI networks",
+   "PsiQuantum showed an optical switch that rewires AI clusters in 3 ms (company-reported).",
+   "pos"
+  ],
+  [
+   "⚠️",
+   "Rules can change overnight",
+   "US export rules for China were rewritten twice this year.",
+   "neg"
+  ],
+  [
+   "🇮🇳",
+   "India is building",
+   "12 chip plants approved; a new ₹1.27 lakh crore plan is live.",
+   "pos"
+  ]
+ ],
+ "angles": [
+  [
+   "🔬",
+   "Technology",
+   "Chips are getting faster by stacking, not just shrinking. 2nm chips were 8% of TSMC wafer revenue in Q3; light-based links (co-packaged optics) are now shipping in Nvidia switches.",
+   "pos",
+   "Like adding floors to a building when you run out of land."
+  ],
+  [
+   "📈",
+   "Market size",
+   "Estimates range from $42B to $500B for 2026 because people measure different things. All agree: fast growth (16-30% a year).",
+   "pos",
+   "Counting 'cars' vs counting 'every vehicle with wheels'."
+  ],
+  [
+   "🔗",
+   "Supply chain",
+   "Bottlenecks: advanced packaging, high-bandwidth memory (HBM) and power. Whoever owns the choke point sets the price.",
+   "mix",
+   "A highway is only as fast as its narrowest bridge."
+  ],
+  [
+   "🌐",
+   "Geopolitics",
+   "US allows H200-class chips to China case-by-case (Jan 2026) but tightened rules for China-owned firms abroad (May 2026). China sales are now under 1% of Nvidia data-center revenue.",
+   "neg",
+   "A tap that Washington can open or shut."
+  ],
+  [
+   "💵",
+   "Valuations",
+   "Leaders trade near 24-34x next year's profit. Not cheap, not bubble-crazy, but priced for continued growth.",
+   "mix",
+   "Paying today for a harvest you expect tomorrow."
+  ],
+  [
+   "🥊",
+   "Competition",
+   "Custom chips from Google, Amazon and Broadcom; AMD's MI series; startups using light. Nvidia still dominates training.",
+   "mix",
+   "One champion, many hungry challengers."
+  ],
+  [
+   "🛡️",
+   "Risks",
+   "Spending slowdown, power shortages, Taiwan concentration, export shocks, and overseas-fab costs (TSMC expects 3-4% margin drag).",
+   "neg",
+   "Every gold rush has a cliff edge."
+  ],
+  [
+   "🏛️",
+   "Policy",
+   "US CHIPS incentives, India's ISM 2.0 (₹1.27 lakh crore; 40% fab support), Japan and Korea subsidies.",
+   "pos",
+   "Governments paying part of the rent."
+  ],
+  [
+   "🇮🇳",
+   "India angle",
+   "3 plants in commercial production (Micron, Kaynes, CG Semi); ~$12B new proposals under ISM 2.0. Strength: packaging and design, not leading-edge fabs yet.",
+   "pos",
+   "Starting with the assembly line before the engine plant."
+  ]
+ ],
+ "regions": [
+  [
+   "USA",
+   "Designs most AI chips; sets export rules",
+   "pos"
+  ],
+  [
+   "Taiwan",
+   "Makes ~all leading-edge AI chips",
+   "pos"
+  ],
+  [
+   "Korea",
+   "Leads HBM memory (SK hynix, Samsung)",
+   "pos"
+  ],
+  [
+   "Japan",
+   "Tools, test & substrates (TEL, Advantest, Ibiden)",
+   "pos"
+  ],
+  [
+   "China",
+   "Locked out of top chips; building own",
+   "neg"
+  ],
+  [
+   "India",
+   "Packaging, design, policy push",
+   "pos"
+  ],
+  [
+   "Europe",
+   "Equipment (ASML, Besi), photonics (ST)",
+   "mix"
+  ]
+ ],
+ "readiness": [
+  [
+   "GPUs / custom AI chips",
+   95
+  ],
+  [
+   "HBM memory",
+   85
+  ],
+  [
+   "Co-packaged optics",
+   60
+  ],
+  [
+   "Glass substrates",
+   35
+  ],
+  [
+   "Optical computing",
+   15
+  ]
+ ],
+ "dyk": [
+  "TSMC made more profit per dollar of sales (51%) last quarter than most software companies.",
+  "One SK hynix quarter of operating profit (KRW 83 trillion) is larger than many countries' annual budgets.",
+  "A US rule now checks every H200-class chip going to China in a third-party US lab before export."
+ ],
+ "glossary": [
+  [
+   "HBM",
+   "Stacked super-fast memory placed beside an AI chip"
+  ],
+  [
+   "Capex",
+   "Money a company spends on buildings & machines"
+  ],
+  [
+   "Forward P/E",
+   "Share price divided by expected profit next year"
+  ],
+  [
+   "OSAT",
+   "Firms that package and test chips"
+  ],
+  [
+   "TAM",
+   "Total addressable market: the biggest the market could be"
+  ]
+ ],
+ "next": "Next issue: Quantum computing - which of the 5 hardware bets is closest to making money?",
+ "related": [
+  "Quantum computing",
+  "Robotics",
+  "Space tech",
+  "Battery tech"
+ ],
+ "sources": [
+  [
+   1,
+   "Nvidia Q2 FY27 results & CFO commentary (SEC)",
+   "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000073/q2fy27cfocommentary.htm"
+  ],
+  [
+   2,
+   "TSMC Q3 2026 earnings release & call",
+   "https://pr.tsmc.com/english/news/3346"
+  ],
+  [
+   3,
+   "AMD Q2 2026 results",
+   "https://ir.amd.com/news-events/press-releases/detail/1295/amd-reports-second-quarter-2026-financial-results"
+  ],
+  [
+   4,
+   "SK hynix 3Q26 results",
+   "https://news.skhynix.com/en/q3-2026-business-results/"
+  ],
+  [
+   5,
+   "BIS: H200 case-by-case rule (Federal Register, Jan 15 2026)",
+   "https://www.federalregister.gov/documents/2026/01/15/2026-00789/revision-to-license-review-policy-for-advanced-computing-commodities"
+  ],
+  [
+   6,
+   "Hyperscaler capex 2026 comparison (NextMSC)",
+   "https://www.nextmsc.com/industry-deep-dive/hyperscaler-capex-comparison-2026"
+  ],
+  [
+   7,
+   "BIS guidance on China-HQ entities (May 31 2026)",
+   "https://www.bis.gov/media/documents/bis-guidance-may-31-2026.pdf"
+  ],
+  [
+   8,
+   "PIB: approved semiconductor projects; ISM 2.0",
+   "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2247814&lang=1&reg=1"
+  ],
+  [
+   9,
+   "Mega-cap forward P/E (StockTi), late Oct 2026",
+   "https://stockti.com/stocks/mega-cap-forward-pe"
+  ],
+  [
+   10,
+   "Grand View Research: AI accelerator market",
+   "https://www.grandviewresearch.com/industry-analysis/ai-accelerator-market-report"
+  ],
+  [
+   11,
+   "Mordor Intelligence: AI accelerators",
+   "https://www.mordorintelligence.com/industry-reports/ai-accelerators-market"
+  ],
+  [
+   12,
+   "Mordor Intelligence: AI GPU chips",
+   "https://www.mordorintelligence.com/industry-reports/ai-gpu-chip-market"
+  ],
+  [
+   13,
+   "Deloitte 2026 semiconductor outlook",
+   "https://www.deloitte.com/us/en/insights/industry/technology/technology-media-telecom-outlooks/semiconductor-industry-outlook.html"
+  ],
+  [
+   14,
+   "Previous FrontierRadar breakthroughs issue (sources listed there)",
+   "breakthroughs.html"
+  ],
+  [
+   15,
+   "Business Standard: ~$12B ISM 2.0 proposals",
+   "https://www.business-standard.com/industry/news/govt-gets-nearly-12-bn-investment-proposals-under-ism-2-0-vaishnaw-126091701299_1.html"
+  ],
+  [
+   16,
+   "AMD: to report fiscal Q3 2026 results on Nov 3, 2026 (Oct 6, 2026)",
+   "https://ir.amd.com/news-events/press-releases/detail/1300/amd-to-report-fiscal-third-quarter-2026-financial-results"
+  ],
+  [
+   17,
+   "Nature Photonics (2026): Photonic accelerators for AI across cloud and edge",
+   "https://www.nature.com/articles/s41566-026-01987-z"
+  ],
+  [
+   18,
+   "SDxCentral: Nvidia backs copper amid CPO push",
+   "https://www.sdxcentral.com/news/nvidia-backs-copper-in-next-gen-interconnects-amid-push-into-co-packaged-optics/"
+  ],
+  [
+   19,
+   "Tom's Hardware: Glass substrate roadmaps examined",
+   "https://www.tomshardware.com/tech-industry/manufacturing/glass-substrate-roadmap-examined"
+  ],
+  [
+   20,
+   "BrainChip H1 2026 half-yearly report (ASX Appendix 4D)",
+   "https://investor.brainchip.com/wp-content/uploads/2026/09/2026-08-26-June-2026-half-yearly-report.pdf"
+  ],
+  [
+   21,
+   "Korea JoongAng Daily: SK hynix says DRAM, HBM booked through 2029 (Oct 28, 2026)",
+   "https://www.koreajoongangdaily.com/business/sk-hynix-says-dram-hbm-booked-through-2029-as-profit-soars-to-62b/12942008"
+  ],
+  [
+   22,
+   "Samsung Electronics Q3 2026 results (Oct 29, 2026)",
+   "https://news.samsungsemiconductor.com/global/samsung-electronics-announces-third-quarter-2026-results/"
+  ],
+  [
+   23,
+   "Reuters via Investing.com: Samsung sees AI chip shortage worsening (Oct 29, 2026)",
+   "https://ca.investing.com/news/stock-market-news/samsung-sees-ai-chip-shortage-worsening-keeps-investors-in-suspense-on-returns-4911780"
+  ],
+  [
+   24,
+   "Finance in Time: SK hynix locks in over half of 2027-28 output, drops Solidigm IPO (Oct 29, 2026)",
+   "https://financeintime.com/news/2026/10/29/sk-hynix-locks-in-over-half-of-2027-28-memory-output-and-drops-its-solidigm-ipo"
+  ]
+ ],
+ "research": [
+  {
+   "id": "psiq-ocs",
+   "title": "PsiQuantum shows a light-based switch that rewires AI data-centre networks in 3 ms",
+   "area": "Photonic interconnect",
+   "date": "2026-10-28",
+   "who": "PsiQuantum (chips made at GlobalFoundries)",
+   "links": [
+    [
+     "PsiQuantum press release (Business Wire, Oct 28, 2026)",
+     "https://www.businesswire.com/news/home/20261028890054/en/PsiQuantum-Unveils-Optical-Circuit-Switch-Technology-Built-on-Advanced-Low-Loss-Silicon-Photonics-Platform"
+    ],
+    [
+     "IEEE ComSoc Technology Blog analysis (Oct 28, 2026)",
+     "https://techblog.comsoc.org/2026/10/28/psiquantum-targets-ai-data-center-networks-with-silicon-photonic-optical-switching/"
+    ]
+   ],
+   "found": "The quantum-computing company turned its ultra-low-loss silicon-photonics process into an 8×8 optical circuit switch for AI networks. The company reports 1.2 dB loss, 40 dB crosstalk and under 3 ms to reconfigure, and is sharing samples with select prospective customers.",
+   "analogy": "Like a railway junction that swaps tracks in a blink, so data trains of light never have to stop and be turned into electricity.",
+   "ip": "Optical switching is crowded (Google, Lumentum, Coherent and MEMS makers). No known litigation.",
+   "win": [
+    "PsiQuantum",
+    "GlobalFoundries",
+    "Hyperscalers building AI clusters"
+   ],
+   "watch": "Product launch \"in coming months\", a higher port count than 8×8, and a named data-centre customer.",
+   "brief": "Optical circuit switches cut power and latency in AI clusters by skipping optical-to-electrical conversion. Google already runs MEMS-based switches. PsiQuantum offers a chip-scale silicon-photonics version from a standard foundry. The results are company-reported lab results, not yet independent.",
+   "video": "Your AI data centre has a traffic problem. Every switch turns light into electricity and back. PsiQuantum just showed a chip that switches the light itself, in 3 milliseconds. Samples are out. Sources: PsiQuantum, IEEE ComSoc.",
+   "eli10": "Computers in AI buildings talk with flashes of light. This chip is a super-fast traffic cop that points the light at the right computer without slowing it down.",
+   "tm": [
+    "Samples tested by a few big cloud firms.",
+    "First switches in real AI clusters if tests go well.",
+    "Could be a standard part of AI networks, or lose to cheaper electrical switches."
+   ],
+   "bear": [
+    [
+     "Results are company-reported lab results, not independently verified; only an 8×8 port count so far",
+     "https://techblog.comsoc.org/2026/10/28/psiquantum-targets-ai-data-center-networks-with-silicon-photonic-optical-switching/"
+    ],
+    [
+     "Google already uses MEMS-based optical switches in production, so the market has a strong incumbent",
+     "https://techblog.comsoc.org/2026/10/28/psiquantum-targets-ai-data-center-networks-with-silicon-photonic-optical-switching/"
+    ],
+    [
+     "All-optical switching has a long history of hype in telecom",
+     null
+    ]
+   ],
+   "score": {
+    "groups": 4,
+    "backing": 3,
+    "manufacturable": 4,
+    "supply_chain": 3,
+    "claim_boldness": 2,
+    "attention": 3,
+    "ip_crowding": 3,
+    "ip_litigation": 1,
+    "evidence": 2
+   },
+   "ready": 46,
+   "stage": 2,
+   "years": "1-4",
+   "hype": 50,
+   "score_points": {
+    "evidence": 13.8,
+    "manufacturable": 16.0,
+    "supply_chain": 6.0,
+    "backing": 6.0,
+    "groups": 4.0
+   },
+   "ip_level": "Medium"
+  },
+  {
+   "id": "duopd",
+   "title": "DuoPD: small compute units inside HBM4 memory could make AI chatbots answer up to 2.2× faster",
+   "area": "In-memory compute",
+   "who": "Seoul National University (Jae-Joon Kim group)",
+   "links": [
+    [
+     "arXiv:2610.26131 (Oct 2026)",
+     "https://arxiv.org/abs/2610.26131"
+    ]
+   ],
+   "found": "The authors add lightweight processing-near-memory units to the logic die at the bottom of HBM4 stacks. The GPU handles the prompt and the memory handles word-by-word answering, sharing the same HBM. In simulation this gives up to 2.23× more throughput and up to 37.9% energy saving, for 6.51 mm² and 6.45 W per stack.",
+   "analogy": "Instead of running to the library for every sentence, the librarian writes the answer at the shelf and only hands you the result.",
+   "ip": "Processing-in-memory is heavily patented by Samsung, SK hynix and others. No known litigation.",
+   "win": [
+    "SK hynix",
+    "Samsung",
+    "Micron"
+   ],
+   "watch": "Whether an HBM maker puts compute in the HBM4/4E base die, and any real silicon measurement.",
+   "brief": "HBM4 moves the base die to a logic process, which opens room for compute. DuoPD splits LLM prefill (GPU) from decode (near-memory). Gains are simulation-only and need memory-vendor buy-in.",
+   "video": "AI answers are slow because data shuttles back and forth from memory. A Seoul team put tiny processors inside the memory stack. Simulated result: up to 2.2× faster answers. Real chips needed. Source: arXiv.",
+   "eli10": "The computer's brain keeps running to its notebook. This idea puts a little helper inside the notebook so it can do some of the work itself.",
+   "tm": [
+    "More simulation papers; HBM makers test ideas.",
+    "Possible first compute features in custom HBM base dies.",
+    "Common in AI memory, if standards and software follow."
+   ],
+   "bear": [
+    [
+     "Simulation only, no fabricated chip",
+     "https://arxiv.org/abs/2610.26131"
+    ],
+    [
+     "Needs HBM vendors and GPU makers to agree on a new interface; earlier in-memory compute products saw limited adoption",
+     null
+    ]
+   ],
+   "score": {
+    "groups": 3,
+    "backing": 1,
+    "manufacturable": 4,
+    "supply_chain": 3,
+    "claim_boldness": 3,
+    "attention": 1,
+    "ip_crowding": 4,
+    "ip_litigation": 1,
+    "evidence": 0
+   },
+   "date": "2026-10-29",
+   "ready": 27,
+   "stage": 1,
+   "years": "4-8",
+   "hype": 40,
+   "score_points": {
+    "evidence": 0.0,
+    "manufacturable": 16.0,
+    "supply_chain": 6.0,
+    "backing": 2.0,
+    "groups": 3.0
+   },
+   "ip_level": "Medium"
+  },
+  {
+   "id": "bfo-thin",
+   "title": "Brown University: a magnetic-electric material that keeps working at 1.6 nm, a step toward ultra-low-power memory",
+   "area": "Memory materials",
+   "date": "2026-10-28",
+   "who": "Brown University and collaborators (Nature Materials)",
+   "links": [
+    [
+     "Nature Materials paper (Oct 28, 2026)",
+     "https://www.nature.com/articles/s41563-026-02786-1"
+    ],
+    [
+     "Brown University news (Oct 28, 2026)",
+     "https://www.brown.edu/news/2026-10-28/multiferroic-dead-zone"
+    ]
+   ],
+   "found": "Thin films of bismuth ferrite (BiFeO3) usually lose their properties near the surface, called a \"dead layer\". The team removed it, keeping electric and magnetic order down to four atomic unit cells (about 1.6 nm), and found signs of altermagnetism.",
+   "analogy": "Like a paint that used to stop working if you brushed it on too thin; now even a near-invisible coat still works.",
+   "ip": "Early science; little patent crowding.",
+   "win": [
+    "Memory and spintronics research labs"
+   ],
+   "watch": "Growth on silicon instead of the rare DyScO3 crystal, and a working memory cell.",
+   "brief": "Multiferroics could let voltage, not current, flip magnetic bits, cutting memory energy. This paper shows the effect survives at the scale real devices need. It is fundamental physics; manufacturing is far off.",
+   "video": "Chips waste energy pushing current to flip bits. A material that flips magnetism with voltage could fix that, but it died when made thin. Brown just made it work at 1.6 nanometres. Source: Nature Materials.",
+   "eli10": "Scientists found a way to make a special material work even when it is thinner than a strand of DNA. One day it could make memory chips use much less power.",
+   "tm": [
+    "More labs reproduce it.",
+    "Test memory cells in labs.",
+    "Still research unless it grows on silicon."
+   ],
+   "bear": [
+    [
+     "Films are grown on a rare-earth DyScO3 crystal, not on standard silicon wafers",
+     "https://www.brown.edu/news/2026-10-28/multiferroic-dead-zone"
+    ],
+    [
+     "Altermagnetic order is shown by indirect signatures, which other groups still need to confirm",
+     "https://www.nature.com/articles/s41563-026-02786-1"
+    ]
+   ],
+   "score": {
+    "groups": 3,
+    "backing": 1,
+    "manufacturable": 1,
+    "supply_chain": 1,
+    "claim_boldness": 2,
+    "attention": 2,
+    "ip_crowding": 2,
+    "ip_litigation": 1,
+    "evidence": 1
+   },
+   "ready": 16,
+   "stage": 1,
+   "years": "6-10",
+   "hype": 40,
+   "score_points": {
+    "evidence": 5.5,
+    "manufacturable": 4.0,
+    "supply_chain": 2.0,
+    "backing": 2.0,
+    "groups": 3.0
+   },
+   "ip_level": "Low"
+  },
+  {
+   "id": "agilex27",
+   "title": "Altera launches Agilex 2X FPGAs with 1.8× better performance per watt for AI infrastructure",
+   "area": "Programmable AI chips",
+   "date": "2026-10-28",
+   "who": "Altera (majority owned by Silver Lake; Intel minority stake)",
+   "links": [
+    [
+     "Altera newsroom: Agilex 2X (Oct 28, 2026)",
+     "https://www.altera.com/newsroom/agilex-2x"
+    ]
+   ],
+   "found": "Altera introduced its Agilex 2X family, led by Agilex 27, claiming 1.8× performance per watt over the previous generation for AI infrastructure, networking and edge.",
+   "analogy": "A chip you can re-wire after you buy it, like Lego you can rebuild for each new AI job.",
+   "ip": "FPGA patents are concentrated in AMD (Xilinx) and Altera. Some historic litigation.",
+   "win": [
+    "Altera",
+    "Network and telecom equipment makers"
+   ],
+   "watch": "Customer design wins and shipment dates for Agilex 27.",
+   "brief": "FPGAs fill gaps where AI networking and pre-processing change too fast for custom chips. The figure is vendor-claimed. Altera is private, so there is no direct listed stock.",
+   "video": "Some chips can be re-wired after they ship. Altera's new Agilex 2X claims 1.8× more work per watt for AI networks. Source: Altera.",
+   "eli10": "Most chips do one job forever. This one can be re-programmed for new jobs, and the new version uses less electricity.",
+   "tm": [
+    "Early customer designs.",
+    "In network gear and AI servers.",
+    "Replaced by the next generation."
+   ],
+   "bear": [
+    [
+     "Performance-per-watt figure is vendor-claimed, not independently tested",
+     "https://www.altera.com/newsroom/agilex-2x"
+    ],
+    [
+     "For pure AI maths, FPGAs usually lose to GPUs and custom chips on cost per task",
+     null
+    ]
+   ],
+   "score": {
+    "groups": 4,
+    "backing": 4,
+    "manufacturable": 5,
+    "supply_chain": 5,
+    "claim_boldness": 2,
+    "attention": 2,
+    "ip_crowding": 3,
+    "ip_litigation": 2,
+    "evidence": 3
+   },
+   "ready": 67,
+   "stage": 2,
+   "years": "2-4",
+   "hype": 40,
+   "score_points": {
+    "evidence": 24.8,
+    "manufacturable": 20.0,
+    "supply_chain": 10.0,
+    "backing": 8.0,
+    "groups": 4.0
+   },
+   "ip_level": "Medium"
+  },
+  {
+   "id": "ceva-npu",
+   "title": "Ceva unveils next-gen NeuPro AI engines (2× throughput per mm²) and enters AI infrastructure",
+   "area": "AI chip IP",
+   "date": "2026-10-28",
+   "who": "Ceva (NASDAQ: CEVA)",
+   "links": [
+    [
+     "Ceva press release (Oct 28, 2026)",
+     "https://www.ceva-ip.com/press/ceva-unveils-next-generation-neupro-npu-portfolio-and-announces-expansion-into-ai-infrastructure/"
+    ]
+   ],
+   "found": "Ceva announced a new NeuPro neural-processor IP family claiming 2× throughput per mm² and 50% better efficiency, with FP4/FP8 support, and said it is expanding from edge devices into AI infrastructure. Early access is open now; general availability is planned for Q2 2027.",
+   "analogy": "Ceva sells blueprints, not buildings. Chip makers license the AI-engine design and build it into their own chips.",
+   "ip": "NPU IP is crowded (Arm, Cadence, Synopsys, many startups).",
+   "win": [
+    "Ceva",
+    "Chip makers licensing NPU IP"
+   ],
+   "watch": "Named licensees for the infrastructure version and the Q2 2027 general-availability date.",
+   "brief": "Licensable NPUs let many companies add AI without designing an engine from scratch. Gains are vendor-claimed and revenue arrives through royalties years later.",
+   "video": "Not every company can design an AI chip. Ceva sells the design. Its new NeuPro claims double the work per area. Ships to licensees in 2027. Source: Ceva.",
+   "eli10": "Ceva draws the plans for the \"thinking\" part of a chip, and other companies use the plans. The new plans are twice as good for the same space.",
+   "tm": [
+    "Early-access licensees.",
+    "First chips using it ship.",
+    "Royalties if widely adopted."
+   ],
+   "bear": [
+    [
+     "General availability not until Q2 2027; figures are vendor-claimed",
+     "https://www.ceva-ip.com/press/ceva-unveils-next-generation-neupro-npu-portfolio-and-announces-expansion-into-ai-infrastructure/"
+    ],
+    [
+     "Crowded market against Arm, Cadence, Synopsys and in-house designs",
+     null
+    ]
+   ],
+   "score": {
+    "groups": 5,
+    "backing": 3,
+    "manufacturable": 5,
+    "supply_chain": 5,
+    "claim_boldness": 3,
+    "attention": 2,
+    "ip_crowding": 4,
+    "ip_litigation": 2,
+    "evidence": 3
+   },
+   "ready": 66,
+   "stage": 2,
+   "years": "2-4",
+   "hype": 50,
+   "score_points": {
+    "evidence": 24.8,
+    "manufacturable": 20.0,
+    "supply_chain": 10.0,
+    "backing": 6.0,
+    "groups": 5.0
+   },
+   "ip_level": "Medium"
+  },
+  {
+   "id": "neurophos",
+   "title": "Computing with light instead of electricity (optical AI chip)",
+   "area": "Optical compute",
+   "date": "Patent US11843182B2 granted 2023-12-12 (filed 2021-09-13); MIT collab 2026",
+   "who": "Neurophos (US startup) + MIT CSAIL Julia Lab",
+   "links": [
+    [
+     "MIT CSAIL news",
+     "https://www.csail.mit.edu/news/collaboration-pairs-julia-labs-advanced-algorithms-neurophos-photonic-ai-chips-improve-compute"
+    ],
+    [
+     "Patent US11843182B2",
+     "https://patents.google.com/patent/US11843182B2/en"
+    ],
+    [
+     "WO2021026152A1",
+     "https://patents.google.com/patent/WO2021026152A1/en"
+    ]
+   ],
+   "found": "A startup is building chips that do AI math with light passing through tiny 'metamaterial' patterns, and is working with MIT on the software to run them.",
+   "analogy": "Like sorting mail by shining a torch through a stencil instead of reading every envelope.",
+   "stage": 2,
+   "ready": 31,
+   "years": "3-6",
+   "ip": "Neurophos holds granted US and international patents on its optical design. Other optical-compute firms (e.g. Lightmatter) hold their own patents, so overlap disputes are possible. (Our judgment)",
+   "win": [
+    "Neurophos (private, US)",
+    "GlobalFoundries GFS (US, photonics foundry)",
+    "Tower Semiconductor TSEM (Israel)"
+   ],
+   "watch": "First chip samples to customers and any foundry partnership announcement.",
+   "brief": "Optical AI compute is still pre-revenue but backed by granted IP and an MIT software partnership. Watch for tape-out news; foundries with photonics lines are the picks-and-shovels play.",
+   "video": "What if your AI chip ran on light? A US startup called Neurophos is doing AI math by shining light through microscopic patterns. Less heat, more speed. It's early: no product yet. But they hold patents and just teamed up with MIT. If it works, photonics foundries win first. Source links on our page.",
+   "hype": 80,
+   "eli10": "Some computers might one day think with flashlight beams instead of electricity, so they stay cool and fast.",
+   "tm": [
+    "Lab demos and first test chips",
+    "Pilot units in a few data centres, if tests go well",
+    "Could be a niche accelerator for specific AI jobs"
+   ],
+   "prev_scores": {
+    "ready": 31,
+    "hype": 80,
+    "years": "3-6",
+    "stage": 2
+   },
+   "score": {
+    "evidence": 2,
+    "groups": 3,
+    "backing": 2,
+    "manufacturable": 2,
+    "supply_chain": 1,
+    "claim_boldness": 4,
+    "attention": 4,
+    "ip_crowding": 4,
+    "ip_litigation": 2
+   },
+   "bear": [
+    [
+     "Nature Photonics review (2026): in the cloud, losses and light-to-electric conversions 'dominate power' and have so far prevented commercial photonic tensor cores.",
+     "https://www.nature.com/articles/s41566-026-01987-z"
+    ],
+    [
+     "SPIE paper: data converters can be over 80% of the conversion power budget in photonic AI accelerators.",
+     "https://doi.org/10.1117/12.3101332"
+    ]
+   ],
+   "score_points": {
+    "evidence": 13.8,
+    "manufacturable": 8.0,
+    "supply_chain": 2.0,
+    "backing": 4.0,
+    "groups": 3.0
+   },
+   "ip_level": "Medium"
+  },
+  {
+   "id": "volantis",
+   "title": "A light-based 'highway' between AI chip and memory",
+   "area": "Photonic interconnect",
+   "date": "2026-10-05",
+   "who": "Volantis Semiconductor (US startup)",
+   "links": [
+    [
+     "The Register",
+     "https://www.theregister.com/systems/2026/10/05/altman-backed-volantis-reveals-plan-to-vault-the-memory-wall-by-baking-photonics-into-ai-accelerators/5300959"
+    ],
+    [
+     "Assignee patent profile",
+     "https://www.patents-review.com/assignee/720177-volantis-semiconductor-inc-portland-or-us.html"
+    ]
+   ],
+   "found": "Volantis revealed a plan to build optical connections into the base layer (interposer) that sits under an AI chip and its memory, so data moves by light.",
+   "analogy": "Replacing a crowded two-lane road between factory and warehouse with a bullet train.",
+   "stage": 1,
+   "ready": 32,
+   "years": "4-8",
+   "ip": "Volantis has filed patents (see assignee profile). Big players like Nvidia, Broadcom and Ayar Labs hold large optical I/O portfolios, so licensing may be needed. (Our judgment)",
+   "win": [
+    "Volantis (private)",
+    "Coherent COHR (US)",
+    "Lumentum LITE (US)",
+    "STMicro STM (EU)"
+   ],
+   "watch": "Prototype demo data and named customer pilots.",
+   "brief": "Early-stage photonic interposer aimed at the 'memory wall'. High upside, high execution risk; laser and photonics suppliers benefit regardless of which startup wins.",
+   "video": "AI chips are starving, waiting for data from memory. Volantis wants to fix that with light: an optical highway built right under the chip. It's just a plan for now. But if it works, laser makers like Coherent and Lumentum get a new market. Links on our page.",
+   "hype": 80,
+   "eli10": "Chips wait for memory like kids waiting in a lunch line. This idea builds a super-fast light slide to bring the food.",
+   "tm": [
+    "Prototype shown to partners",
+    "Early customer trials",
+    "Possibly inside some AI servers"
+   ],
+   "prev_scores": {
+    "ready": 32,
+    "hype": 80,
+    "years": "4-8",
+    "stage": 1
+   },
+   "score": {
+    "evidence": 1,
+    "groups": 4,
+    "backing": 2,
+    "manufacturable": 3,
+    "supply_chain": 3,
+    "claim_boldness": 4,
+    "attention": 4,
+    "ip_crowding": 4,
+    "ip_litigation": 2
+   },
+   "bear": [
+    [
+     "Nvidia networking SVP: 'If you can use copper, use copper' — optics only where distance forces it.",
+     "https://www.sdxcentral.com/news/nvidia-backs-copper-in-next-gen-interconnects-amid-push-into-co-packaged-optics/"
+    ],
+    [
+     "SemiAnalysis: Nvidia is going to 'extreme lengths' to stay on copper for scale-up through 2027-2028; limited first-wave CPO adoption expected.",
+     "https://newsletter.semianalysis.com/p/co-packaged-optics-cpo-book-scaling"
+    ],
+    [
+     "Plan revealed, no shipping product disclosed yet (our reading of the source).",
+     null
+    ]
+   ],
+   "score_points": {
+    "evidence": 5.5,
+    "manufacturable": 12.0,
+    "supply_chain": 6.0,
+    "backing": 4.0,
+    "groups": 4.0
+   },
+   "ip_level": "Medium"
+  },
+  {
+   "id": "ibm-superpose",
+   "title": "Storing many values in one memory spot (superposed analog memory)",
+   "area": "In-memory / analog compute",
+   "date": "2026-10 (arXiv 2610.26118); patent app US 2026/0291719",
+   "who": "IBM Research",
+   "links": [
+    [
+     "arXiv 2610.26118",
+     "https://arxiv.science/abs/2610.26118"
+    ],
+    [
+     "IBM patent application",
+     "https://patentlyze.com/patent/ibm-compressed-memory-using-vector-superposition/"
+    ],
+    [
+     "Related IBM patent US 10,678,885",
+     "https://www.patents-review.com/a/20190188242-memory-device-matrix-vector-multiplications.html"
+    ]
+   ],
+   "found": "Researchers showed a way to pack several pieces of information into the same analog memory cell and still read them back, cutting memory needed for AI search.",
+   "analogy": "Like one shelf that holds several books layered as transparent sheets, still readable.",
+   "stage": 1,
+   "ready": 19,
+   "years": "6-10",
+   "ip": "IBM has both the paper and a matching patent application plus older granted patents: strong IP wall. Anyone copying the method may need a licence. (Our judgment)",
+   "win": [
+    "IBM (US)",
+    "Micron MU (US)",
+    "Weebit Nano WBT (Australia, small)"
+   ],
+   "watch": "Chip-level demo on IBM's analog AI hardware.",
+   "brief": "IBM is pairing research with patent filings, signalling commercial intent. Long-dated; relevant to memory makers and analog-AI specialists.",
+   "video": "Imagine one memory cell holding several numbers at once. IBM just published that trick, and filed a patent on it the same season. That's a signal they plan to use it. It's years away, but memory makers should pay attention. Sources on our page.",
+   "hype": 40,
+   "eli10": "Imagine one drawer that magically holds three toys at once, and you can still pick each one out.",
+   "tm": [
+    "More papers and patents",
+    "Tested on IBM's research chips",
+    "Maybe in specialised memory products"
+   ],
+   "prev_scores": {
+    "ready": 19,
+    "hype": 40,
+    "years": "6-10",
+    "stage": 1
+   },
+   "score": {
+    "evidence": 0,
+    "groups": 1,
+    "backing": 3,
+    "manufacturable": 2,
+    "supply_chain": 2,
+    "claim_boldness": 2,
+    "attention": 2,
+    "ip_crowding": 3,
+    "ip_litigation": 1
+   },
+   "bear": [
+    [
+     "System-level review: specialised analog/physical accelerators can show 'little or no advantage' once conversion, control and memory access are counted.",
+     "https://arxiv.org/html/2608.03514v1"
+    ]
+   ],
+   "score_points": {
+    "evidence": 0.0,
+    "manufacturable": 8.0,
+    "supply_chain": 4.0,
+    "backing": 6.0,
+    "groups": 1.0
+   },
+   "ip_level": "Medium"
+  },
+  {
+   "id": "micron-split",
+   "title": "Making noisy analog AI chips accurate (weight splitting)",
+   "area": "In-memory compute",
+   "date": "2026-10 (arXiv 2610.20359)",
+   "who": "Micron Technology researchers",
+   "links": [
+    [
+     "arXiv 2610.20359",
+     "https://arxiv.org/html/2610.20359"
+    ]
+   ],
+   "found": "Micron showed that splitting each AI 'weight' across several memory cells averages out the errors that make analog chips unreliable.",
+   "analogy": "Asking three friends to estimate a distance and averaging: fewer big mistakes.",
+   "stage": 1,
+   "ready": 35,
+   "years": "4-8",
+   "ip": "Splitting/redundancy ideas are widely published; patent risk looks moderate. Micron may file follow-ups. (Our judgment)",
+   "win": [
+    "Micron MU (US, India plant in Gujarat)",
+    "Kaynes KAYNES.NS (India, OSAT partner ecosystem)"
+   ],
+   "watch": "Whether Micron shows it on real silicon or in a product roadmap.",
+   "brief": "A memory giant publishing fixes for analog AI errors suggests in-memory compute is moving toward products. Micron is the direct beneficiary.",
+   "video": "Analog AI chips are super efficient but sloppy. Micron found a simple fix: spread each number across several cells, like averaging friends' guesses. When a memory giant solves accuracy, products tend to follow. Link on our page.",
+   "hype": 30,
+   "eli10": "If one friend guesses wrong, ask three and take the middle answer. Micron does that inside a chip.",
+   "tm": [
+    "Follow-up papers",
+    "Shown on real Micron test silicon",
+    "Could ship inside analog-AI memory products"
+   ],
+   "prev_scores": {
+    "ready": 35,
+    "hype": 30,
+    "years": "4-8",
+    "stage": 1
+   },
+   "score": {
+    "evidence": 0,
+    "groups": 3,
+    "backing": 4,
+    "manufacturable": 4,
+    "supply_chain": 4,
+    "claim_boldness": 1,
+    "attention": 2,
+    "ip_crowding": 2,
+    "ip_litigation": 1
+   },
+   "bear": [
+    [
+     "System-level review: specialised analog/physical accelerators can show 'little or no advantage' once conversion, control and memory access are counted.",
+     "https://arxiv.org/html/2608.03514v1"
+    ]
+   ],
+   "score_points": {
+    "evidence": 0.0,
+    "manufacturable": 16.0,
+    "supply_chain": 8.0,
+    "backing": 8.0,
+    "groups": 3.0
+   },
+   "ip_level": "Low"
+  },
+  {
+   "id": "modulator",
+   "title": "A light switch sending 200 billion bits per second per colour",
+   "area": "Photonic interconnect",
+   "date": "2026-10-22 (Nature Communications)",
+   "who": "Academic silicon photonics team (see paper)",
+   "links": [
+    [
+     "Nature Communications",
+     "https://www.nature.com/articles/s41467-026-78128-1"
+    ]
+   ],
+   "found": "A tiny silicon 'slow-light' modulator flips light on and off fast enough to carry 200 Gb/s on a single colour of laser.",
+   "analogy": "A shutter so fast it could blink a whole HD movie across in a fraction of a second.",
+   "stage": 1,
+   "ready": 36,
+   "years": "2-6",
+   "ip": "Slow-light modulator designs are patented by several universities and companies; licensing typical. (Our judgment)",
+   "win": [
+    "Marvell MRVL (US)",
+    "Broadcom AVGO (US)",
+    "Coherent COHR (US)",
+    "Tower TSEM (Israel)"
+   ],
+   "watch": "Adoption in 1.6T/3.2T optical transceiver roadmaps.",
+   "brief": "Next-gen per-lane speed is a key spec for data-centre optics. Lab result today, but it maps directly onto transceiver vendors' roadmaps.",
+   "video": "Data centres talk with light. A new chip-sized switch flips light 200 billion times a second on one colour. Faster switches mean cheaper, cooler AI clusters. Optics makers like Marvell and Coherent are the ones to watch. Link on our page.",
+   "hype": 40,
+   "eli10": "A tiny light switch that blinks billions of times a second to send messages between computers.",
+   "tm": [
+    "More lab records",
+    "Included in next-gen 3.2T optics plans",
+    "Common in data-centre cables"
+   ],
+   "prev_scores": {
+    "ready": 36,
+    "hype": 40,
+    "years": "2-6",
+    "stage": 1
+   },
+   "score": {
+    "evidence": 1,
+    "groups": 4,
+    "backing": 1,
+    "manufacturable": 4,
+    "supply_chain": 4,
+    "claim_boldness": 3,
+    "attention": 1,
+    "ip_crowding": 3,
+    "ip_litigation": 1
+   },
+   "bear": [
+    [
+     "Nvidia networking SVP: 'If you can use copper, use copper' — optics only where distance forces it.",
+     "https://www.sdxcentral.com/news/nvidia-backs-copper-in-next-gen-interconnects-amid-push-into-co-packaged-optics/"
+    ],
+    [
+     "SemiAnalysis: Nvidia is going to 'extreme lengths' to stay on copper for scale-up through 2027-2028; limited first-wave CPO adoption expected.",
+     "https://newsletter.semianalysis.com/p/co-packaged-optics-cpo-book-scaling"
+    ]
+   ],
+   "score_points": {
+    "evidence": 5.5,
+    "manufacturable": 16.0,
+    "supply_chain": 8.0,
+    "backing": 2.0,
+    "groups": 4.0
+   },
+   "ip_level": "Medium"
+  },
+  {
+   "id": "cfet2d",
+   "title": "Stacking atom-thin transistors on top of each other (2D CFETs)",
+   "area": "New transistors",
+   "date": "2026-07-14 (arXiv 2607.12707)",
+   "who": "imec (Belgium) with academic partners",
+   "links": [
+    [
+     "arXiv 2607.12707",
+     "https://arxiv.org/abs/2607.12707"
+    ],
+    [
+     "Related: MoS2/WSe2 CFET (Applied Physics Letters, 2026-08-24)",
+     "https://doi.org/10.1063/5.0339765"
+    ]
+   ],
+   "found": "imec tested whether transistors made of atom-thin materials and stacked in pairs beat silicon at the ~2026+ 'A2' node. Honest answer: not yet. Contacts and wiring losses eat the gains.",
+   "analogy": "A thinner wall doesn't help if the doors and hallways are the bottleneck.",
+   "stage": 1,
+   "ready": 16,
+   "years": "6-10",
+   "ip": "CFET structures are heavily patented by TSMC, Intel, Samsung and IBM. Any newcomer faces dense IP. (Our judgment)",
+   "win": [
+    "ASML (EU)",
+    "Applied Materials AMAT (US)",
+    "Lam Research LRCX (US)",
+    "Aixtron AIXA (EU, 2D-material tools)"
+   ],
+   "watch": "imec/foundry papers at IEDM (December) on contact resistance fixes.",
+   "brief": "A sober reality-check paper: 2D CFETs are a 2030s story. The tool makers win either way because every new transistor needs new deposition and etch.",
+   "video": "Chips are running out of room, so engineers want to stack transistors made of material just one atom thick. Europe's top chip lab, imec, tested it, and says: not yet. That honesty is useful. The safe winners? The toolmakers. Link on our page.",
+   "hype": 50,
+   "eli10": "Making transistors from sheets just one atom thick and stacking them like pancakes.",
+   "tm": [
+    "More lab tests on contacts",
+    "Research pilot lines",
+    "Still mostly research; mass use likely in the 2030s"
+   ],
+   "prev_scores": {
+    "ready": 16,
+    "hype": 50,
+    "years": "6-10",
+    "stage": 1
+   },
+   "score": {
+    "evidence": 1,
+    "groups": 3,
+    "backing": 3,
+    "manufacturable": 0,
+    "supply_chain": 1,
+    "claim_boldness": 3,
+    "attention": 2,
+    "ip_crowding": 3,
+    "ip_litigation": 1
+   },
+   "bear": [
+    [
+     "No fab today grows 2D-material layers at wafer scale with chip-grade yield (our judgment; no single source).",
+     null
+    ]
+   ],
+   "score_points": {
+    "evidence": 5.5,
+    "manufacturable": 0.0,
+    "supply_chain": 2.0,
+    "backing": 6.0,
+    "groups": 3.0
+   },
+   "ip_level": "Medium"
+  },
+  {
+   "id": "hybridbond",
+   "title": "Gluing chips together copper-to-copper (hybrid bonding)",
+   "area": "Chiplets / packaging",
+   "date": "2026-10-01 partnership; 2026-10-26 Applied raises Besi stake to ~20%",
+   "who": "Applied Materials + Besi; SK hynix",
+   "links": [
+    [
+     "Applied-Besi partnership",
+     "https://ir.appliedmaterials.com/news-releases/news-release-details/applied-materials-and-besi-expand-strategic-partnership-advance/"
+    ],
+    [
+     "Applied raises Besi stake to ~20% (Oct 26 2026)",
+     "https://ir.appliedmaterials.com/news-releases/news-release-details/applied-materials-increase-its-strategic-investment-be/"
+    ],
+    [
+     "Patent US20240170443A1",
+     "https://patents.google.com/patent/US20240170443A1/en"
+    ],
+    [
+     "SK hynix at Hot Chips (Tom's Hardware)",
+     "https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-says-hybrid-bonding-wont-be-ready-for-hbm4e-as-ai-memory-runs-into-a-775-micron-ceiling"
+    ]
+   ],
+   "found": "Tool makers are teaming up to sell machines that fuse chips directly, copper pad to copper pad. But SK hynix says it won't be ready for the next memory generation (HBM4E).",
+   "analogy": "Welding Lego bricks instead of snapping them: tighter, but harder to do right.",
+   "stage": 3,
+   "ready": 80,
+   "years": "0-2",
+   "ip": "Besi/Applied, Adeia (licensor, ADEA) and TSMC hold key hybrid-bonding patents. Adeia actively licenses: a royalty stream, and a lawsuit risk for others. (Our judgment)",
+   "win": [
+    "Besi BESI.AS (EU)",
+    "Applied Materials AMAT (US)",
+    "Adeia ADEA (US, small, IP licensor)",
+    "Hanmi Semiconductor 042700.KS (Korea)"
+   ],
+   "watch": "Which memory generation (HBM5?) adopts it; Besi order intake.",
+   "brief": "Hybrid bonding is at the orders stage. Timing slipped for HBM4E, which favours legacy bonder makers short-term and Besi/AMAT longer-term. Adeia is an under-the-radar IP play.",
+   "video": "Next-gen AI chips are glued together atom-close using copper. Toolmakers Applied Materials and Besi are teaming up to sell the machines. But memory giant SK hynix says it's not ready yet. Delay now, big wave later. Links on our page.",
+   "hype": 50,
+   "eli10": "Instead of using tiny solder balls, chips are pressed together so their copper parts fuse, like welding.",
+   "tm": [
+    "More orders for bonding machines",
+    "Used in some memory and logic stacks",
+    "Standard for top AI chips"
+   ],
+   "prev_scores": {
+    "ready": 80,
+    "hype": 50,
+    "years": "0-2",
+    "stage": 3
+   },
+   "score": {
+    "evidence": 4,
+    "groups": 5,
+    "backing": 5,
+    "manufacturable": 4,
+    "supply_chain": 4,
+    "claim_boldness": 2,
+    "attention": 3,
+    "ip_crowding": 4,
+    "ip_litigation": 4
+   },
+   "bear": [
+    [
+     "SK hynix says hybrid bonding won't be ready for HBM4E memory stacks.",
+     "https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-says-hybrid-bonding-wont-be-ready-for-hbm4e-as-ai-memory-runs-into-a-775-micron-ceiling"
+    ]
+   ],
+   "score_points": {
+    "evidence": 41.2,
+    "manufacturable": 16.0,
+    "supply_chain": 8.0,
+    "backing": 10.0,
+    "groups": 5.0
+   },
+   "ip_level": "High"
+  },
+  {
+   "id": "glass",
+   "title": "Glass replacing plastic under AI chips (glass substrates)",
+   "area": "Packaging materials",
+   "date": "2026-06 to 2026-10",
+   "who": "TSMC + Ibiden; Samsung Electro-Mechanics; BOE",
+   "links": [
+    [
+     "TSMC-Ibiden validation (Chosunbiz)",
+     "https://biz.chosun.com/en/en-it/2026/06/18/CFQ2NQPKEZC5LCMU7HNR7UQUVE/"
+    ],
+    [
+     "Samsung Electro-Mechanics (MoneyToday)",
+     "https://www.mt.co.kr/en/industry/2026/10/06/2026100615012220359"
+    ],
+    [
+     "BOE 24-layer glass (DIGITIMES)",
+     "https://www.digitimes.com/news/a20261016PD228/boe-packaging-production-display-ai-chip.html"
+    ],
+    [
+     "Lam Research (Oct 29, 2026): glass in advanced packaging",
+     "https://newsroom.lamresearch.com/glass-substrates-advanced-packaging"
+    ]
+   ],
+   "found": "Several firms are testing glass as the base board under giant AI chips because it stays flat and lets wires sit closer together.",
+   "analogy": "Building a skyscraper on granite instead of plywood.",
+   "stage": 2,
+   "ready": 52,
+   "years": "2-4",
+   "ip": "Intel, Corning, SKC/Absolics and Samsung hold key glass-core patents. Newcomers may need licences. (Our judgment)",
+   "win": [
+    "Ibiden 4062.T (Japan)",
+    "Samsung Electro-Mechanics 009150.KS (Korea)",
+    "SKC 011790.KS (Korea)",
+    "Corning GLW (US)",
+    "3D Glass Solutions (India plant, Odisha)"
+   ],
+   "watch": "Pilot-line yields and first AI product using a glass core. New (Oct 29): toolmaker Lam Research says glass carriers are used today but permanent glass cores are still early, so no stage change.",
+   "brief": "Glass substrates are moving from lab to pilot lines. Substrate makers and glass specialists are positioned; India gets a foothold via 3DGS's Odisha project.",
+   "video": "The board under an AI chip may soon be made of glass. It stays flat and fits more wires. TSMC is testing it with Japan's Ibiden; Samsung and BOE are racing too. Even India has a glass-packaging plant coming. Links on our page.",
+   "hype": 70,
+   "eli10": "The board under a chip may switch from plastic to glass, because glass stays flat and doesn't warp.",
+   "tm": [
+    "Pilot lines and samples",
+    "First AI products on glass, if yields are good",
+    "Common in big AI chips"
+   ],
+   "prev_scores": {
+    "ready": 52,
+    "hype": 70,
+    "years": "2-4",
+    "stage": 2
+   },
+   "score": {
+    "evidence": 3,
+    "groups": 5,
+    "backing": 5,
+    "manufacturable": 2,
+    "supply_chain": 2,
+    "claim_boldness": 3,
+    "attention": 4,
+    "ip_crowding": 3,
+    "ip_litigation": 2
+   },
+   "bear": [
+    [
+     "Tom's Hardware: glass-core substrates are 'still not in a single commercial product' and every timeline has slipped.",
+     "https://www.tomshardware.com/tech-industry/manufacturing/glass-substrate-roadmap-examined"
+    ],
+    [
+     "TrendForce/The Elec: Samsung Electro-Mechanics order schedule pushed back at least 3 times; mass production possibly 2028+ (company disputes a failed qualification).",
+     "https://www.trendforce.com/news/2026/08/18/news-glass-substrate-war-heats-up-shinko-electric-advances-22-layer-product-as-samsung-reportedly-faces-ramp-up-uncertainty/"
+    ],
+    [
+     "Lam Research (Oct 29): permanent glass interposers and glass-core substrates are still at earlier stages; manufacturability and standards must be solved first",
+     "https://newsroom.lamresearch.com/glass-substrates-advanced-packaging"
+    ]
+   ],
+   "score_points": {
+    "evidence": 24.8,
+    "manufacturable": 8.0,
+    "supply_chain": 4.0,
+    "backing": 10.0,
+    "groups": 5.0
+   },
+   "ip_level": "Medium"
+  },
+  {
+   "id": "snn-train",
+   "title": "Brain-like chip that can learn on the device (neuromorphic)",
+   "area": "Neuromorphic",
+   "date": "2026-03-25 (Nature Communications)",
+   "who": "Academic team in China (see author list)",
+   "links": [
+    [
+     "Nature Communications",
+     "https://www.nature.com/articles/s41467-026-70586-x"
+    ]
+   ],
+   "found": "A brain-style chip design that can train itself directly, demonstrated on FPGA, beating Nvidia's Jetson Orin 1.9-3.3x and using far less memory traffic than an A100 in training.",
+   "analogy": "A student who learns while working instead of going back to school.",
+   "stage": 1,
+   "ready": 28,
+   "years": "4-8",
+   "ip": "Neuromorphic patents are held by Intel (Loihi), IBM and BrainChip; academic designs can face overlap. (Our judgment)",
+   "win": [
+    "BrainChip BRN.AX (Australia, small)",
+    "Lattice LSCC (US, FPGAs)",
+    "AMD (Xilinx FPGAs)"
+   ],
+   "watch": "Tape-out on real silicon and edge-device partners.",
+   "brief": "On-device learning for edge AI is a real gap. FPGA demo today; small-cap neuromorphic and FPGA vendors are the exposure.",
+   "video": "Most AI learns in giant data centres. This brain-like chip learns on the spot, and it beat Nvidia's Jetson by up to 3 times in tests. It's an FPGA demo, not a product. Watch small players like BrainChip. Link on our page.",
+   "hype": 60,
+   "eli10": "A chip that works like a tiny brain and can learn new things by itself, without the cloud.",
+   "tm": [
+    "More FPGA demos",
+    "First real chips (tape-out)",
+    "Possible use in robots and cameras"
+   ],
+   "prev_scores": {
+    "ready": 28,
+    "hype": 60,
+    "years": "4-8",
+    "stage": 1
+   },
+   "score": {
+    "evidence": 1,
+    "groups": 4,
+    "backing": 1,
+    "manufacturable": 3,
+    "supply_chain": 2,
+    "claim_boldness": 3,
+    "attention": 3,
+    "ip_crowding": 2,
+    "ip_litigation": 1
+   },
+   "bear": [
+    [
+     "BrainChip, a listed neuromorphic pioneer, reported only US$1.22M revenue and a US$12.0M loss for H1 2026 — commercial demand for brain-like chips is still tiny.",
+     "https://investor.brainchip.com/wp-content/uploads/2026/09/2026-08-26-June-2026-half-yearly-report.pdf"
+    ],
+    [
+     "System-level review: specialised analog/physical accelerators can show 'little or no advantage' once conversion, control and memory access are counted.",
+     "https://arxiv.org/html/2608.03514v1"
+    ]
+   ],
+   "score_points": {
+    "evidence": 5.5,
+    "manufacturable": 12.0,
+    "supply_chain": 4.0,
+    "backing": 2.0,
+    "groups": 4.0
+   },
+   "ip_level": "Low"
+  },
+  {
+   "id": "snn-logic",
+   "title": "One transistor that can be logic, memory or neuron",
+   "area": "Neuromorphic / 2D materials",
+   "date": "2026-09-14 (Nature Electronics)",
+   "who": "National University of Singapore-led team",
+   "links": [
+    [
+     "Nature Electronics",
+     "https://www.nature.com/articles/s41928-026-01706-0"
+    ]
+   ],
+   "found": "A shape-shifting atom-thin transistor that can be reassigned to act as logic, a synapse or a neuron, filtering out useless data before the 'brain' part wastes energy on it.",
+   "analogy": "A Swiss-army-knife worker who becomes a gatekeeper, clerk or manager as needed.",
+   "stage": 1,
+   "ready": 16,
+   "years": "6-10",
+   "ip": "Ferroelectric HZO devices patented widely (FMC, GlobalFoundries, Intel). (Our judgment)",
+   "win": [
+    "Ferroelectric Memory Co (private, Germany)",
+    "GlobalFoundries GFS (US)"
+   ],
+   "watch": "Wafer-scale fabrication results.",
+   "brief": "Pure research; tracks a promising direction (reconfigurable, back-end-compatible devices). No investable pure play yet.",
+   "video": "What if one tiny transistor could switch jobs: logic one moment, brain cell the next? Singapore researchers built exactly that from a material one atom thick. Decade-away science, but it's how the future starts. Link on our page.",
+   "hype": 30,
+   "eli10": "One tiny switch that can change jobs: sometimes a calculator, sometimes a brain cell.",
+   "tm": [
+    "Bigger arrays in labs",
+    "Wafer-scale tests",
+    "Still research"
+   ],
+   "prev_scores": {
+    "ready": 16,
+    "hype": 30,
+    "years": "6-10",
+    "stage": 1
+   },
+   "score": {
+    "evidence": 1,
+    "groups": 2,
+    "backing": 1,
+    "manufacturable": 1,
+    "supply_chain": 1,
+    "claim_boldness": 2,
+    "attention": 1,
+    "ip_crowding": 2,
+    "ip_litigation": 1
+   },
+   "bear": [
+    [
+     "BrainChip, a listed neuromorphic pioneer, reported only US$1.22M revenue and a US$12.0M loss for H1 2026 — commercial demand for brain-like chips is still tiny.",
+     "https://investor.brainchip.com/wp-content/uploads/2026/09/2026-08-26-June-2026-half-yearly-report.pdf"
+    ]
+   ],
+   "score_points": {
+    "evidence": 5.5,
+    "manufacturable": 4.0,
+    "supply_chain": 2.0,
+    "backing": 2.0,
+    "groups": 2.0
+   },
+   "ip_level": "Low"
+  },
+  {
+   "id": "photonic-snn",
+   "title": "Light-powered brain chip: 1,176x faster on vision",
+   "area": "Photonic neuromorphic",
+   "date": "2026-04-17 (Nature Communications)",
+   "who": "Fudan University-led team (China)",
+   "links": [
+    [
+     "Nature Communications",
+     "https://www.nature.com/articles/s41467-026-72119-y"
+    ]
+   ],
+   "found": "Chip-compatible optical devices that act as both synapse and neuron cut delay 1,176x and energy 239x versus standard designs on vision tasks (in their tests).",
+   "analogy": "Swapping a postal service for a laser pointer between two windows.",
+   "stage": 1,
+   "ready": 16,
+   "years": "6-10",
+   "ip": "Chinese groups patent heavily; export-control limits could restrict Western use. (Our judgment)",
+   "win": [
+    "Chinese photonics foundries (not easily investable)",
+    "Tower TSEM (Israel)"
+   ],
+   "watch": "Independent replication and larger arrays.",
+   "brief": "Eye-catching lab gains; geopolitics may keep this inside China. Monitor for replication.",
+   "video": "A Chinese lab says its light-based brain chip is over a thousand times faster on vision tasks. Big claim, lab test. If it holds up, photonics becomes the brain of edge AI. Link on our page.",
+   "hype": 70,
+   "eli10": "A brain chip that uses light. In tests it was over a thousand times faster at recognising pictures.",
+   "tm": [
+    "Other labs try to repeat it",
+    "Bigger prototype chips",
+    "Possible edge-vision products, mostly in China"
+   ],
+   "prev_scores": {
+    "ready": 16,
+    "hype": 70,
+    "years": "6-10",
+    "stage": 1
+   },
+   "score": {
+    "evidence": 1,
+    "groups": 3,
+    "backing": 1,
+    "manufacturable": 1,
+    "supply_chain": 1,
+    "claim_boldness": 5,
+    "attention": 2,
+    "ip_crowding": 3,
+    "ip_litigation": 1
+   },
+   "bear": [
+    [
+     "Nature Photonics review (2026): in the cloud, losses and light-to-electric conversions 'dominate power' and have so far prevented commercial photonic tensor cores.",
+     "https://www.nature.com/articles/s41566-026-01987-z"
+    ],
+    [
+     "BrainChip, a listed neuromorphic pioneer, reported only US$1.22M revenue and a US$12.0M loss for H1 2026 — commercial demand for brain-like chips is still tiny.",
+     "https://investor.brainchip.com/wp-content/uploads/2026/09/2026-08-26-June-2026-half-yearly-report.pdf"
+    ]
+   ],
+   "score_points": {
+    "evidence": 5.5,
+    "manufacturable": 4.0,
+    "supply_chain": 2.0,
+    "backing": 2.0,
+    "groups": 3.0
+   },
+   "ip_level": "Medium"
+  },
+  {
+   "id": "st-pic",
+   "title": "Silicon photonics reaches high-volume factories",
+   "area": "Photonic interconnect",
+   "date": "2026-03-09",
+   "who": "STMicroelectronics",
+   "links": [
+    [
+     "ST PIC100 newsroom",
+     "https://newsroom.st.com/media-center/press-item.html/t4761.html"
+    ],
+    [
+     "GlobeNewswire copy",
+     "https://www.globenewswire.com/news-release/2026/03/09/3251525/0/en/stmicroelectronics-enters-high-volume-production-of-its-industry-leading-silicon-photonics-platform-to-support-ai-infrastructure-demand.html"
+    ]
+   ],
+   "found": "ST says its PIC100 silicon-photonics process entered high-volume production on 300 mm lines for hyperscalers (800G and 1.6T optical links), with plans to more than quadruple capacity by 2027.",
+   "analogy": "The lab recipe is now on the supermarket shelf.",
+   "stage": 3,
+   "ready": 84,
+   "years": "0-2",
+   "ip": "ST licenses/owns its process; competitors (Intel, TSMC COUPE, GlobalFoundries) have their own. Low infringement risk for buyers. (Our judgment)",
+   "win": [
+    "STMicro STM (EU)",
+    "Coherent COHR (US)",
+    "Lumentum LITE (US)"
+   ],
+   "watch": "Named hyperscaler customers and revenue disclosure.",
+   "brief": "The proof point that photonics research becomes revenue: ST is at volume. This is the near-term leg of the optics story.",
+   "video": "Remember those light-based chip papers? Here's one that made it: ST now mass-produces silicon photonics for data centres. Paper to profit, in action. Link on our page.",
+   "hype": 30,
+   "eli10": "Chips that talk using light are already being made in big factories right now.",
+   "tm": [
+    "Capacity grows; more customers",
+    "Over 4x capacity planned by 2027 (company plan)",
+    "Next version (TSV) for co-packaged optics"
+   ],
+   "prev_scores": {
+    "ready": 84,
+    "hype": 30,
+    "years": "0-2",
+    "stage": 3
+   },
+   "score": {
+    "evidence": 4,
+    "groups": 5,
+    "backing": 5,
+    "manufacturable": 5,
+    "supply_chain": 4,
+    "claim_boldness": 1,
+    "attention": 2,
+    "ip_crowding": 3,
+    "ip_litigation": 2
+   },
+   "bear": [
+    [
+     "Nvidia networking SVP: 'If you can use copper, use copper' — optics only where distance forces it.",
+     "https://www.sdxcentral.com/news/nvidia-backs-copper-in-next-gen-interconnects-amid-push-into-co-packaged-optics/"
+    ],
+    [
+     "SemiAnalysis: Nvidia is going to 'extreme lengths' to stay on copper for scale-up through 2027-2028; limited first-wave CPO adoption expected.",
+     "https://newsletter.semianalysis.com/p/co-packaged-optics-cpo-book-scaling"
+    ]
+   ],
+   "score_points": {
+    "evidence": 41.2,
+    "manufacturable": 20.0,
+    "supply_chain": 8.0,
+    "backing": 10.0,
+    "groups": 5.0
+   },
+   "ip_level": "Medium"
+  }
+ ],
+ "results": {
+  "kpis": [
+   [
+    "$96.2B",
+    "Nvidia quarterly revenue (Q2 FY27)",
+    "+106% YoY",
+    "pos",
+    1
+   ],
+   [
+    "$46.7B",
+    "TSMC Q3 2026 revenue",
+    "+41% YoY",
+    "pos",
+    2
+   ],
+   [
+    "₩104.6T",
+    "SK hynix Q3 revenue (+328% YoY; 80% operating margin)",
+    "sold out to 2029",
+    "pos",
+    21
+   ],
+   [
+    "₩107.4T",
+    "Samsung Q3 operating profit (vs ₩12.2T a year ago)",
+    "shares fell up to 6.2%",
+    "pos",
+    22
+   ],
+   [
+    "~$720B+",
+    "Big-4 cloud capex guide 2026",
+    "estimate range",
+    "pos",
+    6
+   ],
+   [
+    "75.0%",
+    "Nvidia gross margin",
+    "+2.6 pts YoY",
+    "pos",
+    1
+   ],
+   [
+    "₹1.64L cr",
+    "India ISM 1.0 approved investment",
+    "12 projects",
+    "pos",
+    8
+   ]
+  ],
+  "revenue": {
+   "title": "Quarterly revenue, $ billions (year-ago vs latest)",
+   "unit": "$B",
+   "rows": [
+    [
+     "Nvidia (Q2 FY27)",
+     46.7,
+     96.2,
+     1
+    ],
+    [
+     "TSMC (Q3 2026)",
+     33.1,
+     46.7,
+     2
+    ],
+    [
+     "Nvidia Data Center",
+     41.1,
+     89.0,
+     1
+    ],
+    [
+     "AMD Data Center (Q2 2026)",
+     3.2,
+     6.7,
+     3
+    ]
+   ]
+  },
+  "margins": {
+   "title": "Profit margins, latest quarter (%)",
+   "rows": [
+    [
+     "SK hynix operating",
+     80,
+     4
+    ],
+    [
+     "Nvidia gross",
+     75.0,
+     1
+    ],
+    [
+     "TSMC gross",
+     66.4,
+     2
+    ],
+    [
+     "TSMC operating",
+     58.7,
+     2
+    ]
+   ]
+  },
+  "capex": {
+   "title": "2026 capex guidance, $ billions (midpoints, approximate)",
+   "rows": [
+    [
+     "Amazon",
+     220,
+     6
+    ],
+    [
+     "Alphabet",
+     200,
+     6
+    ],
+    [
+     "Microsoft",
+     175,
+     6
+    ],
+    [
+     "Meta",
+     137,
+     6
+    ],
+    [
+     "TSMC",
+     62,
+     2
+    ]
+   ]
+  },
+  "tam": {
+   "title": "How big is the AI chip market in 2026? It depends who you ask ($B)",
+   "rows": [
+    [
+     "Narrow 'accelerator' (Grand View)",
+     42.1,
+     10
+    ],
+    [
+     "AI accelerators (Mordor)",
+     174.7,
+     11
+    ],
+    [
+     "AI GPUs (Mordor)",
+     288.4,
+     12
+    ],
+    [
+     "Gen-AI chips (Deloitte)",
+     500,
+     13
+    ]
+   ],
+   "note": "Same market, four definitions. Narrow studies count only add-on accelerator cards; wide ones count every chip used for generative AI."
+  },
+  "valuation": {
+   "title": "Valuations, late Oct 2026 (approximate, move daily)",
+   "cols": [
+    "Company",
+    "Ticker",
+    "Market cap",
+    "Forward P/E",
+    "Src"
+   ],
+   "rows": [
+    [
+     "Nvidia",
+     "NVDA",
+     "~$5.1-5.3T",
+     "~24.5x",
+     9
+    ],
+    [
+     "TSMC",
+     "TSM / 2330.TW",
+     "~$2.2-2.3T",
+     "~24.5-25x",
+     9
+    ],
+    [
+     "Broadcom",
+     "AVGO",
+     "~$1.55T",
+     "~34x",
+     9
+    ]
+   ]
+  },
+  "dates": [
+   [
+    "2026-11-03",
+    "AMD Q3 results (confirmed by AMD)",
+    16
+   ],
+   [
+    "Late Nov 2026 (est.)",
+    "Nvidia Q3 FY27 results (date not yet announced)",
+    1
+   ],
+   [
+    "Jan 2027 (est.)",
+    "TSMC Q4 results vs $52.3-54.3B guide",
+    2
+   ],
+   [
+    "2026 (ongoing)",
+    "India ISM 2.0 approvals; 4th plant to start production",
+    8
+   ]
+  ]
+ },
+ "opportunities": [
+  {
+   "name": "Aixtron",
+   "region": "Europe",
+   "ticker": "AIXA",
+   "catalyst": "Tools for 2D-material transistors",
+   "timeline": "2029+",
+   "risk": "Very long timeline",
+   "conv": "Watch",
+   "src": 0,
+   "stage": 1,
+   "links": [
+    "cfet2d"
+   ],
+   "score": {
+    "exposure": 1,
+    "execution": 3,
+    "investable": 1
+   },
+   "prev_conv": "Watch",
+   "bear": [
+    [
+     "Very long timeline",
+     null
+    ],
+    [
+     "Linked research is 6-10 years from market (our formula)",
+     null
+    ]
+   ],
+   "conv_score": 26
+  },
+  {
+   "name": "Micron",
+   "region": "USA/India",
+   "ticker": "MU",
+   "catalyst": "Analog in-memory & HBM; Gujarat plant",
+   "timeline": "2026-2029",
+   "risk": "Memory cycle",
+   "conv": "Medium",
+   "src": 0,
+   "stage": 1,
+   "links": [
+    "micron-split",
+    "ibm-superpose"
+   ],
+   "score": {
+    "exposure": 3,
+    "execution": 4,
+    "investable": 1
+   },
+   "prev_conv": "Medium",
+   "bear": [
+    [
+     "Memory cycle",
+     null
+    ],
+    [
+     "System-level review: specialised analog/physical accelerators can show 'little or no advantage' once conversion, control and memory access are counted.",
+     "https://arxiv.org/html/2608.03514v1"
+    ]
+   ],
+   "conv_score": 51
+  },
+  {
+   "name": "Ibiden",
+   "region": "Japan",
+   "ticker": "4062.T",
+   "catalyst": "Glass substrate validation with TSMC (reported)",
+   "timeline": "2027-2028",
+   "risk": "Glass may arrive late",
+   "conv": "Medium",
+   "src": 14,
+   "stage": 2,
+   "links": [
+    "glass"
+   ],
+   "score": {
+    "exposure": 3,
+    "execution": 4,
+    "investable": 1
+   },
+   "prev_conv": "Medium",
+   "bear": [
+    [
+     "Glass may arrive late",
+     null
+    ],
+    [
+     "Glass timelines keep slipping (Tom's Hardware).",
+     "https://www.tomshardware.com/tech-industry/manufacturing/glass-substrate-roadmap-examined"
+    ]
+   ],
+   "conv_score": 61
+  },
+  {
+   "name": "Tata Electronics fab",
+   "region": "India",
+   "ticker": "Unlisted (parent: Tata group cos)",
+   "catalyst": "₹91,526 cr Gujarat fab with PSMC",
+   "timeline": "2027+ (est.)",
+   "risk": "Not directly investable",
+   "conv": "Watch",
+   "src": 8,
+   "stage": 2,
+   "links": [
+    "glass"
+   ],
+   "score": {
+    "exposure": 2,
+    "execution": 2,
+    "investable": 0
+   },
+   "prev_conv": "Watch",
+   "bear": [
+    [
+     "Not directly investable",
+     null
+    ],
+    [
+     "Glass timelines keep slipping (Tom's Hardware).",
+     "https://www.tomshardware.com/tech-industry/manufacturing/glass-substrate-roadmap-examined"
+    ]
+   ],
+   "conv_score": 45
+  },
+  {
+   "name": "Coherent",
+   "region": "USA",
+   "ticker": "COHR",
+   "catalyst": "Lasers/optics for photonic links & CPO",
+   "timeline": "2026-2029",
+   "risk": "Optics price wars",
+   "conv": "Medium",
+   "src": 0,
+   "stage": 2,
+   "links": [
+    "volantis",
+    "modulator",
+    "st-pic"
+   ],
+   "score": {
+    "exposure": 4,
+    "execution": 3,
+    "investable": 1
+   },
+   "prev_conv": "Medium",
+   "bear": [
+    [
+     "Optics price wars",
+     null
+    ],
+    [
+     "Nvidia networking SVP: 'If you can use copper, use copper' — optics only where distance forces it.",
+     "https://www.sdxcentral.com/news/nvidia-backs-copper-in-next-gen-interconnects-amid-push-into-co-packaged-optics/"
+    ]
+   ],
+   "conv_score": 64
+  },
+  {
+   "name": "Tower Semiconductor",
+   "region": "Israel",
+   "ticker": "TSEM",
+   "catalyst": "Photonics foundry for startups",
+   "timeline": "2026-2029",
+   "risk": "Customer concentration",
+   "conv": "Medium",
+   "src": 0,
+   "stage": 2,
+   "links": [
+    "neurophos",
+    "modulator"
+   ],
+   "score": {
+    "exposure": 3,
+    "execution": 3,
+    "investable": 1
+   },
+   "prev_conv": "Medium",
+   "bear": [
+    [
+     "Customer concentration",
+     null
+    ],
+    [
+     "Nature Photonics review (2026): in the cloud, losses and light-to-electric conversions 'dominate power' and have so far prevented commercial photonic tensor cores.",
+     "https://www.nature.com/articles/s41566-026-01987-z"
+    ],
+    [
+     "Nvidia networking SVP: 'If you can use copper, use copper' — optics only where distance forces it.",
+     "https://www.sdxcentral.com/news/nvidia-backs-copper-in-next-gen-interconnects-amid-push-into-co-packaged-optics/"
+    ]
+   ],
+   "conv_score": 49
+  },
+  {
+   "name": "Corning",
+   "region": "USA",
+   "ticker": "GLW",
+   "catalyst": "Glass core substrates",
+   "timeline": "2027-2029",
+   "risk": "Glass adoption slips",
+   "conv": "Medium",
+   "src": 0,
+   "stage": 2,
+   "links": [
+    "glass"
+   ],
+   "score": {
+    "exposure": 2,
+    "execution": 4,
+    "investable": 1
+   },
+   "prev_conv": "Medium",
+   "bear": [
+    [
+     "Glass adoption slips",
+     null
+    ],
+    [
+     "Glass timelines keep slipping (Tom's Hardware).",
+     "https://www.tomshardware.com/tech-industry/manufacturing/glass-substrate-roadmap-examined"
+    ]
+   ],
+   "conv_score": 53
+  },
+  {
+   "name": "BrainChip",
+   "region": "Australia",
+   "ticker": "BRN.AX",
+   "catalyst": "Edge neuromorphic chips",
+   "timeline": "2027+",
+   "risk": "Tiny revenue; dilution",
+   "conv": "Speculative",
+   "src": 0,
+   "stage": 2,
+   "links": [
+    "snn-train"
+   ],
+   "score": {
+    "exposure": 5,
+    "execution": 1,
+    "investable": 1
+   },
+   "prev_conv": "Speculative",
+   "bear": [
+    [
+     "Tiny revenue; dilution",
+     null
+    ],
+    [
+     "BrainChip, a listed neuromorphic pioneer, reported only US$1.22M revenue and a US$12.0M loss for H1 2026 — commercial demand for brain-like chips is still tiny.",
+     "https://investor.brainchip.com/wp-content/uploads/2026/09/2026-08-26-June-2026-half-yearly-report.pdf"
+    ]
+   ],
+   "conv_score": 55
+  },
+  {
+   "name": "Ceva",
+   "region": "USA",
+   "ticker": "CEVA",
+   "catalyst": "Next-gen NeuPro NPU IP (Oct 28); early access now, general availability Q2 2027",
+   "timeline": "2027-2029 (royalties lag)",
+   "risk": "Crowded IP market; vendor-claimed gains",
+   "conv": "Medium",
+   "src": null,
+   "stage": 2,
+   "links": [
+    "ceva-npu"
+   ],
+   "score": {
+    "exposure": 3,
+    "execution": 3,
+    "investable": 1
+   },
+   "bear": [
+    [
+     "General availability not until Q2 2027",
+     "https://www.ceva-ip.com/press/ceva-unveils-next-generation-neupro-npu-portfolio-and-announces-expansion-into-ai-infrastructure/"
+    ]
+   ],
+   "conv_score": 62
+  },
+  {
+   "name": "GlobalFoundries",
+   "region": "USA",
+   "ticker": "GFS",
+   "catalyst": "Makes PsiQuantum's silicon-photonics chips, including the new optical switch (Oct 28)",
+   "timeline": "2027+",
+   "risk": "Photonics is a small part of revenue",
+   "conv": "Medium",
+   "src": null,
+   "stage": 2,
+   "links": [
+    "psiq-ocs"
+   ],
+   "score": {
+    "exposure": 2,
+    "execution": 3,
+    "investable": 1
+   },
+   "bear": [
+    [
+     "Switch results are company-reported; only an 8×8 port count",
+     "https://techblog.comsoc.org/2026/10/28/psiquantum-targets-ai-data-center-networks-with-silicon-photonic-optical-switching/"
+    ]
+   ],
+   "conv_score": 46
+  },
+  {
+   "name": "Altera",
+   "region": "USA",
+   "ticker": "Private (Silver Lake majority; Intel minority)",
+   "catalyst": "Agilex 2X FPGA launch (Oct 28)",
+   "timeline": "2027",
+   "risk": "Not listed; FPGAs lose to custom chips for pure AI maths",
+   "conv": "Watch",
+   "src": null,
+   "stage": 2,
+   "links": [
+    "agilex27"
+   ],
+   "score": {
+    "exposure": 4,
+    "execution": 3,
+    "investable": 0
+   },
+   "bear": [
+    [
+     "Performance figure is vendor-claimed",
+     "https://www.altera.com/newsroom/agilex-2x"
+    ]
+   ],
+   "conv_score": 71
+  },
+  {
+   "name": "Besi",
+   "region": "Europe",
+   "ticker": "BESI.AS",
+   "catalyst": "Hybrid bonding tied to Applied Materials partnership",
+   "timeline": "2026-2028",
+   "risk": "Adoption timing slips",
+   "conv": "High",
+   "src": 14,
+   "stage": 3,
+   "links": [
+    "hybridbond"
+   ],
+   "score": {
+    "exposure": 5,
+    "execution": 4,
+    "investable": 1
+   },
+   "prev_conv": "High",
+   "bear": [
+    [
+     "Adoption timing slips",
+     null
+    ],
+    [
+     "SK hynix: hybrid bonding not ready for HBM4E.",
+     "https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-says-hybrid-bonding-wont-be-ready-for-hbm4e-as-ai-memory-runs-into-a-775-micron-ceiling"
+    ]
+   ],
+   "conv_score": 88
+  },
+  {
+   "name": "Advantest",
+   "region": "Japan",
+   "ticker": "6857.T",
+   "catalyst": "AI chip testing demand",
+   "timeline": "Now-2027",
+   "risk": "Cyclical; valuation",
+   "conv": "Medium",
+   "src": 14,
+   "stage": 3,
+   "links": [
+    "hybridbond"
+   ],
+   "score": {
+    "exposure": 2,
+    "execution": 4,
+    "investable": 1
+   },
+   "prev_conv": "Medium",
+   "bear": [
+    [
+     "Cyclical; valuation",
+     null
+    ],
+    [
+     "SK hynix: hybrid bonding not ready for HBM4E.",
+     "https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-says-hybrid-bonding-wont-be-ready-for-hbm4e-as-ai-memory-runs-into-a-775-micron-ceiling"
+    ]
+   ],
+   "conv_score": 64
+  },
+  {
+   "name": "Kaynes Technology",
+   "region": "India",
+   "ticker": "KAYNES.NS",
+   "catalyst": "OSAT plant in commercial production (ISM)",
+   "timeline": "2026-2027",
+   "risk": "Small scale; high expectations priced in",
+   "conv": "Watch",
+   "src": 8,
+   "stage": 3,
+   "links": [
+    "micron-split"
+   ],
+   "score": {
+    "exposure": 1,
+    "execution": 3,
+    "investable": 1
+   },
+   "prev_conv": "Watch",
+   "bear": [
+    [
+     "Small scale; high expectations priced in",
+     null
+    ],
+    [
+     "System-level review: specialised analog/physical accelerators can show 'little or no advantage' once conversion, control and memory access are counted.",
+     "https://arxiv.org/html/2608.03514v1"
+    ]
+   ],
+   "conv_score": 34
+  },
+  {
+   "name": "CG Power",
+   "region": "India",
+   "ticker": "CGPOWER.NS",
+   "catalyst": "Chip packaging JV with Renesas & Stars",
+   "timeline": "2026-2027",
+   "risk": "Execution; ramp delays",
+   "conv": "Watch",
+   "src": 8,
+   "stage": 3,
+   "links": [
+    "hybridbond"
+   ],
+   "score": {
+    "exposure": 1,
+    "execution": 3,
+    "investable": 1
+   },
+   "prev_conv": "Watch",
+   "bear": [
+    [
+     "Execution; ramp delays",
+     null
+    ],
+    [
+     "SK hynix: hybrid bonding not ready for HBM4E.",
+     "https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-says-hybrid-bonding-wont-be-ready-for-hbm4e-as-ai-memory-runs-into-a-775-micron-ceiling"
+    ]
+   ],
+   "conv_score": 52
+  },
+  {
+   "name": "Adeia",
+   "region": "USA",
+   "ticker": "ADEA",
+   "catalyst": "Licenses hybrid-bonding IP",
+   "timeline": "2026-2028",
+   "risk": "Litigation outcomes",
+   "conv": "Medium",
+   "src": 0,
+   "stage": 3,
+   "links": [
+    "hybridbond"
+   ],
+   "score": {
+    "exposure": 3,
+    "execution": 2,
+    "investable": 1
+   },
+   "prev_conv": "Medium",
+   "bear": [
+    [
+     "Litigation outcomes",
+     null
+    ],
+    [
+     "SK hynix: hybrid bonding not ready for HBM4E.",
+     "https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-says-hybrid-bonding-wont-be-ready-for-hbm4e-as-ai-memory-runs-into-a-775-micron-ceiling"
+    ]
+   ],
+   "conv_score": 64
+  },
+  {
+   "name": "STMicroelectronics",
+   "region": "Europe",
+   "ticker": "STM",
+   "catalyst": "PIC100 photonics in volume",
+   "timeline": "2026-2027",
+   "risk": "Auto/industrial weakness",
+   "conv": "High",
+   "src": 0,
+   "stage": 3,
+   "links": [
+    "st-pic"
+   ],
+   "score": {
+    "exposure": 2,
+    "execution": 4,
+    "investable": 1
+   },
+   "prev_conv": "High",
+   "bear": [
+    [
+     "Auto/industrial weakness",
+     null
+    ],
+    [
+     "Nvidia networking SVP: 'If you can use copper, use copper' — optics only where distance forces it.",
+     "https://www.sdxcentral.com/news/nvidia-backs-copper-in-next-gen-interconnects-amid-push-into-co-packaged-optics/"
+    ]
+   ],
+   "conv_score": 66
+  },
+  {
+   "name": "SK hynix",
+   "region": "Korea",
+   "ticker": "000660.KS",
+   "catalyst": "Q3 (Oct 28): revenue ₩104.6T (+328% YoY), DRAM/HBM booked through 2029, long-term deals with 14 customers cover >50% of 2027-28 output",
+   "timeline": "Now-2027",
+   "risk": "Memory price cycle reversal",
+   "conv": "High",
+   "src": 21,
+   "stage": 4,
+   "links": [
+    "hybridbond"
+   ],
+   "score": {
+    "exposure": 4,
+    "execution": 4,
+    "investable": 1
+   },
+   "prev_conv": "High",
+   "bear": [
+    [
+     "Memory price cycle reversal",
+     null
+    ],
+    [
+     "SK hynix: hybrid bonding not ready for HBM4E.",
+     "https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-says-hybrid-bonding-wont-be-ready-for-hbm4e-as-ai-memory-runs-into-a-775-micron-ceiling"
+    ]
+   ],
+   "conv_score": 80
+  },
+  {
+   "name": "TSMC",
+   "region": "Taiwan",
+   "ticker": "TSM",
+   "catalyst": "2nm steep ramp; Q4 guide $52.3-54.3B",
+   "timeline": "Q4 2026 (Jan 2027 results)",
+   "risk": "Taiwan risk; overseas fab margin drag",
+   "conv": "Medium",
+   "src": 2,
+   "stage": 4,
+   "links": [
+    "glass"
+   ],
+   "score": {
+    "exposure": 2,
+    "execution": 5,
+    "investable": 1
+   },
+   "prev_conv": "Medium",
+   "bear": [
+    [
+     "Taiwan risk; overseas fab margin drag",
+     null
+    ],
+    [
+     "Glass timelines keep slipping (Tom's Hardware).",
+     "https://www.tomshardware.com/tech-industry/manufacturing/glass-substrate-roadmap-examined"
+    ]
+   ],
+   "conv_score": 57
+  },
+  {
+   "name": "Nvidia",
+   "region": "USA",
+   "ticker": "NVDA",
+   "catalyst": "Vera Rubin ramp in full production",
+   "timeline": "Next results ~late Nov 2026 (est.)",
+   "risk": "Customer capex slowdown; China rules",
+   "conv": "Medium",
+   "src": 1,
+   "stage": 4,
+   "links": [
+    "st-pic",
+    "modulator"
+   ],
+   "score": {
+    "exposure": 2,
+    "execution": 5,
+    "investable": 1
+   },
+   "prev_conv": "Medium",
+   "bear": [
+    [
+     "Customer capex slowdown; China rules",
+     null
+    ],
+    [
+     "Nvidia networking SVP: 'If you can use copper, use copper' — optics only where distance forces it.",
+     "https://www.sdxcentral.com/news/nvidia-backs-copper-in-next-gen-interconnects-amid-push-into-co-packaged-optics/"
+    ]
+   ],
+   "conv_score": 60
+  },
+  {
+   "name": "AMD",
+   "region": "USA",
+   "ticker": "AMD",
+   "catalyst": "Q3 results Nov 3 2026; Q3 revenue guide ~$13.0B",
+   "timeline": "Nov 3 2026",
+   "risk": "Execution vs Nvidia",
+   "conv": "Watch",
+   "src": 3,
+   "stage": 4,
+   "links": [
+    "snn-train"
+   ],
+   "score": {
+    "exposure": 1,
+    "execution": 5,
+    "investable": 1
+   },
+   "prev_conv": "Watch",
+   "bear": [
+    [
+     "Execution vs Nvidia",
+     null
+    ],
+    [
+     "BrainChip, a listed neuromorphic pioneer, reported only US$1.22M revenue and a US$12.0M loss for H1 2026 — commercial demand for brain-like chips is still tiny.",
+     "https://investor.brainchip.com/wp-content/uploads/2026/09/2026-08-26-June-2026-half-yearly-report.pdf"
+    ]
+   ],
+   "conv_score": 39
+  }
+ ],
+ "botd": {
+  "id": "psiq-ocs",
+  "why": "A quantum-computing company turned its low-loss silicon-photonics process into a switch for today's AI data centres, made at a commercial foundry, with samples already with prospective customers. Lab results are company-reported, so we score it Stage 2."
+ },
+ "dates": [
+  [
+   "2026-11-03",
+   "AMD Q3 2026 results (after US market close)",
+   "https://ir.amd.com/news-events/press-releases/detail/1300/amd-to-report-fiscal-third-quarter-2026-financial-results"
+  ],
+  [
+   "2026-12-12",
+   "IEDM 2026 begins (San Francisco, Dec 12-16)",
+   "https://ieee-iedm.org/"
+  ],
+  [
+   "2027-02-14",
+   "ISSCC 2027 begins (San Francisco, Feb 14-18)",
+   "https://www.isscc.org/"
+  ]
+ ],
+ "poll": [
+  "psiq-ocs",
+  "duopd",
+  "ceva-npu",
+  "hybridbond"
+ ]
+}

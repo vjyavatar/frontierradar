@@ -1,0 +1,26 @@
+FrontierRadar explainer: India delays a 0.4% UPI merchant fee to 'immediately after Diwali'
+Issue: 2026-10-30 | Stage 2 · Pilot | Readiness 66/100 | Voice: Piper en_US-lessac-medium (local)
+
+HOOK
+India's phone payment system may start charging shops a tiny fee on big payments, which could help payment companies earn money.
+
+WHAT IT IS
+India delays a 0.4% UPI merchant fee to 'immediately after Diwali'.
+
+WHAT IT DOES
+NPCI said a 0.4% merchant discount rate on person-to-merchant UPI payments above ₹2,000 at medium and large merchants, capped at ₹300, will start 'immediately post Diwali' on a date to be notified; it was due on Oct 15. Think of it like this: Like a free highway adding a small toll only for big trucks, to pay for repairs.
+
+BEFORE
+UPI has been free for merchants.
+
+AFTER
+Who could benefit: UPI payment apps and payment aggregators and Banks in the UPI chain.
+
+WHY IT MATTERS
+We rate it Stage 2, Pilot, readiness 66 out of 100. The catch: Already postponed once, and the Supreme Court is reviewing it. Our judgment: watch. Not financial advice.
+
+NEXT
+Full scores and sources at research.celesys.ai.
+
+SOURCES
+The Hindu (Oct 17, 2026); NPCI MDR FAQ (updated Oct 15, 2026); Business Today (Oct 1, 2026). Judgment calls are labelled. Not financial advice.

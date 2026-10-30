@@ -1,0 +1,26 @@
+FrontierRadar explainer: OpenAI's GPT-6.1 Terra: computer-use AI at half the price, with errors cut from 54% to 17%
+Issue: 2026-10-30 | Stage 3 · Generally available | Readiness 85/100 | Voice: Piper en_US-lessac-medium (local)
+
+HOOK
+OpenAI made a faster, cheaper AI that can use a computer like a person and gets fewer things wrong.
+
+WHAT IT IS
+OpenAI's GPT-6.1 Terra: computer-use AI at half the price, with errors cut from 54% to 17%.
+
+WHAT IT DOES
+OpenAI says GPT-6.1 Terra's API costs 50% less than GPT-5.6 Terra and GPT-6.1 Sol. Think of it like this: Like a cheaper, faster office assistant who now makes far fewer mistakes filling in forms.
+
+BEFORE
+Cheaper mid-size models make it practical to automate routine office work such as reading invoices.
+
+AFTER
+Who could benefit: Cloud providers hosting OpenAI models and Businesses automating back-office work.
+
+WHY IT MATTERS
+We rate it Stage 3, Generally available, readiness 85 out of 100. The catch: Benchmarks are OpenAI's own. Our judgment: watch. Not financial advice.
+
+NEXT
+Full scores and sources at research.celesys.ai.
+
+SOURCES
+OpenAI (Oct 2026). Judgment calls are labelled. Not financial advice.

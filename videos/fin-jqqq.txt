@@ -1,0 +1,26 @@
+FrontierRadar explainer: Janus Henderson puts a Nasdaq-100 fund on a blockchain (JQQQ)
+Issue: 2026-10-30 | Stage 3 · Live launch | Readiness 74/100 | Voice: Piper en_US-lessac-medium (local)
+
+HOOK
+A big fund company made a version of its fund that lives on the internet's shared ledger, so it can move faster.
+
+WHAT IT IS
+Janus Henderson puts a Nasdaq-100 fund on a blockchain.
+
+WHAT IT DOES
+Janus Henderson and Centrifuge launched JQQQ, an issuer-sponsored on-chain fund on the Stellar blockchain that tracks the Nasdaq-100. Think of it like this: Like moving a mutual fund from paper certificates to a digital ticket that can change hands any hour of the day.
+
+BEFORE
+Tokenization had mostly covered cash-like money-market funds.
+
+AFTER
+Who could benefit: Asset managers with on-chain platforms and Index providers licensing to tokenized products.
+
+WHY IT MATTERS
+We rate it Stage 3, Live launch, readiness 74 out of 100. The catch: Assets are tiny versus the ETF market; demand not yet proven. Our judgment: watch. Not financial advice.
+
+NEXT
+Full scores and sources at research.celesys.ai.
+
+SOURCES
+CoinDesk (Oct 27, 2026). Judgment calls are labelled. Not financial advice.

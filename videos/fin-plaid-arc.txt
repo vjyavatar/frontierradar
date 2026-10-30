@@ -1,0 +1,26 @@
+FrontierRadar explainer: Plaid launches a transformer AI credit score it says predicts repayment 42% better
+Issue: 2026-10-30 | Stage 3 · Live launch | Readiness 75/100 | Voice: Piper en_US-lessac-medium (local)
+
+HOOK
+A company made a smart computer that looks at how you spend and save, to guess if you can pay back a loan.
+
+WHAT IT IS
+Plaid launches a transformer AI credit score it says predicts repayment 42% better.
+
+WHAT IT DOES
+In its Fall Product Release Plaid launched LendScore 2, which it says is 42% stronger at predicting ability to repay than traditional credit data alone, and LendScore Arc, its first transformer-based credit score that learns from the order and timing of transactions. Think of it like this: Like judging a driver by watching how they actually drive every day, not just by their old ticket record.
+
+BEFORE
+Credit scores mostly look at past loans.
+
+AFTER
+Who could benefit: Cash-flow lenders and fintech lenders and Banks lending to thin-file borrowers.
+
+WHY IT MATTERS
+We rate it Stage 3, Live launch, readiness 75 out of 100. The catch: Improvement numbers are Plaid's own internal tests. Our judgment: watch. Not financial advice.
+
+NEXT
+Full scores and sources at research.celesys.ai.
+
+SOURCES
+Plaid via Business Wire (Oct 6, 2026). Judgment calls are labelled. Not financial advice.

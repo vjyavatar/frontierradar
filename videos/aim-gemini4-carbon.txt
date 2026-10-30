@@ -1,0 +1,26 @@
+FrontierRadar explainer: Google's Gemini 4 Carbon ranks #1 on a new independent AI index, first given to cyber defenders
+Issue: 2026-10-30 | Stage 2 · Limited preview | Readiness 65/100 | Voice: Piper en_US-lessac-medium (local)
+
+HOOK
+Google made a very smart AI that is great at finding computer weak spots, so it is giving it to the good guys first.
+
+WHAT IT IS
+Google's Gemini 4 Carbon ranks #1 on a new independent AI index, first given to cyber defenders.
+
+WHAT IT DOES
+Google says Gemini 4 Carbon scores 59, #1 on Artificial Analysis Intelligence Index v5, and leads security tests such as SEC-bench Pro (88.2%) for finding software flaws. Think of it like this: Like a new top student first let into the bank's security team before being allowed to tutor everyone.
+
+BEFORE
+Frontier models usually launch to everyone.
+
+AFTER
+Who could benefit: Alphabet and Cybersecurity teams using AI.
+
+WHY IT MATTERS
+We rate it Stage 2, Limited preview, readiness 65 out of 100. The catch: Benchmark claims are Google's; most users cannot test it yet. Our judgment: watch. Not financial advice.
+
+NEXT
+Full scores and sources at research.celesys.ai.
+
+SOURCES
+Google blog (Oct 28, 2026); OrigoTech on Artificial Analysis Index v5 (Oct 2026). Judgment calls are labelled. Not financial advice.

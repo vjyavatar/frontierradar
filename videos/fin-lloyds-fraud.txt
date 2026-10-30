@@ -1,0 +1,26 @@
+FrontierRadar explainer: Lloyds' agentic AI fraud assistant passes 90% decision accuracy on 10,600 live cases
+Issue: 2026-10-30 | Stage 2 · Pilot | Readiness 61/100 | Voice: Piper en_US-lessac-medium (local)
+
+HOOK
+A bank uses a team of AI helpers to check if a strange card payment was a thief, so people get help faster.
+
+WHAT IT IS
+Lloyds' agentic AI fraud assistant passes 90% decision accuracy on 10,600 live cases.
+
+WHAT IT DOES
+Lloyds says a platform of specialist AI agents helped fraud specialists on more than 10,600 live debit-card fraud cases in 90 days. Think of it like this: Like a team of junior detectives who gather every clue before the senior detective decides.
+
+BEFORE
+Banks used rules and single models to flag fraud.
+
+AFTER
+Who could benefit: Large banks with big fraud losses and Fraud and RegTech software vendors.
+
+WHY IT MATTERS
+We rate it Stage 2, Pilot, readiness 61 out of 100. The catch: Accuracy figures are the bank's own; no outside audit. Our judgment: watch. Not financial advice.
+
+NEXT
+Full scores and sources at research.celesys.ai.
+
+SOURCES
+Lloyds Banking Group press release (Oct 26, 2026). Judgment calls are labelled. Not financial advice.

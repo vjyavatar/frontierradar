@@ -1,0 +1,44 @@
+{
+ "hook": "Europe's HELENA project is making solid-state battery cells with factory methods.",
+ "analogy_name": "Guitar workshop",
+ "map": [
+  [
+   "Hand-built guitar",
+   "Lab coin cell"
+  ],
+  [
+   "Jigs and line",
+   "Extrusion for thick cathodes"
+  ],
+  [
+   "Thin strong neck",
+   "40-micron electrolyte separator"
+  ]
+ ],
+ "sections": [
+  [
+   "What it is",
+   "HELENA built halide solid-state pouch cells using scalable steps."
+  ],
+  [
+   "Analogy",
+   "Think of a luthier who hand-built one guitar, now setting up a workshop line with jigs so every guitar comes out the same."
+  ],
+  [
+   "How it works",
+   "First, extrusion makes high-loading cathodes, about 4.5 to 5 milliamp hours per square centimetre. Second, thin halide separators reach about 4 millisiemens per centimetre."
+  ],
+  [
+   "Before",
+   "Before, most solid-state papers stopped at lab cells."
+  ],
+  [
+   "After",
+   "Now there are 40 milliamp hour pouch cells made with manufacturing steps."
+  ],
+  [
+   "Why it matters",
+   "Still far smaller than EV cells. European battery makers are the exposure. Our judgment: watch. Not financial advice."
+  ]
+ ]
+}

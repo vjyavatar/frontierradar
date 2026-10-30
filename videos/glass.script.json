@@ -1,0 +1,44 @@
+{
+ "hook": "The board under an AI chip may soon be glass.",
+ "analogy_name": "Snooker table",
+ "map": [
+  [
+   "Wooden bed",
+   "Plastic substrate"
+  ],
+  [
+   "Slate bed",
+   "Glass substrate"
+  ],
+  [
+   "Ball runs true",
+   "Wires sit closer"
+  ]
+ ],
+ "sections": [
+  [
+   "What it is",
+   "Glass substrates replace plastic under big AI chips."
+  ],
+  [
+   "Analogy",
+   "Think of a snooker table. Cheap tables use wood, which can bend over time. Pro tables use a slate bed that stays dead flat, so every shot runs true."
+  ],
+  [
+   "How it works",
+   "First, the glass board stays flat under a giant AI chip. Second, that flatness lets designers place wires closer together, fitting more connections."
+  ],
+  [
+   "Before",
+   "Before, plastic boards made flatness and tight wiring hard under giant chips."
+  ],
+  [
+   "After",
+   "Now firms are moving glass from lab to pilot lines, with India's Odisha project too."
+  ],
+  [
+   "Why it matters",
+   "TSMC is testing it with Japan's Ibiden, and Samsung and Korea's SKC are racing too. Those substrate makers are the exposure. Our judgment: watch. Not financial advice."
+  ]
+ ]
+}

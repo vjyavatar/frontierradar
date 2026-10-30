@@ -1,0 +1,44 @@
+{
+ "hook": "Blue Origin plans more Florida launch pads to fly New Glenn more often.",
+ "analogy_name": "Railway station",
+ "map": [
+  [
+   "Platforms",
+   "Launch pads"
+  ],
+  [
+   "Trains per day",
+   "Flight rate"
+  ],
+  [
+   "Rebuilding a platform",
+   "Repairing LC-36A"
+  ]
+ ],
+ "sections": [
+  [
+   "What it is",
+   "It is a plan to rebuild one pad and add new ones."
+  ],
+  [
+   "Analogy",
+   "Think of a busy railway station adding platforms. More platforms means more trains per day."
+  ],
+  [
+   "How it works",
+   "First, Blue Origin rebuilds pad LC-36A after a May static-fire explosion, expected ready by early December. Second, it adds new pads."
+  ],
+  [
+   "Before",
+   "Before, one damaged pad limited New Glenn."
+  ],
+  [
+   "After",
+   "Now Blue Origin targets a return to flight this year."
+  ],
+  [
+   "Why it matters",
+   "More heavy-lift capacity helps satellite constellations. Blue Origin is private. Our judgment: wait. Not financial advice."
+  ]
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "hook": "IBM packed several values into one memory spot.",
+ "analogy_name": "Radio tower",
+ "map": [
+  [
+   "Antenna",
+   "Memory cell"
+  ],
+  [
+   "Stations",
+   "Stored values"
+  ],
+  [
+   "Tuning",
+   "Reading back one value"
+  ]
+ ],
+ "sections": [
+  [
+   "What it is",
+   "It is superposed analog memory, for AI search."
+  ],
+  [
+   "Analogy",
+   "Think of a radio tower carrying many stations on one antenna. Your radio tunes to the one you want."
+  ],
+  [
+   "How it works",
+   "First, several pieces of information are written into the same analog cell. Second, they are read back separately."
+  ],
+  [
+   "Before",
+   "Before, each value needed its own memory spot."
+  ],
+  [
+   "After",
+   "Now less memory is needed for AI search, and IBM has filed patents."
+  ],
+  [
+   "Why it matters",
+   "Years away. IBM, Micron and Weebit Nano are exposure. Our judgment: wait. Not financial advice."
+  ]
+ ]
+}

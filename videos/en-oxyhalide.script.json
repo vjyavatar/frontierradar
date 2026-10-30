@@ -1,0 +1,44 @@
+{
+ "hook": "A new solid battery electrolyte kept 81 percent capacity after 2,000 fast charges.",
+ "analogy_name": "Harbour",
+ "map": [
+  [
+   "High tide",
+   "High voltage, up to 4.8 volts"
+  ],
+  [
+   "Cracking wall",
+   "Electrolyte breaking down"
+  ],
+  [
+   "Self-built breakwater",
+   "Self-protecting layer at the cathode"
+  ]
+ ],
+ "sections": [
+  [
+   "What it is",
+   "It is an amorphous zirconium oxyhalide electrolyte for solid-state batteries."
+  ],
+  [
+   "Analogy",
+   "Think of a harbour wall. High tides crack ordinary walls, but this wall grows its own breakwater where the waves hit hardest."
+  ],
+  [
+   "How it works",
+   "First, lithium ions move fast through it, 4.11 millisiemens per centimetre at room temperature. Second, a protective layer forms at the cathode."
+  ],
+  [
+   "Before",
+   "Before, many fast solid electrolytes broke down above about 4.3 volts."
+  ],
+  [
+   "After",
+   "Now cells kept up to 81.2 percent capacity after 2,000 cycles at 10C."
+  ],
+  [
+   "Why it matters",
+   "Higher voltage means higher-energy cells. Lab cells only. Solid-state developers like QuantumScape are the exposure. Our judgment: wait. Not financial advice."
+  ]
+ ]
+}

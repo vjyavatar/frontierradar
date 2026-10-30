@@ -1,0 +1,44 @@
+{
+ "hook": "Google just cut errors in a key quantum ingredient by about 40 times.",
+ "analogy_name": "Cricket academy",
+ "map": [
+  [
+   "Young players",
+   "Raw magic states"
+  ],
+  [
+   "Net sessions and cuts",
+   "Cultivation checks that discard bad states"
+  ],
+  [
+   "Test side",
+   "High-fidelity T-states for algorithms"
+  ]
+ ],
+ "sections": [
+  [
+   "What it is",
+   "It is the first hardware demo of magic state cultivation, on Google's Willow chip."
+  ],
+  [
+   "Analogy",
+   "Think of a cricket academy. Young players are tested in the nets, the shaky ones are dropped early, and only proven players reach the Test side."
+  ],
+  [
+   "How it works",
+   "First, the chip grows magic states step by step. Second, it checks them along the way and throws out any that pick up errors."
+  ],
+  [
+   "Before",
+   "Before, useful quantum algorithms needed these magic states, and making them was expensive."
+  ],
+  [
+   "After",
+   "Now errors drop about 40 times, with a record 99.99 percent logical fidelity for these states."
+  ],
+  [
+   "Why it matters",
+   "Cheaper magic states bring useful quantum computing closer. Google says bigger demos are needed. Alphabet and quantum ETFs are the exposure. Our judgment: watch. Not financial advice."
+  ]
+ ]
+}

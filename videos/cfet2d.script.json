@@ -1,0 +1,44 @@
+{
+ "hook": "Europe's top chip lab tested stacked atom-thin transistors and said: not yet.",
+ "analogy_name": "Double-decker bus",
+ "map": [
+  [
+   "Two decks",
+   "Stacked transistors"
+  ],
+  [
+   "Narrow doors and stairs",
+   "Contacts and wiring losses"
+  ],
+  [
+   "Slow boarding",
+   "Gains eaten up"
+  ]
+ ],
+ "sections": [
+  [
+   "What it is",
+   "imec studied 2D CFETs for the A2 node."
+  ],
+  [
+   "Analogy",
+   "Think of a double-decker bus. It carries more people per road, but if the stairs and doors are narrow, boarding is so slow you lose the gain."
+  ],
+  [
+   "How it works",
+   "First, imec compared stacked atom-thin transistors to silicon. Second, it measured the contact and wiring losses."
+  ],
+  [
+   "Before",
+   "Before, hopes were high for 2D materials."
+  ],
+  [
+   "After",
+   "Now the honest answer is they do not yet beat silicon."
+  ],
+  [
+   "Why it matters",
+   "A 2030s story. Toolmakers ASML, Applied and Lam win either way. Our judgment: wait. Not financial advice."
+  ]
+ ]
+}

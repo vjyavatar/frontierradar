@@ -1,0 +1,44 @@
+{
+ "hook": "DNA damaged like a 400-year-old archive just gave back every bit of its data.",
+ "analogy_name": "Locksmith",
+ "map": [
+  [
+   "Rusted safe",
+   "Decayed DNA strand"
+  ],
+  [
+   "Trying combinations",
+   "Computer guesses the original data"
+  ],
+  [
+   "The click",
+   "Fingerprint check confirms the guess"
+  ]
+ ],
+ "sections": [
+  [
+   "What it is",
+   "Gungnir is a new error-repair code for data stored in DNA, from the University of Hong Kong."
+  ],
+  [
+   "Analogy",
+   "Think of a locksmith facing a rusted safe. He tries combination after combination, and a click tells him the moment one is right."
+  ],
+  [
+   "How it works",
+   "First, the computer guesses what each damaged piece originally said. Second, it checks every guess against a stored fingerprint, an idea borrowed from blockchains, and keeps only the match."
+  ],
+  [
+   "Before",
+   "Before, codes gave up when too many letters were wrong."
+  ],
+  [
+   "After",
+   "Now it tolerates error rates up to 20 percent, which HKU calls a fourfold improvement, and recovered data losslessly."
+  ],
+  [
+   "Why it matters",
+   "More computing buys stronger repair. DNA tool makers and archive providers could gain, but writing DNA is still slow and costly. Our judgment: wait. Not financial advice."
+  ]
+ ]
+}

@@ -2,25 +2,33 @@ FrontierRadar explainer: Janus Henderson puts a Nasdaq-100 fund on a blockchain 
 Issue: 2026-10-30 | Stage 3 · Live launch | Readiness 74/100 | Voice: Piper en_US-lessac-medium (local)
 
 HOOK
-A big fund company made a version of its fund that lives on the internet's shared ledger, so it can move faster.
+A Nasdaq-100 fund now lives on a blockchain.
 
 WHAT IT IS
-Janus Henderson puts a Nasdaq-100 fund on a blockchain.
+Janus Henderson's J Q Q Q is an issuer-sponsored on-chain fund.
 
-WHAT IT DOES
-Janus Henderson and Centrifuge launched JQQQ, an issuer-sponsored on-chain fund on the Stellar blockchain that tracks the Nasdaq-100. Think of it like this: Like moving a mutual fund from paper certificates to a digital ticket that can change hands any hour of the day.
+ANALOGY
+Think of concert tickets moving from paper at the box office to a phone wallet. The key: the venue itself issues them, not a reseller.
+
+HOW IT WORKS
+First, Janus Henderson and Centrifuge issue the fund on the Stellar blockchain. Second, Nasdaq licenses the index, unlike third-party stock tokens.
 
 BEFORE
-Tokenization had mostly covered cash-like money-market funds.
+Before, tokenization mostly covered cash-like money-market funds.
 
 AFTER
-Who could benefit: Asset managers with on-chain platforms and Index providers licensing to tokenized products.
+Now a stock index is on-chain, taking Janus Henderson's platform above 1 billion dollars.
 
 WHY IT MATTERS
-We rate it Stage 3, Live launch, readiness 74 out of 100. The catch: Assets are tiny versus the ETF market; demand not yet proven. Our judgment: watch. Not financial advice.
+Still small. Asset managers and index providers are exposure. Our judgment: watch. Not financial advice.
 
 NEXT
-Full scores and sources at research.celesys.ai.
+Follow FrontierRadar. Full scores and sources at research.celesys.ai.
+
+ANALOGY MAP (in the analogy -> in reality)
+- Venue -> Janus Henderson
+- Phone ticket -> On-chain fund token
+- Box office -> Traditional fund system
 
 SOURCES
 CoinDesk (Oct 27, 2026). Judgment calls are labelled. Not financial advice.

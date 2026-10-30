@@ -1,0 +1,44 @@
+{
+ "hook": "Micron found a simple fix for sloppy analog AI chips.",
+ "analogy_name": "Diving judges",
+ "map": [
+  [
+   "One judge",
+   "One noisy memory cell"
+  ],
+  [
+   "Panel of judges",
+   "Several cells per weight"
+  ],
+  [
+   "Averaged score",
+   "Accurate weight"
+  ]
+ ],
+ "sections": [
+  [
+   "What it is",
+   "It is weight splitting: spreading each AI weight across several memory cells."
+  ],
+  [
+   "Analogy",
+   "Think of Olympic diving judges. One judge may be off, but averaging several gives a fair score."
+  ],
+  [
+   "How it works",
+   "First, each weight is stored across several cells. Second, their errors average out."
+  ],
+  [
+   "Before",
+   "Before, analog chips were efficient but unreliable."
+  ],
+  [
+   "After",
+   "Now accuracy improves with a simple method."
+  ],
+  [
+   "Why it matters",
+   "A memory giant solving accuracy suggests products follow. Micron is the direct beneficiary. Our judgment: watch. Not financial advice."
+  ]
+ ]
+}

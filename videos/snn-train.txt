@@ -2,25 +2,33 @@ FrontierRadar explainer: Brain-like chip that can learn on the device (neuromorp
 Issue: 2026-10-30 | Stage 1 · Paper | Readiness 28/100 | Voice: Piper en_US-lessac-medium (local)
 
 HOOK
-A chip that works like a tiny brain and can learn new things by itself, without the cloud.
+A brain-like chip learns on the spot, and beat Nvidia's Jetson by up to 3 times.
 
 WHAT IT IS
-Brain-like chip that can learn on the device.
+It is a neuromorphic chip design that trains itself on the device.
 
-WHAT IT DOES
-A brain-style chip design that can train itself directly, demonstrated on FPGA, beating Nvidia's Jetson Orin 1.9-3.3x and using far less memory traffic than an A100 in training. Think of it like this: A student who learns while working instead of going back to school.
+ANALOGY
+Think of a chess player who improves during the game, learning from each opponent's move at the board, instead of only studying at a far-away training camp.
+
+HOW IT WORKS
+First, the chip works with brain-style spikes. Second, it adjusts its own settings on the device, without sending data to a data centre.
 
 BEFORE
-On-device learning for edge AI is a real gap.
+Before, learning happened in data centres.
 
 AFTER
-Who could benefit: BrainChip BRN.AX and Lattice LSCC.
+Now on an FPGA it beat Jetson Orin 1.9 to 3.3 times, with less memory traffic than an A100.
 
 WHY IT MATTERS
-We rate it Stage 1, Paper, readiness 28 out of 100. The catch: BrainChip, a listed neuromorphic pioneer, reported only US$1.22M revenue and a US$12.0M loss for H1 2026 — commercial demand for brain-like chips is still tiny. Our judgment: watch. Not financial advice.
+On-device learning for edge AI is a real gap, but this is an FPGA demo, not a product. BrainChip, Lattice and AMD are the exposure. Our judgment: watch. Not financial advice.
 
 NEXT
-Full scores and sources at research.celesys.ai.
+Follow FrontierRadar. Full scores and sources at research.celesys.ai.
+
+ANALOGY MAP (in the analogy -> in reality)
+- Study camp -> Data-centre training
+- Learning at the board -> On-device learning
+- Chess player -> Edge chip
 
 SOURCES
 Nature Communications. Judgment calls are labelled. Not financial advice.

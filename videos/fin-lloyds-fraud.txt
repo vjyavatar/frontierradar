@@ -2,25 +2,33 @@ FrontierRadar explainer: Lloyds' agentic AI fraud assistant passes 90% decision 
 Issue: 2026-10-30 | Stage 2 · Pilot | Readiness 61/100 | Voice: Piper en_US-lessac-medium (local)
 
 HOOK
-A bank uses a team of AI helpers to check if a strange card payment was a thief, so people get help faster.
+Lloyds' AI fraud assistant passed 90 percent accuracy.
 
 WHAT IT IS
-Lloyds' agentic AI fraud assistant passes 90% decision accuracy on 10,600 live cases.
+It is a team of specialist AI agents helping fraud staff.
 
-WHAT IT DOES
-Lloyds says a platform of specialist AI agents helped fraud specialists on more than 10,600 live debit-card fraud cases in 90 days. Think of it like this: Like a team of junior detectives who gather every clue before the senior detective decides.
+ANALOGY
+Think of a hospital ward round. Specialist nurses gather the test results and history first, so the consultant can make the final call quickly.
+
+HOW IT WORKS
+First, specialist AI agents run the investigation steps on a debit-card fraud case. Second, a human fraud specialist makes the final decision.
 
 BEFORE
-Banks used rules and single models to flag fraud.
+Before, banks used rules and single models.
 
 AFTER
-Who could benefit: Large banks with big fraud losses and Fraud and RegTech software vendors.
+Now, over 10,600 live cases in 90 days, accuracy passed 90 percent, staff used about half as many systems per call, and overrides fell 30 percent.
 
 WHY IT MATTERS
-We rate it Stage 2, Pilot, readiness 61 out of 100. The catch: Accuracy figures are the bank's own; no outside audit. Our judgment: watch. Not financial advice.
+Large banks and RegTech vendors gain. Our judgment: watch. Not financial advice.
 
 NEXT
-Full scores and sources at research.celesys.ai.
+Follow FrontierRadar. Full scores and sources at research.celesys.ai.
+
+ANALOGY MAP (in the analogy -> in reality)
+- Nurses -> AI agents
+- Tests -> Investigation steps
+- Consultant -> Human specialist
 
 SOURCES
 Lloyds Banking Group press release (Oct 26, 2026). Judgment calls are labelled. Not financial advice.

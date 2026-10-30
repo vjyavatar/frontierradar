@@ -2,25 +2,33 @@ FrontierRadar explainer: DNA-SaM: a DNA storage system tested in the lab and in 
 Issue: 2026-10-30 | Stage 1 · Lab proof | Readiness 28/100 | Voice: Piper en_US-lessac-medium (local)
 
 HOOK
-It is a smart filing system for storing computer files inside DNA, so even huge collections can be found again.
+A DNA storage system just passed tests in living cells with 100 percent recovery.
 
 WHAT IT IS
-DNA-SaM: a DNA storage system tested in the lab and in living cells with 100% recovery.
+DNA-SaM is a full system for writing big files into DNA and finding them again.
 
-WHAT IT DOES
-DNA-SaM combines fast encoding, checks that avoid problem DNA sequences, and a two-level index for large files. Think of it like this: Like a library that labels every shelf and refuses to print pages that would jam the photocopier.
+ANALOGY
+Picture a giant library. A floor directory sends you to the right floor, a shelf label to the right shelf, and the librarian refuses any book with a binding that falls apart.
+
+HOW IT WORKS
+First, it encodes data fast, in time that grows only in step with file size. Second, it files the pieces under a two-level index so large archives stay searchable.
 
 BEFORE
-Most DNA-storage codecs are slow or create sequences that break lab steps.
+Before, most DNA codecs were slow, or made sequences that failed in the lab.
 
 AFTER
-Who could benefit: DNA synthesis and sequencing toolmakers.
+Now it worked in the test tube and in living cells with 100 percent success, with a theoretical capacity above 270 petabytes.
 
 WHY IT MATTERS
-We rate it Stage 1, Lab proof, readiness 28 out of 100. The catch: The 270 PB figure is a theoretical capacity, not data actually stored. Our judgment: wait. Not financial advice.
+Scale is the missing piece for DNA storage, and this targets it. Capacity is still theoretical. Our judgment: wait. Not financial advice.
 
 NEXT
-Full scores and sources at research.celesys.ai.
+Follow FrontierRadar. Full scores and sources at research.celesys.ai.
+
+ANALOGY MAP (in the analogy -> in reality)
+- Floor directory -> Index level one
+- Shelf label -> Index level two
+- Rejecting weak bindings -> Skipping DNA sequences that break lab steps
 
 SOURCES
 Nature Communications: DNA-SaM. Judgment calls are labelled. Not financial advice.

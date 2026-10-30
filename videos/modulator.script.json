@@ -1,0 +1,44 @@
+{
+ "hook": "A tiny chip switch now flips light 200 billion times a second.",
+ "analogy_name": "Camera shutter",
+ "map": [
+  [
+   "Shutter",
+   "Modulator"
+  ],
+  [
+   "Click",
+   "Bit"
+  ],
+  [
+   "One lens",
+   "One laser colour"
+  ]
+ ],
+ "sections": [
+  [
+   "What it is",
+   "It is a silicon slow-light modulator for data-centre optics."
+  ],
+  [
+   "Analogy",
+   "Think of a camera shutter clicking open and shut so fast that each click is one bit of data."
+  ],
+  [
+   "How it works",
+   "First, slowing light boosts its interaction with silicon. Second, the device switches it on and off at high speed."
+  ],
+  [
+   "Before",
+   "Before, per-lane speed limited optics."
+  ],
+  [
+   "After",
+   "Now 200 gigabits per second fit on one colour."
+  ],
+  [
+   "Why it matters",
+   "Lab result, but on transceiver roadmaps. Marvell, Broadcom and Coherent are exposure. Our judgment: watch. Not financial advice."
+  ]
+ ]
+}

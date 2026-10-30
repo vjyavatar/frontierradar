@@ -1,0 +1,44 @@
+{
+ "hook": "Neuralink trained its brain decoder on over 50,000 hours of recordings.",
+ "analogy_name": "Navigation app",
+ "map": [
+  [
+   "Millions of drivers",
+   "50,000 hours of pooled BCI recordings"
+  ],
+  [
+   "Map learned in advance",
+   "Pretrained decoder"
+  ],
+  [
+   "Fewer reroutes",
+   "Less recalibration"
+  ]
+ ],
+ "sections": [
+  [
+   "What it is",
+   "It is a pretrained decoder for brain implants, the way AI models are pretrained."
+  ],
+  [
+   "Analogy",
+   "Think of a navigation app. It does not learn your city from your drives alone; it learns from millions of drivers, so it works on day one."
+  ],
+  [
+   "How it works",
+   "First, the decoder learns general patterns from pooled recordings. Second, each user only fine-tunes it."
+  ],
+  [
+   "Before",
+   "Before, users needed frequent recalibration, some daily."
+  ],
+  [
+   "After",
+   "Now some recalibrate weekly, with cursor control reaching 11.32 bits per second."
+  ],
+  [
+   "Why it matters",
+   "Easier daily life makes implants more practical. Company-reported, and Neuralink is private. Our judgment: watch. Not financial advice."
+  ]
+ ]
+}

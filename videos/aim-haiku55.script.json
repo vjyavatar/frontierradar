@@ -1,0 +1,44 @@
+{
+ "hook": "Claude Haiku 5.5 costs about 75 percent less to run.",
+ "analogy_name": "Bicycle messenger",
+ "map": [
+  [
+   "Van",
+   "Larger model"
+  ],
+  [
+   "Bicycle",
+   "Haiku 5.5"
+  ],
+  [
+   "Small parcels",
+   "High-volume tasks"
+  ]
+ ],
+ "sections": [
+  [
+   "What it is",
+   "It is Anthropic's fastest small model."
+  ],
+  [
+   "Analogy",
+   "Think of a city courier firm. Vans are costly for small envelopes; a bicycle messenger is faster through traffic and far cheaper per delivery."
+  ],
+  [
+   "How it works",
+   "First, Haiku 5.5 runs on AWS, Google Cloud and Microsoft Azure. Second, it handles high-volume work like summaries, sorting and customer support."
+  ],
+  [
+   "Before",
+   "Before, running Haiku 4.5 cost about four times as much."
+  ],
+  [
+   "After",
+   "Now it scores 36 on the Artificial Analysis index, cited by OrigoTech, ahead of the best open-weight models at 32."
+  ],
+  [
+   "Why it matters",
+   "AWS and Google Cloud gain. Our judgment: watch. Not financial advice."
+  ]
+ ]
+}

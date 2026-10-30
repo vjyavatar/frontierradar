@@ -2,25 +2,33 @@ FrontierRadar explainer: Blue Origin plans new Florida launch pads to raise New 
 Issue: 2026-10-30 | Stage 3 · Flight | Readiness 70/100 | Voice: Piper en_US-lessac-medium (local)
 
 HOOK
-Blue Origin is fixing its launch pad after an accident and building more pads to launch more often.
+Blue Origin plans more Florida launch pads to fly New Glenn more often.
 
 WHAT IT IS
-Blue Origin plans new Florida launch pads to raise New Glenn's flight rate.
+It is a plan to rebuild one pad and add new ones.
 
-WHAT IT DOES
-Blue Origin is rebuilding pad LC-36A after a May static-fire explosion, expects it ready by early December, targets a New Glenn return to flight this year, and plans new Florida pads for a higher flight rate. Think of it like this: Like a bakery rebuilding its oven after a fire while planning two more ovens.
+ANALOGY
+Think of a busy railway station adding platforms. More platforms means more trains per day.
+
+HOW IT WORKS
+First, Blue Origin rebuilds pad LC-36A after a May static-fire explosion, expected ready by early December. Second, it adds new pads.
 
 BEFORE
-More heavy-lift capacity means more competition and capacity for satellite constellations.
+Before, one damaged pad limited New Glenn.
 
 AFTER
-Who could benefit: Blue Origin and Satellite operators needing launches.
+Now Blue Origin targets a return to flight this year.
 
 WHY IT MATTERS
-We rate it Stage 3, Flight, readiness 70 out of 100. The catch: Return-to-flight timing depends on pad rebuild. Our judgment: wait. Not financial advice.
+More heavy-lift capacity helps satellite constellations. Blue Origin is private. Our judgment: wait. Not financial advice.
 
 NEXT
-Full scores and sources at research.celesys.ai.
+Follow FrontierRadar. Full scores and sources at research.celesys.ai.
+
+ANALOGY MAP (in the analogy -> in reality)
+- Platforms -> Launch pads
+- Trains per day -> Flight rate
+- Rebuilding a platform -> Repairing LC-36A
 
 SOURCES
 Spaceflight Now (Oct 16, 2026); SpaceNews. Judgment calls are labelled. Not financial advice.

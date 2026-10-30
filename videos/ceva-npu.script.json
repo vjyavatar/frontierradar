@@ -1,25 +1,44 @@
 {
- "hook": "What if you could buy the blueprint for an AI brain?",
+ "hook": "Ceva's new AI engine design claims double the work per square millimetre.",
+ "analogy_name": "Songwriter",
+ "map": [
+  [
+   "Songwriter",
+   "Ceva"
+  ],
+  [
+   "The song",
+   "NeuPro design"
+  ],
+  [
+   "Singers",
+   "Chip makers"
+  ]
+ ],
  "sections": [
   [
    "What it is",
-   "Ceva has unveiled its next-generation NeuPro AI engines, and is expanding from edge devices into AI infrastructure."
+   "NeuPro is an AI processor design that chip companies license."
   ],
   [
-   "What it does",
-   "Ceva sells blueprints, not buildings. Chip makers license the AI-engine design and build it into their own chips."
+   "Analogy",
+   "Think of a songwriter selling a hit song to many singers, earning royalties every time it plays."
+  ],
+  [
+   "How it works",
+   "First, chip makers license the design. Second, they build it into their chips and pay royalties."
   ],
   [
    "Before",
-   "Without licensable designs, companies had to build an AI engine from scratch to add AI to their chips."
+   "Before, adding AI meant designing an engine from scratch."
   ],
   [
    "After",
-   "Ceva claims twice the throughput per square millimetre and 50 percent better efficiency. Early access is open now, with general availability planned for Q2 2027. Ceva and chip makers licensing the design could benefit."
+   "Now Ceva claims 2 times throughput per square millimetre, 50 percent better efficiency, and is moving into AI infrastructure. General availability is planned for Q2 2027."
   ],
   [
    "Why it matters",
-   "We rate it Stage 2, Prototype, with a readiness score of 66 out of 100. Gains are vendor-claimed, and royalty revenue arrives years later. Our judgment: watch for named licensees. Not financial advice."
+   "Royalties arrive years later. Our judgment: watch Ceva. Not financial advice."
   ]
  ]
 }

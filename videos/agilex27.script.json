@@ -1,25 +1,44 @@
 {
- "hook": "What if you could rebuild a chip after you bought it?",
+ "hook": "Altera claims its new chips do 1.8 times more work per watt.",
+ "analogy_name": "Sports hall",
+ "map": [
+  [
+   "Sports hall",
+   "FPGA chip"
+  ],
+  [
+   "Repainting lines",
+   "Rewiring after purchase"
+  ],
+  [
+   "New sport",
+   "New AI networking job"
+  ]
+ ],
  "sections": [
   [
    "What it is",
-   "Altera has launched its Agilex 2X family of FPGA chips, led by Agilex 27, for AI infrastructure, networking and edge devices."
+   "Agilex 2X is a family of FPGA chips, led by Agilex 27."
   ],
   [
-   "What it does",
-   "An FPGA is a chip you can re-wire after you buy it, like Lego you can rebuild for each new AI job."
+   "Analogy",
+   "Think of a sports hall. Repaint the lines and it is a basketball court today, badminton tomorrow."
+  ],
+  [
+   "How it works",
+   "First, engineers load a new circuit layout. Second, the chip runs that job until they reload it."
   ],
   [
    "Before",
-   "AI networking and pre-processing change too fast for custom chips, so FPGAs fill those gaps. The previous generation used more power for the same work."
+   "Before, the previous generation used more power for the same work."
   ],
   [
    "After",
-   "Altera claims 1.8 times better performance per watt. Altera and network and telecom equipment makers could benefit."
+   "Now Altera claims 1.8 times performance per watt for AI, networking and edge."
   ],
   [
    "Why it matters",
-   "We rate it Stage 2, Prototype, with a readiness score of 67 out of 100. The figure is vendor-claimed, and Altera is private, so there is no direct listed stock. Our judgment: watch for customer design wins and shipment dates. Not financial advice."
+   "Vendor-claimed, and Altera is private. Telecom equipment makers could gain. Our judgment: watch. Not financial advice."
   ]
  ]
 }

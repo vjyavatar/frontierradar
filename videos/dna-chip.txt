@@ -2,25 +2,33 @@ FrontierRadar explainer: A porous silica chip writes 11× more DNA per spot, a s
 Issue: 2026-10-30 | Stage 1 · Lab proof | Readiness 34/100 | Voice: Piper en_US-lessac-medium (local)
 
 HOOK
-Making DNA for storage is slow.
+A chip surface just made 11 times more DNA on the same spot.
 
 WHAT IT IS
-A porous silica chip writes 11× more DNA per spot, a step to cheaper 'DNA drives'.
+It is a porous silica film that boosts how much DNA each write site on a chip can produce.
 
-WHAT IT DOES
-A porous silica thin film raises on-chip DNA yield to more than 1,821 pmol per cm², over 11 times a flat surface, using chip-making-compatible electrochemistry. Think of it like this: Like turning a flat parking lot into a multi-storey garage: same footprint, many more cars.
+ANALOGY
+Think of a flat car park versus a multi-storey one on the same plot. The footprint is identical, but the levels hold far more cars.
+
+HOW IT WORKS
+First, electrodes on the chip build DNA letter by letter, using chip-making-friendly chemistry. Second, the porous film gives each site far more surface to grow on.
 
 BEFORE
-Writing DNA is the costliest step in DNA storage.
+Before, each write site made only a little DNA, and writing is the costliest step in DNA storage.
 
 AFTER
-Who could benefit: Twist Bioscience TWST and Semiconductor foundries.
+Now yield passes 1,821 picomoles per square centimetre, over 11 times a flat surface, with error rates comparable to other lab systems.
 
 WHY IT MATTERS
-We rate it Stage 1, Lab proof, readiness 34 out of 100. The catch: Demonstrated with 121-letter strands in a lab-built system. Our judgment: watch. Not financial advice.
+Cheaper writing is the road to DNA drives. Twist Bioscience and chip foundries could gain. Lab stage. Our judgment: watch. Not financial advice.
 
 NEXT
-Full scores and sources at research.celesys.ai.
+Follow FrontierRadar. Full scores and sources at research.celesys.ai.
+
+ANALOGY MAP (in the analogy -> in reality)
+- Flat car park -> Flat chip surface
+- Multi-storey levels -> Tiny pores in the silica
+- More cars per plot -> More DNA per write site
 
 SOURCES
 Microsystems & Nanoengineering paper. Judgment calls are labelled. Not financial advice.

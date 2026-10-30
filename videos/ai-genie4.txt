@@ -2,25 +2,33 @@ FrontierRadar explainer: Google DeepMind's Genie 4 generates interactive worlds 
 Issue: 2026-10-30 | Stage 2 · Preview | Readiness 45/100 | Voice: Piper en_US-lessac-medium (local)
 
 HOOK
-An AI that makes a pretend world you can walk around in, with sounds and talking.
+Google DeepMind's Genie 4 builds interactive worlds that talk back.
 
 WHAT IT IS
-Google DeepMind's Genie 4 generates interactive worlds with sound and dialogue.
+It is a world model that generates real-time simulations with sound and dialogue.
 
-WHAT IT DOES
-Genie 4 is a natively multimodal world model for real-time interactive simulation, generating audio, ambient sound and dialogue. Think of it like this: Like a video game that builds itself as you walk, instead of being coded level by level.
+ANALOGY
+Think of a theatre stage that builds its scenery as the actors walk, and adds the crowd noise and the other characters' lines on cue.
+
+HOW IT WORKS
+First, the model takes your actions as input. Second, it generates the next moment of the world, picture and sound, in real time.
 
 BEFORE
-World models could train robots and AI agents in simulated worlds.
+Before, training robots and agents needed real environments or hand-built simulators.
 
 AFTER
-Who could benefit: Alphabet GOOGL.
+Now Genie 4 is a research preview for trusted testers.
 
 WHY IT MATTERS
-We rate it Stage 2, Preview, readiness 45 out of 100. The catch: Research preview for trusted testers only. Our judgment: watch. Not financial advice.
+World models could become training grounds for robots. Preview only. Alphabet is the exposure. Our judgment: watch. Not financial advice.
 
 NEXT
-Full scores and sources at research.celesys.ai.
+Follow FrontierRadar. Full scores and sources at research.celesys.ai.
+
+ANALOGY MAP (in the analogy -> in reality)
+- Self-building stage -> Generated interactive world
+- Sound effects and lines -> Audio, ambient sound and dialogue
+- Actors rehearsing -> Robots and AI agents training
 
 SOURCES
 DeepMind blog. Judgment calls are labelled. Not financial advice.

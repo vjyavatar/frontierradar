@@ -2,25 +2,33 @@ FrontierRadar explainer: EU's HELENA project makes halide solid-state battery po
 Issue: 2026-10-30 | Stage 2 · Pilot cell | Readiness 41/100 | Voice: Piper en_US-lessac-medium (local)
 
 HOOK
-European scientists learned how to build small flat batteries with a new safe material.
+Europe's HELENA project is making solid-state battery cells with factory methods.
 
 WHAT IT IS
-EU's HELENA project makes halide solid-state battery pouch cells.
+HELENA built halide solid-state pouch cells using scalable steps.
 
-WHAT IT DOES
-HELENA built 40 mAh single-layer pouch cells using scalable extrusion for high-loading cathodes (about 4.5–5 mAh/cm²) and halide electrolyte separators about 40 μm thin, with ionic conductivity near 4 mS/cm after densification. Think of it like this: Like moving a recipe from a test kitchen to a small bakery line.
+ANALOGY
+Think of a luthier who hand-built one guitar, now setting up a workshop line with jigs so every guitar comes out the same.
+
+HOW IT WORKS
+First, extrusion makes high-loading cathodes, about 4.5 to 5 milliamp hours per square centimetre. Second, thin halide separators reach about 4 millisiemens per centimetre.
 
 BEFORE
-Most solid-state battery papers stop at lab cells.
+Before, most solid-state papers stopped at lab cells.
 
 AFTER
-Who could benefit: European battery makers.
+Now there are 40 milliamp hour pouch cells made with manufacturing steps.
 
 WHY IT MATTERS
-We rate it Stage 2, Pilot cell, readiness 41 out of 100. The catch: 40 mAh cells are tiny versus EV cells. Our judgment: watch. Not financial advice.
+Still far smaller than EV cells. European battery makers are the exposure. Our judgment: watch. Not financial advice.
 
 NEXT
-Full scores and sources at research.celesys.ai.
+Follow FrontierRadar. Full scores and sources at research.celesys.ai.
+
+ANALOGY MAP (in the analogy -> in reality)
+- Hand-built guitar -> Lab coin cell
+- Jigs and line -> Extrusion for thick cathodes
+- Thin strong neck -> 40-micron electrolyte separator
 
 SOURCES
 HELENA project news (Oct 8, 2026). Judgment calls are labelled. Not financial advice.

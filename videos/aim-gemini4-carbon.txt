@@ -2,25 +2,33 @@ FrontierRadar explainer: Google's Gemini 4 Carbon ranks #1 on a new independent 
 Issue: 2026-10-30 | Stage 2 · Limited preview | Readiness 65/100 | Voice: Piper en_US-lessac-medium (local)
 
 HOOK
-Google made a very smart AI that is great at finding computer weak spots, so it is giving it to the good guys first.
+Google's Gemini 4 Carbon ranks number one on a new AI index.
 
 WHAT IT IS
-Google's Gemini 4 Carbon ranks #1 on a new independent AI index, first given to cyber defenders.
+It is a frontier model released first to cyber defenders.
 
-WHAT IT DOES
-Google says Gemini 4 Carbon scores 59, #1 on Artificial Analysis Intelligence Index v5, and leads security tests such as SEC-bench Pro (88.2%) for finding software flaws. Think of it like this: Like a new top student first let into the bank's security team before being allowed to tutor everyone.
+ANALOGY
+Think of the best sniffer dog in the country. Because it is so good at finding hidden threats, it goes to airport security first, before anyone else can borrow it.
+
+HOW IT WORKS
+First, a subset of cyber defenders use it to find software flaws. Second, access widens to trusted partners, then developers and consumers.
 
 BEFORE
-Frontier models usually launch to everyone.
+Before, frontier models launched to everyone.
 
 AFTER
-Who could benefit: Alphabet and Cybersecurity teams using AI.
+Now it scores 59 on the index and 88.2 percent on SEC-bench Pro.
 
 WHY IT MATTERS
-We rate it Stage 2, Limited preview, readiness 65 out of 100. The catch: Benchmark claims are Google's; most users cannot test it yet. Our judgment: watch. Not financial advice.
+Introductory price is 2 dollars per million input tokens. Alphabet is the exposure; no wider date is given. Our judgment: watch. Not financial advice.
 
 NEXT
-Full scores and sources at research.celesys.ai.
+Follow FrontierRadar. Full scores and sources at research.celesys.ai.
+
+ANALOGY MAP (in the analogy -> in reality)
+- Sniffer dog -> Gemini 4 Carbon
+- Airport security -> Cyber defenders
+- Public demos -> General release
 
 SOURCES
 Google blog (Oct 28, 2026); OrigoTech on Artificial Analysis Index v5 (Oct 2026). Judgment calls are labelled. Not financial advice.

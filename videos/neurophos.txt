@@ -2,25 +2,33 @@ FrontierRadar explainer: Computing with light instead of electricity (optical AI
 Issue: 2026-10-30 | Stage 2 · Prototype | Readiness 31/100 | Voice: Piper en_US-lessac-medium (local)
 
 HOOK
-Some computers might one day think with flashlight beams instead of electricity, so they stay cool and fast.
+What if an AI chip ran on light?
 
 WHAT IT IS
-Computing with light instead of electricity.
+Neurophos is a startup doing AI math by shining light through tiny metamaterial patterns.
 
-WHAT IT DOES
-A startup is building chips that do AI math with light passing through tiny 'metamaterial' patterns, and is working with MIT on the software to run them. Think of it like this: Like sorting mail by shining a torch through a stencil instead of reading every envelope.
+ANALOGY
+Think of a cathedral stained-glass window. Sunlight passes through and the colours sort themselves instantly, with no effort.
+
+HOW IT WORKS
+First, data is encoded into light. Second, the patterns transform it as it passes, doing the calculation.
 
 BEFORE
-Optical AI compute is still pre-revenue but backed by granted IP and an MIT software partnership.
+Before, AI math meant pushing electricity through transistors, creating heat.
 
 AFTER
-Who could benefit: Neurophos and GlobalFoundries GFS.
+Now there is granted IP and an MIT software partnership, but no product yet.
 
 WHY IT MATTERS
-We rate it Stage 2, Prototype, readiness 31 out of 100. The catch: Nature Photonics review: in the cloud, losses and light-to-electric conversions 'dominate power' and have so far prevented commercial photonic tensor cores. Our judgment: watch. Not financial advice.
+Photonics foundries like GlobalFoundries and Tower are the picks-and-shovels play. Our judgment: watch. Not financial advice.
 
 NEXT
-Full scores and sources at research.celesys.ai.
+Follow FrontierRadar. Full scores and sources at research.celesys.ai.
+
+ANALOGY MAP (in the analogy -> in reality)
+- Stained glass -> Metamaterial patterns
+- Sunlight -> Laser light carrying data
+- Coloured pattern -> Result of the AI math
 
 SOURCES
 MIT CSAIL news; Patent US11843182B2; WO2021026152A1. Judgment calls are labelled. Not financial advice.

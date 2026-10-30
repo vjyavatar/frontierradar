@@ -2,25 +2,33 @@ FrontierRadar explainer: HKU's 'Gungnir' code recovers data from DNA damaged lik
 Issue: 2026-10-30 | Stage 1 · Lab proof | Readiness 28/100 | Voice: Piper en_US-lessac-medium (local)
 
 HOOK
-Scientists store files in DNA.
+DNA damaged like a 400-year-old archive just gave back every bit of its data.
 
 WHAT IT IS
-HKU's 'Gungnir' code recovers data from DNA damaged like 400-year-old archives.
+Gungnir is a new error-repair code for data stored in DNA, from the University of Hong Kong.
 
-WHAT IT DOES
-A blockchain-inspired error-correction method uses computing power to guess and verify the original data. Think of it like this: Like rebuilding a torn, faded letter by trying millions of guesses and checking each against a fingerprint until one fits.
+ANALOGY
+Think of a locksmith facing a rusted safe. He tries combination after combination, and a click tells him the moment one is right.
+
+HOW IT WORKS
+First, the computer guesses what each damaged piece originally said. Second, it checks every guess against a stored fingerprint, an idea borrowed from blockchains, and keeps only the match.
 
 BEFORE
-DNA can hold huge amounts of data for centuries, but the molecules decay and reading them adds errors.
+Before, codes gave up when too many letters were wrong.
 
 AFTER
-Who could benefit: DNA synthesis and sequencing toolmakers and Archive and cloud storage providers.
+Now it tolerates error rates up to 20 percent, which HKU calls a fourfold improvement, and recovered data losslessly.
 
 WHY IT MATTERS
-We rate it Stage 1, Lab proof, readiness 28 out of 100. The catch: Result reported by the university; independent replication not yet shown. Our judgment: wait. Not financial advice.
+More computing buys stronger repair. DNA tool makers and archive providers could gain, but writing DNA is still slow and costly. Our judgment: wait. Not financial advice.
 
 NEXT
-Full scores and sources at research.celesys.ai.
+Follow FrontierRadar. Full scores and sources at research.celesys.ai.
+
+ANALOGY MAP (in the analogy -> in reality)
+- Rusted safe -> Decayed DNA strand
+- Trying combinations -> Computer guesses the original data
+- The click -> Fingerprint check confirms the guess
 
 SOURCES
 HKU Engineering news (Oct 26, 2026). Judgment calls are labelled. Not financial advice.

@@ -1,0 +1,44 @@
+{
+ "hook": "A gene that switches off before birth might be switched back on to treat a deadly blood disease.",
+ "analogy_name": "Backup generator",
+ "map": [
+  [
+   "Main power",
+   "Alpha-globin, missing in patients"
+  ],
+  [
+   "Old generator",
+   "Embryo-stage zeta-globin gene"
+  ],
+  [
+   "Two off switches",
+   "Two DNA switches the team edited"
+  ]
+ ],
+ "sections": [
+  [
+   "What it is",
+   "Researchers reactivated the zeta-globin gene to help with severe alpha-thalassemia."
+  ],
+  [
+   "Analogy",
+   "Think of a hospital's old backup generator, shut down years ago. When the main power fails, engineers find its two off switches and restart it to keep the lights on."
+  ],
+  [
+   "How it works",
+   "First, the team found the two switches that silence zeta-globin. Second, they edited them so the gene turns back on."
+  ],
+  [
+   "Before",
+   "Before, severe alpha-thalassemia meant lifelong transfusions or stem-cell transplants."
+  ],
+  [
+   "After",
+   "Now, in a mouse model of the deadliest form, embryos survived to late development, and patient cells made therapeutic levels."
+  ],
+  [
+   "Why it matters",
+   "Preclinical only, and the hemoglobin needs more study. Gene-editing developers are the long-run exposure. Our judgment: wait. Not financial advice."
+  ]
+ ]
+}

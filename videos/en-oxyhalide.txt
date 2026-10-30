@@ -2,25 +2,33 @@ FrontierRadar explainer: A new solid electrolyte keeps 81% capacity after 2,000 
 Issue: 2026-10-30 | Stage 1 · Lab cell | Readiness 32/100 | Voice: Piper en_US-lessac-medium (local)
 
 HOOK
-Batteries without liquid could charge faster and be safer.
+A new solid battery electrolyte kept 81 percent capacity after 2,000 fast charges.
 
 WHAT IT IS
-A new solid electrolyte keeps 81% capacity after 2,000 fast charges at high voltage.
+It is an amorphous zirconium oxyhalide electrolyte for solid-state batteries.
 
-WHAT IT DOES
-An amorphous zirconium oxyhalide electrolyte reaches 4.11 mS/cm at 25 °C and forms a self-protecting layer at the cathode. Think of it like this: Like a road that paves over its own potholes as heavy trucks drive on it.
+ANALOGY
+Think of a harbour wall. High tides crack ordinary walls, but this wall grows its own breakwater where the waves hit hardest.
+
+HOW IT WORKS
+First, lithium ions move fast through it, 4.11 millisiemens per centimetre at room temperature. Second, a protective layer forms at the cathode.
 
 BEFORE
-Many fast-conducting solid electrolytes break down above about 4.3 V, blocking high-energy cathodes.
+Before, many fast solid electrolytes broke down above about 4.3 volts.
 
 AFTER
-Who could benefit: Solid-state battery developers, e.g. QuantumScape QS, Solid Power SLDP.
+Now cells kept up to 81.2 percent capacity after 2,000 cycles at 10C.
 
 WHY IT MATTERS
-We rate it Stage 1, Lab cell, readiness 32 out of 100. The catch: Lab coin-type cells with Li-In alloy anode. Our judgment: wait. Not financial advice.
+Higher voltage means higher-energy cells. Lab cells only. Solid-state developers like QuantumScape are the exposure. Our judgment: wait. Not financial advice.
 
 NEXT
-Full scores and sources at research.celesys.ai.
+Follow FrontierRadar. Full scores and sources at research.celesys.ai.
+
+ANALOGY MAP (in the analogy -> in reality)
+- High tide -> High voltage, up to 4.8 volts
+- Cracking wall -> Electrolyte breaking down
+- Self-built breakwater -> Self-protecting layer at the cathode
 
 SOURCES
 Nature Communications (Oct 17, 2026). Judgment calls are labelled. Not financial advice.

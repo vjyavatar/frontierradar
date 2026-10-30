@@ -2,25 +2,33 @@ FrontierRadar explainer: A gene-editing trial for Duchenne muscular dystrophy sh
 Issue: 2026-10-30 | Stage 2 · Early trial (Ph 1/2) | Readiness 32/100 | Voice: Piper en_US-lessac-medium (local)
 
 HOOK
-Scientists tried fixing a muscle disease gene.
+A gene-editing trial for Duchenne muscular dystrophy shows how thin the safety line is.
 
 WHAT IT IS
-A gene-editing trial for Duchenne muscular dystrophy shows a narrow safety window.
+It is a trial that delivered a gene editor with a single virus to four boys.
 
-WHAT IT DOES
-A single-virus-delivered editor restored some dystrophin in four boys, but benefit was limited and one boy on the high dose died of a treatment-related immune reaction. Think of it like this: Like a delivery truck that gets the parcel inside, but the truck itself can set off the building's alarm system.
+ANALOGY
+Think of firefighters. Too little water and the fire wins. Too much and you flood and wreck the house you came to save.
+
+HOW IT WORKS
+First, a virus carries the editor into muscle. Second, the editor lets cells make some dystrophin again.
 
 BEFORE
-Gene editing delivered by AAV virus works in animals, but human immune reactions can be fatal at high doses.
+Before, monkey tests showed no dose-limiting toxicity.
 
 AFTER
-Who could benefit: Patients, through safer future trial designs.
+Now some dystrophin returned, but benefit was limited, and one boy on the high dose died of a treatment-related immune reaction.
 
 WHY IT MATTERS
-We rate it Stage 2, Early trial (Ph 1/2), readiness 32 out of 100. The catch: Limited benefit and one death. Our judgment: wait. Not financial advice.
+Safe dosing must be proven before scale. This is a caution signal for the field, not an investment signal. Our judgment: wait. Not financial advice.
 
 NEXT
-Full scores and sources at research.celesys.ai.
+Follow FrontierRadar. Full scores and sources at research.celesys.ai.
+
+ANALOGY MAP (in the analogy -> in reality)
+- Fire -> Missing dystrophin muscle protein
+- Water pressure -> Dose of the virus-delivered editor
+- Flooded house -> Fatal immune reaction
 
 SOURCES
 Cell paper; Nature news. Judgment calls are labelled. Not financial advice.

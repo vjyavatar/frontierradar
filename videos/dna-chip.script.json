@@ -1,0 +1,44 @@
+{
+ "hook": "A chip surface just made 11 times more DNA on the same spot.",
+ "analogy_name": "Car park",
+ "map": [
+  [
+   "Flat car park",
+   "Flat chip surface"
+  ],
+  [
+   "Multi-storey levels",
+   "Tiny pores in the silica"
+  ],
+  [
+   "More cars per plot",
+   "More DNA per write site"
+  ]
+ ],
+ "sections": [
+  [
+   "What it is",
+   "It is a porous silica film that boosts how much DNA each write site on a chip can produce."
+  ],
+  [
+   "Analogy",
+   "Think of a flat car park versus a multi-storey one on the same plot. The footprint is identical, but the levels hold far more cars."
+  ],
+  [
+   "How it works",
+   "First, electrodes on the chip build DNA letter by letter, using chip-making-friendly chemistry. Second, the porous film gives each site far more surface to grow on."
+  ],
+  [
+   "Before",
+   "Before, each write site made only a little DNA, and writing is the costliest step in DNA storage."
+  ],
+  [
+   "After",
+   "Now yield passes 1,821 picomoles per square centimetre, over 11 times a flat surface, with error rates comparable to other lab systems."
+  ],
+  [
+   "Why it matters",
+   "Cheaper writing is the road to DNA drives. Twist Bioscience and chip foundries could gain. Lab stage. Our judgment: watch. Not financial advice."
+  ]
+ ]
+}

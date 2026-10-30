@@ -2,25 +2,33 @@ FrontierRadar explainer: Making noisy analog AI chips accurate (weight splitting
 Issue: 2026-10-30 | Stage 1 · Paper | Readiness 35/100 | Voice: Piper en_US-lessac-medium (local)
 
 HOOK
-If one friend guesses wrong, ask three and take the middle answer.
+Micron found a simple fix for sloppy analog AI chips.
 
 WHAT IT IS
-Making noisy analog AI chips accurate.
+It is weight splitting: spreading each AI weight across several memory cells.
 
-WHAT IT DOES
-Micron showed that splitting each AI 'weight' across several memory cells averages out the errors that make analog chips unreliable. Think of it like this: Asking three friends to estimate a distance and averaging: fewer big mistakes.
+ANALOGY
+Think of Olympic diving judges. One judge may be off, but averaging several gives a fair score.
+
+HOW IT WORKS
+First, each weight is stored across several cells. Second, their errors average out.
 
 BEFORE
-A memory giant publishing fixes for analog AI errors suggests in-memory compute is moving toward products.
+Before, analog chips were efficient but unreliable.
 
 AFTER
-Who could benefit: Micron MU and Kaynes KAYNES.NS.
+Now accuracy improves with a simple method.
 
 WHY IT MATTERS
-We rate it Stage 1, Paper, readiness 35 out of 100. The catch: System-level review: specialised analog/physical accelerators can show 'little or no advantage' once conversion, control and memory access are counted. Our judgment: watch. Not financial advice.
+A memory giant solving accuracy suggests products follow. Micron is the direct beneficiary. Our judgment: watch. Not financial advice.
 
 NEXT
-Full scores and sources at research.celesys.ai.
+Follow FrontierRadar. Full scores and sources at research.celesys.ai.
+
+ANALOGY MAP (in the analogy -> in reality)
+- One judge -> One noisy memory cell
+- Panel of judges -> Several cells per weight
+- Averaged score -> Accurate weight
 
 SOURCES
 arXiv 2610.20359. Judgment calls are labelled. Not financial advice.

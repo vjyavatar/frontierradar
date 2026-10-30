@@ -2,25 +2,33 @@ FrontierRadar explainer: SpaceX plans to catch both Starship stages on Flight 15
 Issue: 2026-10-30 | Stage 3 · Flight | Readiness 74/100 | Voice: Piper en_US-lessac-medium (local)
 
 HOOK
-SpaceX wants to catch both parts of its giant rocket with a tower so it can fly again.
+SpaceX wants to catch both halves of Starship on one flight.
 
 WHAT IT IS
-SpaceX plans to catch both Starship stages on Flight 15.
+Flight 15 plans the first attempt to catch the Super Heavy booster and the Starship upper stage at the tower.
 
-WHAT IT DOES
-SpaceX plans its first attempt to catch both the Super Heavy booster and the Starship upper stage at the tower on Flight 15, reported for a tentative November date. Think of it like this: Like catching both a plane and its fuel tanker back on the runway, refuelled and ready to fly again.
+ANALOGY
+Think of a falconer flying two birds and calling both back to the glove, ready to fly again.
+
+HOW IT WORKS
+First, the booster returns and is caught. Second, the upper stage comes back from space for its own catch.
 
 BEFORE
-Full reuse could slash the cost of reaching orbit.
+Before, this dual catch had never been attempted.
 
 AFTER
-Who could benefit: SpaceX and Space ETFs such as Procure Space ETF UFO.
+Now a dual catch is planned for a tentative November date, with weekly launches targeted by early 2027.
 
 WHY IT MATTERS
-We rate it Stage 3, Flight, readiness 74 out of 100. The catch: FAA authorisation for the dual catch was reported as not yet granted. Our judgment: watch. Not financial advice.
+Full reuse could slash launch cost. FAA approval was reported unresolved. SpaceX is private; space ETFs like UFO are the exposure. Our judgment: watch. Not financial advice.
 
 NEXT
-Full scores and sources at research.celesys.ai.
+Follow FrontierRadar. Full scores and sources at research.celesys.ai.
+
+ANALOGY MAP (in the analogy -> in reality)
+- Falconer's glove -> Launch tower arms
+- First bird -> Super Heavy booster
+- Second bird -> Starship upper stage
 
 SOURCES
 SpaceNews; Ars Technica. Judgment calls are labelled. Not financial advice.

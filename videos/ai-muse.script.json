@@ -1,0 +1,44 @@
+{
+ "hook": "Meta's superintelligence lab just shipped its first frontier model.",
+ "analogy_name": "Airline",
+ "map": [
+  [
+   "Huge cargo hold",
+   "1-million-token context"
+  ],
+  [
+   "Passengers of every kind",
+   "Text, image, video and audio inputs"
+  ],
+  [
+   "Long-haul routes",
+   "Long agent workflows"
+  ]
+ ],
+ "sections": [
+  [
+   "What it is",
+   "Muse Wonder is a model for agents, coding, long workflows and multimodal reasoning."
+  ],
+  [
+   "Analogy",
+   "Think of an airline launching a new long-haul jet with a huge cargo hold and lounges for every kind of passenger."
+  ],
+  [
+   "How it works",
+   "First, developers reach it through the Meta Model API and Muse Code. Second, Muse Wonder Full is offered by subscription only."
+  ],
+  [
+   "Before",
+   "Before, Meta's lab had no frontier model in the market."
+  ],
+  [
+   "After",
+   "Now Meta has one, framed as a step to personal superintelligence under its safety framework."
+  ],
+  [
+   "Why it matters",
+   "Meta and AI chip and data-centre suppliers are the exposure. Benchmarks are company-reported. Our judgment: watch. Not financial advice."
+  ]
+ ]
+}

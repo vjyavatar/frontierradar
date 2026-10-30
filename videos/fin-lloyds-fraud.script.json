@@ -1,0 +1,44 @@
+{
+ "hook": "Lloyds' AI fraud assistant passed 90 percent accuracy.",
+ "analogy_name": "Hospital ward round",
+ "map": [
+  [
+   "Nurses",
+   "AI agents"
+  ],
+  [
+   "Tests",
+   "Investigation steps"
+  ],
+  [
+   "Consultant",
+   "Human specialist"
+  ]
+ ],
+ "sections": [
+  [
+   "What it is",
+   "It is a team of specialist AI agents helping fraud staff."
+  ],
+  [
+   "Analogy",
+   "Think of a hospital ward round. Specialist nurses gather the test results and history first, so the consultant can make the final call quickly."
+  ],
+  [
+   "How it works",
+   "First, specialist AI agents run the investigation steps on a debit-card fraud case. Second, a human fraud specialist makes the final decision."
+  ],
+  [
+   "Before",
+   "Before, banks used rules and single models."
+  ],
+  [
+   "After",
+   "Now, over 10,600 live cases in 90 days, accuracy passed 90 percent, staff used about half as many systems per call, and overrides fell 30 percent."
+  ],
+  [
+   "Why it matters",
+   "Large banks and RegTech vendors gain. Our judgment: watch. Not financial advice."
+  ]
+ ]
+}

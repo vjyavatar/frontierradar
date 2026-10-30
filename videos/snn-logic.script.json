@@ -1,0 +1,44 @@
+{
+ "hook": "One transistor can now switch jobs.",
+ "analogy_name": "Football utility player",
+ "map": [
+  [
+   "Defender",
+   "Logic"
+  ],
+  [
+   "Midfielder",
+   "Synapse"
+  ],
+  [
+   "Striker",
+   "Neuron"
+  ]
+ ],
+ "sections": [
+  [
+   "What it is",
+   "It is an atom-thin transistor that acts as logic, synapse or neuron."
+  ],
+  [
+   "Analogy",
+   "Think of a football utility player. The coach can move him to defence, midfield or attack during the same match, so the squad needs fewer players."
+  ],
+  [
+   "How it works",
+   "First, the transistor is reassigned to a new role. Second, working as a filter, it drops useless data before the brain-like part wastes energy on it."
+  ],
+  [
+   "Before",
+   "Before, logic, memory and neuron jobs used separate kinds of devices."
+  ],
+  [
+   "After",
+   "Now one atom-thin device, from researchers in Singapore, can be reassigned between all three."
+  ],
+  [
+   "Why it matters",
+   "It is pure research, roughly a decade from products, with no investable pure play yet. Our judgment: wait. Not financial advice."
+  ]
+ ]
+}

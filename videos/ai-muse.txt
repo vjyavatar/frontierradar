@@ -2,25 +2,33 @@ FrontierRadar explainer: Meta's superintelligence lab ships its first frontier m
 Issue: 2026-10-30 | Stage 3 · Shipping | Readiness 78/100 | Voice: Piper en_US-lessac-medium (local)
 
 HOOK
-Meta made a new AI that can read, look, listen and help with long jobs.
+Meta's superintelligence lab just shipped its first frontier model.
 
 WHAT IT IS
-Meta's superintelligence lab ships its first frontier model, Muse Wonder.
+Muse Wonder is a model for agents, coding, long workflows and multimodal reasoning.
 
-WHAT IT DOES
-Meta released Muse Wonder and Muse Wonder Full for agents, coding, long workflows and multimodal reasoning. Think of it like this: Like a new head chef who can read a whole cookbook at once and cook while watching, listening and planning the next course.
+ANALOGY
+Think of an airline launching a new long-haul jet with a huge cargo hold and lounges for every kind of passenger.
+
+HOW IT WORKS
+First, developers reach it through the Meta Model API and Muse Code. Second, Muse Wonder Full is offered by subscription only.
 
 BEFORE
-Meta frames it as a step toward 'personal superintelligence' under its safety framework.
+Before, Meta's lab had no frontier model in the market.
 
 AFTER
-Who could benefit: Meta Platforms META and AI chip and data-centre suppliers.
+Now Meta has one, framed as a step to personal superintelligence under its safety framework.
 
 WHY IT MATTERS
-We rate it Stage 3, Shipping, readiness 78 out of 100. The catch: Capabilities are company-reported. Our judgment: watch. Not financial advice.
+Meta and AI chip and data-centre suppliers are the exposure. Benchmarks are company-reported. Our judgment: watch. Not financial advice.
 
 NEXT
-Full scores and sources at research.celesys.ai.
+Follow FrontierRadar. Full scores and sources at research.celesys.ai.
+
+ANALOGY MAP (in the analogy -> in reality)
+- Huge cargo hold -> 1-million-token context
+- Passengers of every kind -> Text, image, video and audio inputs
+- Long-haul routes -> Long agent workflows
 
 SOURCES
 Meta AI Research blog; Model card. Judgment calls are labelled. Not financial advice.

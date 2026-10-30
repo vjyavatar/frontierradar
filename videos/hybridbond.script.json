@@ -1,0 +1,44 @@
+{
+ "hook": "Next AI chips will be fused copper to copper.",
+ "analogy_name": "Seamless knitting",
+ "map": [
+  [
+   "Stitched seams",
+   "Solder bumps"
+  ],
+  [
+   "Knitted in one piece",
+   "Copper fused to copper"
+  ],
+  [
+   "Thinner fabric",
+   "Tighter chip stacks"
+  ]
+ ],
+ "sections": [
+  [
+   "What it is",
+   "Hybrid bonding joins chips directly, pad to pad."
+  ],
+  [
+   "Analogy",
+   "Think of a sweater knitted in one piece instead of panels stitched with bulky seams. With no seams, the fabric is thinner, lighter and stronger, and the pattern lines up perfectly."
+  ],
+  [
+   "How it works",
+   "First, the chip surfaces are made extremely flat and clean. Second, copper pad meets copper pad and fuses, with no solder bump in between."
+  ],
+  [
+   "Before",
+   "Before, stacked chips were joined with tiny solder bumps, which take space between layers."
+  ],
+  [
+   "After",
+   "Now toolmakers are teaming up, but SK hynix says it is not ready for HBM4E."
+  ],
+  [
+   "Why it matters",
+   "The timing slip favours legacy bonder makers short term. Besi and Applied Materials longer term, and Adeia as an IP licensor, are the exposure. Our judgment: watch. Not financial advice."
+  ]
+ ]
+}

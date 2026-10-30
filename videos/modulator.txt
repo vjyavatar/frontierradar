@@ -2,25 +2,33 @@ FrontierRadar explainer: A light switch sending 200 billion bits per second per 
 Issue: 2026-10-30 | Stage 1 · Paper | Readiness 36/100 | Voice: Piper en_US-lessac-medium (local)
 
 HOOK
-A tiny light switch that blinks billions of times a second to send messages between computers.
+A tiny chip switch now flips light 200 billion times a second.
 
 WHAT IT IS
-A light switch sending 200 billion bits per second per colour.
+It is a silicon slow-light modulator for data-centre optics.
 
-WHAT IT DOES
-A tiny silicon 'slow-light' modulator flips light on and off fast enough to carry 200 Gb/s on a single colour of laser. Think of it like this: A shutter so fast it could blink a whole HD movie across in a fraction of a second.
+ANALOGY
+Think of a camera shutter clicking open and shut so fast that each click is one bit of data.
+
+HOW IT WORKS
+First, slowing light boosts its interaction with silicon. Second, the device switches it on and off at high speed.
 
 BEFORE
-Next-gen per-lane speed is a key spec for data-centre optics.
+Before, per-lane speed limited optics.
 
 AFTER
-Who could benefit: Marvell MRVL and Broadcom AVGO.
+Now 200 gigabits per second fit on one colour.
 
 WHY IT MATTERS
-We rate it Stage 1, Paper, readiness 36 out of 100. The catch: Nvidia networking SVP: 'If you can use copper, use copper' — optics only where distance forces it. Our judgment: watch. Not financial advice.
+Lab result, but on transceiver roadmaps. Marvell, Broadcom and Coherent are exposure. Our judgment: watch. Not financial advice.
 
 NEXT
-Full scores and sources at research.celesys.ai.
+Follow FrontierRadar. Full scores and sources at research.celesys.ai.
+
+ANALOGY MAP (in the analogy -> in reality)
+- Shutter -> Modulator
+- Click -> Bit
+- One lens -> One laser colour
 
 SOURCES
 Nature Communications. Judgment calls are labelled. Not financial advice.

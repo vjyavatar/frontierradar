@@ -2,25 +2,33 @@ FrontierRadar explainer: Two-sided perovskite-silicon solar cells keep 90% effic
 Issue: 2026-10-30 | Stage 1 · Lab cell | Readiness 32/100 | Voice: Piper en_US-lessac-medium (local)
 
 HOOK
-Special solar cells catch light on both sides.
+Two-sided solar cells kept 90 percent efficiency after 1,000 hot hours.
 
 WHAT IT IS
-Two-sided perovskite-silicon solar cells keep 90% efficiency after 1,000 hot hours.
+They are bifacial perovskite-silicon tandem cells with a new stability design rule.
 
-WHAT IT DOES
-The team identified 'lattice compliance', how well the crystal flexes under stress, as a key to heat-and-light stability. Think of it like this: Like choosing a bridge that flexes in the wind instead of cracking.
+ANALOGY
+Think of a tower in an earthquake zone. Rigid towers crack; towers with flexible joints sway and survive.
+
+HOW IT WORKS
+First, the team found that how well the crystal flexes predicts stability. Second, they built two-sided tandems using that rule.
 
 BEFORE
-Perovskite-silicon tandems promise more power per panel, but perovskites degrade.
+Before, perovskites degraded quickly, holding back tandems.
 
 AFTER
-Who could benefit: Solar manufacturers developing tandems.
+Now the cells made 36.2 milliwatts per square centimetre and kept 90 percent after 1,000 hours at 65 degrees.
 
 WHY IT MATTERS
-We rate it Stage 1, Lab cell, readiness 32 out of 100. The catch: 1,000 hours is far below panel lifetimes. Our judgment: watch. Not financial advice.
+1,000 hours is short against 25-year panels. Tandem solar makers are the exposure. Our judgment: watch. Not financial advice.
 
 NEXT
-Full scores and sources at research.celesys.ai.
+Follow FrontierRadar. Full scores and sources at research.celesys.ai.
+
+ANALOGY MAP (in the analogy -> in reality)
+- Earthquake -> Heat and light stress
+- Flexible joints -> Lattice compliance
+- Tower still standing -> Cell keeps efficiency
 
 SOURCES
 Nature Energy paper. Judgment calls are labelled. Not financial advice.

@@ -1,0 +1,44 @@
+{
+ "hook": "Two-sided solar cells kept 90 percent efficiency after 1,000 hot hours.",
+ "analogy_name": "Earthquake building",
+ "map": [
+  [
+   "Earthquake",
+   "Heat and light stress"
+  ],
+  [
+   "Flexible joints",
+   "Lattice compliance"
+  ],
+  [
+   "Tower still standing",
+   "Cell keeps efficiency"
+  ]
+ ],
+ "sections": [
+  [
+   "What it is",
+   "They are bifacial perovskite-silicon tandem cells with a new stability design rule."
+  ],
+  [
+   "Analogy",
+   "Think of a tower in an earthquake zone. Rigid towers crack; towers with flexible joints sway and survive."
+  ],
+  [
+   "How it works",
+   "First, the team found that how well the crystal flexes predicts stability. Second, they built two-sided tandems using that rule."
+  ],
+  [
+   "Before",
+   "Before, perovskites degraded quickly, holding back tandems."
+  ],
+  [
+   "After",
+   "Now the cells made 36.2 milliwatts per square centimetre and kept 90 percent after 1,000 hours at 65 degrees."
+  ],
+  [
+   "Why it matters",
+   "1,000 hours is short against 25-year panels. Tandem solar makers are the exposure. Our judgment: watch. Not financial advice."
+  ]
+ ]
+}

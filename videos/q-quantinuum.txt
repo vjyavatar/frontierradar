@@ -2,25 +2,33 @@ FrontierRadar explainer: Quantinuum reports 99.9995% logical fidelity on Helios,
 Issue: 2026-10-30 | Stage 2 · Hardware demo | Readiness 54/100 | Voice: Piper en_US-lessac-medium (local)
 
 HOOK
-Quantum computers make lots of mistakes.
+Quantinuum says its quantum computer now makes just five errors per million.
 
 WHAT IT IS
-Quantinuum reports 99.9995% logical fidelity on Helios, five errors per million.
+It is a new error-correction record on Helios, a commercial trapped-ion machine.
 
-WHAT IT DOES
-Using a colour code on its commercial Helios trapped-ion computer, Quantinuum reports 99.9995% logical fidelity, 10× lower error than its own September record. Think of it like this: Like a typist who used to make 5 mistakes per 100,000 words now making 5 per million.
+ANALOGY
+Picture a choir where every note is sung by a small group. If one singer goes off-key, the group's sound still carries the right note, and the conductor can hear who slipped.
+
+HOW IT WORKS
+First, information is spread across many ions using a colour code. Second, checks catch and correct errors before they spread.
 
 BEFORE
-Error correction decides when quantum computers become useful.
+Before, its own September record had 10 times more errors.
 
 AFTER
-Who could benefit: Quantinuum QNT and Defiance Quantum ETF QTUM.
+Now it reports 99.9995 percent logical fidelity, in the target range for Apollo, a fault-tolerant machine planned by 2029.
 
 WHY IT MATTERS
-We rate it Stage 2, Hardware demo, readiness 54 out of 100. The catch: Result is company-announced; the press release compares favourably with rivals. Our judgment: small bet. Not financial advice.
+Error correction decides when quantum computers become useful, and Helios is sold today. The record is company-reported. Our judgment: small bet. Not financial advice.
 
 NEXT
-Full scores and sources at research.celesys.ai.
+Follow FrontierRadar. Full scores and sources at research.celesys.ai.
+
+ANALOGY MAP (in the analogy -> in reality)
+- Group singing one note -> Many physical qubits form one logical qubit
+- Off-key singer -> A single qubit error
+- Conductor spotting it -> The colour code detecting and fixing errors
 
 SOURCES
 Quantinuum press release (Oct 19, 2026). Judgment calls are labelled. Not financial advice.

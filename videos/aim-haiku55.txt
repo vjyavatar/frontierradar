@@ -2,25 +2,33 @@ FrontierRadar explainer: Anthropic's Claude Haiku 5.5 costs about 75% less to ru
 Issue: 2026-10-30 | Stage 3 · Generally available | Readiness 85/100 | Voice: Piper en_US-lessac-medium (local)
 
 HOOK
-A smaller, cheaper AI got much smarter, so apps can use AI lots more without paying a lot.
+Claude Haiku 5.5 costs about 75 percent less to run.
 
 WHAT IT IS
-Anthropic's Claude Haiku 5.5 costs about 75% less to run than Haiku 4.5.
+It is Anthropic's fastest small model.
 
-WHAT IT DOES
-Anthropic released Claude Haiku 5.5 on all platforms, including AWS, Google Cloud and Microsoft Azure, saying it costs about 75% less to run than Haiku 4.5 and is its fastest model. Think of it like this: Like a pocket calculator that now does what a desktop computer did, for a quarter of the price.
+ANALOGY
+Think of a city courier firm. Vans are costly for small envelopes; a bicycle messenger is faster through traffic and far cheaper per delivery.
+
+HOW IT WORKS
+First, Haiku 5.5 runs on AWS, Google Cloud and Microsoft Azure. Second, it handles high-volume work like summaries, sorting and customer support.
 
 BEFORE
-Small models handle high-volume work such as summaries, sorting and customer support.
+Before, running Haiku 4.5 cost about four times as much.
 
 AFTER
-Who could benefit: Amazon and Google Cloud, both Anthropic investors and Apps with high-volume AI tasks.
+Now it scores 36 on the Artificial Analysis index, cited by OrigoTech, ahead of the best open-weight models at 32.
 
 WHY IT MATTERS
-We rate it Stage 3, Generally available, readiness 85 out of 100. The catch: Cost saving is Anthropic's own average estimate. Our judgment: watch. Not financial advice.
+AWS and Google Cloud gain. Our judgment: watch. Not financial advice.
 
 NEXT
-Full scores and sources at research.celesys.ai.
+Follow FrontierRadar. Full scores and sources at research.celesys.ai.
+
+ANALOGY MAP (in the analogy -> in reality)
+- Van -> Larger model
+- Bicycle -> Haiku 5.5
+- Small parcels -> High-volume tasks
 
 SOURCES
 Anthropic (Oct 7, 2026); OrigoTech on Artificial Analysis Index v5 (Oct 2026). Judgment calls are labelled. Not financial advice.

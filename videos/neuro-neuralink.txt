@@ -2,25 +2,33 @@ FrontierRadar explainer: Neuralink pretrains its brain decoder on 50,000 hours o
 Issue: 2026-10-30 | Stage 2 · Pilot / feasibility | Readiness 39/100 | Voice: Piper en_US-lessac-medium (local)
 
 HOOK
-Brain chips need to learn each person.
+Neuralink trained its brain decoder on over 50,000 hours of recordings.
 
 WHAT IT IS
-Neuralink pretrains its brain decoder on 50,000 hours of recordings.
+It is a pretrained decoder for brain implants, the way AI models are pretrained.
 
-WHAT IT DOES
-Neuralink reports more than 50,000 hours of human BCI recordings used to pretrain decoders, cutting some users' recalibration from daily to weekly and reaching 11.32 bits per second cursor control. Think of it like this: Like a phone keyboard that learned from millions of typists, so it works for you with far less practice.
+ANALOGY
+Think of a navigation app. It does not learn your city from your drives alone; it learns from millions of drivers, so it works on day one.
+
+HOW IT WORKS
+First, the decoder learns general patterns from pooled recordings. Second, each user only fine-tunes it.
 
 BEFORE
-BCI users have needed frequent recalibration.
+Before, users needed frequent recalibration, some daily.
 
 AFTER
-Who could benefit: Neuralink and Synchron.
+Now some recalibrate weekly, with cursor control reaching 11.32 bits per second.
 
 WHY IT MATTERS
-We rate it Stage 2, Pilot / feasibility, readiness 39 out of 100. The catch: Company-reported, not peer-reviewed. Our judgment: watch. Not financial advice.
+Easier daily life makes implants more practical. Company-reported, and Neuralink is private. Our judgment: watch. Not financial advice.
 
 NEXT
-Full scores and sources at research.celesys.ai.
+Follow FrontierRadar. Full scores and sources at research.celesys.ai.
+
+ANALOGY MAP (in the analogy -> in reality)
+- Millions of drivers -> 50,000 hours of pooled BCI recordings
+- Map learned in advance -> Pretrained decoder
+- Fewer reroutes -> Less recalibration
 
 SOURCES
 Neuralink update; NeuroFounders summary. Judgment calls are labelled. Not financial advice.

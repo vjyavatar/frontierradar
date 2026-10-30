@@ -1,0 +1,44 @@
+{
+ "hook": "Google DeepMind's Genie 4 builds interactive worlds that talk back.",
+ "analogy_name": "Theatre",
+ "map": [
+  [
+   "Self-building stage",
+   "Generated interactive world"
+  ],
+  [
+   "Sound effects and lines",
+   "Audio, ambient sound and dialogue"
+  ],
+  [
+   "Actors rehearsing",
+   "Robots and AI agents training"
+  ]
+ ],
+ "sections": [
+  [
+   "What it is",
+   "It is a world model that generates real-time simulations with sound and dialogue."
+  ],
+  [
+   "Analogy",
+   "Think of a theatre stage that builds its scenery as the actors walk, and adds the crowd noise and the other characters' lines on cue."
+  ],
+  [
+   "How it works",
+   "First, the model takes your actions as input. Second, it generates the next moment of the world, picture and sound, in real time."
+  ],
+  [
+   "Before",
+   "Before, training robots and agents needed real environments or hand-built simulators."
+  ],
+  [
+   "After",
+   "Now Genie 4 is a research preview for trusted testers."
+  ],
+  [
+   "Why it matters",
+   "World models could become training grounds for robots. Preview only. Alphabet is the exposure. Our judgment: watch. Not financial advice."
+  ]
+ ]
+}

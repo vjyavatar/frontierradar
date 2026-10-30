@@ -2,25 +2,33 @@ FrontierRadar explainer: Precision Neuroscience pools 70 patients into one map o
 Issue: 2026-10-30 | Stage 2 · Pilot / feasibility | Readiness 37/100 | Voice: Piper en_US-lessac-medium (local)
 
 HOOK
-A company put thin stickers on 70 people's brains during surgery and made a big map of how brains send signals.
+Precision Neuroscience pooled 70 patients into one map of the nervous system.
 
 WHAT IT IS
-Precision Neuroscience pools 70 patients into one map of the human nervous system.
+It is a neural atlas of more than 180 hours recorded with temporary surface arrays.
 
-WHAT IT DOES
-Precision announced a 70-patient, 180-plus-hour neural atlas recorded with its temporary Layer 7 surface arrays, supporting movement, speech and facial-expression decoding. Think of it like this: Like stitching many street-view drives into one city map.
+ANALOGY
+Think of writing a dictionary. One speaker gives you a few words; 70 speakers give you the shared language everyone uses.
+
+HOW IT WORKS
+First, thin Layer 7 arrays rest on the brain surface without penetrating it. Second, pooled recordings train decoders for movement, speech and facial expression.
 
 BEFORE
-Surface arrays sit on the brain rather than penetrating it.
+Before, decoders were trained patient by patient.
 
 AFTER
-Who could benefit: Precision Neuroscience.
+Now 70 patients feed one atlas, and Precision opened its first international site, in Abu Dhabi.
 
 WHY IT MATTERS
-We rate it Stage 2, Pilot / feasibility, readiness 37 out of 100. The catch: Data from temporary recordings during procedures. Our judgment: watch. Not financial advice.
+Shared data could speed decoder training. Recordings are temporary, not permanent implants, and the company is private. Our judgment: watch. Not financial advice.
 
 NEXT
-Full scores and sources at research.celesys.ai.
+Follow FrontierRadar. Full scores and sources at research.celesys.ai.
+
+ANALOGY MAP (in the analogy -> in reality)
+- Speakers -> Patients
+- Recorded conversations -> 180-plus hours of neural data
+- The dictionary -> Shared atlas for decoding
 
 SOURCES
 Inside BCI (Oct 9, 2026); Expansion news (GlobeNewswire, Oct 29). Judgment calls are labelled. Not financial advice.

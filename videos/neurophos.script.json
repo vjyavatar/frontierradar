@@ -1,0 +1,44 @@
+{
+ "hook": "What if an AI chip ran on light?",
+ "analogy_name": "Stained glass",
+ "map": [
+  [
+   "Stained glass",
+   "Metamaterial patterns"
+  ],
+  [
+   "Sunlight",
+   "Laser light carrying data"
+  ],
+  [
+   "Coloured pattern",
+   "Result of the AI math"
+  ]
+ ],
+ "sections": [
+  [
+   "What it is",
+   "Neurophos is a startup doing AI math by shining light through tiny metamaterial patterns."
+  ],
+  [
+   "Analogy",
+   "Think of a cathedral stained-glass window. Sunlight passes through and the colours sort themselves instantly, with no effort."
+  ],
+  [
+   "How it works",
+   "First, data is encoded into light. Second, the patterns transform it as it passes, doing the calculation."
+  ],
+  [
+   "Before",
+   "Before, AI math meant pushing electricity through transistors, creating heat."
+  ],
+  [
+   "After",
+   "Now there is granted IP and an MIT software partnership, but no product yet."
+  ],
+  [
+   "Why it matters",
+   "Photonics foundries like GlobalFoundries and Tower are the picks-and-shovels play. Our judgment: watch. Not financial advice."
+  ]
+ ]
+}

@@ -1,25 +1,44 @@
 {
- "hook": "Why do AI chatbots type their answers one word at a time?",
+ "hook": "Putting tiny processors inside AI memory could make chatbots answer 2.2 times faster.",
+ "analogy_name": "Warehouse",
+ "map": [
+  [
+   "Distant factory",
+   "GPU"
+  ],
+  [
+   "Packing desk on site",
+   "Compute in the memory base die"
+  ],
+  [
+   "Trucking",
+   "Moving data back and forth"
+  ]
+ ],
  "sections": [
   [
    "What it is",
-   "DuoPD is a research design from Seoul National University. It adds small compute units inside HBM4, the stacked memory next to AI chips."
+   "DuoPD adds small compute units to the base layer of HBM4 memory."
   ],
   [
-   "What it does",
-   "The GPU reads your prompt, and the memory itself writes the answer word by word. Think of a librarian who writes the answer at the shelf, instead of you running to the library for every sentence."
+   "Analogy",
+   "Think of a warehouse that adds a packing desk on site, instead of trucking every item to a distant factory and back."
+  ],
+  [
+   "How it works",
+   "First, the GPU handles the prompt. Second, the memory handles word-by-word answering."
   ],
   [
    "Before",
-   "Until now, the GPU does all the work and keeps fetching data from memory. HBM4 moves the memory's base layer to a logic process, which opens room for compute."
+   "Before, every answer word meant moving data between memory and GPU."
   ],
   [
    "After",
-   "In simulation, answers come up to 2.23 times more throughput, with up to 37.9 percent energy saving. Memory makers SK hynix, Samsung and Micron could benefit."
+   "In simulation, throughput rises up to 2.23 times, and energy falls up to 37.9 percent."
   ],
   [
    "Why it matters",
-   "We rate it Stage 1, Paper, with a readiness score of 27 out of 100. It is simulation only, and needs memory makers to buy in. Our judgment: wait, and watch for real silicon. Not financial advice."
+   "Simulation only, and memory vendors must buy in. SK hynix, Samsung and Micron are exposure. Our judgment: wait. Not financial advice."
   ]
  ]
 }

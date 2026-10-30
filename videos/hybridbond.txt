@@ -2,25 +2,33 @@ FrontierRadar explainer: Gluing chips together copper-to-copper (hybrid bonding)
 Issue: 2026-10-30 | Stage 3 · Factories & orders | Readiness 80/100 | Voice: Piper en_US-lessac-medium (local)
 
 HOOK
-Instead of using tiny solder balls, chips are pressed together so their copper parts fuse, like welding.
+Next AI chips will be fused copper to copper.
 
 WHAT IT IS
-Gluing chips together copper-to-copper.
+Hybrid bonding joins chips directly, pad to pad.
 
-WHAT IT DOES
-Tool makers are teaming up to sell machines that fuse chips directly, copper pad to copper pad. Think of it like this: Welding Lego bricks instead of snapping them: tighter, but harder to do right.
+ANALOGY
+Think of a sweater knitted in one piece instead of panels stitched with bulky seams. With no seams, the fabric is thinner, lighter and stronger, and the pattern lines up perfectly.
+
+HOW IT WORKS
+First, the chip surfaces are made extremely flat and clean. Second, copper pad meets copper pad and fuses, with no solder bump in between.
 
 BEFORE
-Hybrid bonding is at the orders stage.
+Before, stacked chips were joined with tiny solder bumps, which take space between layers.
 
 AFTER
-Who could benefit: Besi BESI.AS and Applied Materials AMAT.
+Now toolmakers are teaming up, but SK hynix says it is not ready for HBM4E.
 
 WHY IT MATTERS
-We rate it Stage 3, Factories & orders, readiness 80 out of 100. The catch: SK hynix says hybrid bonding won't be ready for HBM4E memory stacks. Our judgment: watch. Not financial advice.
+The timing slip favours legacy bonder makers short term. Besi and Applied Materials longer term, and Adeia as an IP licensor, are the exposure. Our judgment: watch. Not financial advice.
 
 NEXT
-Full scores and sources at research.celesys.ai.
+Follow FrontierRadar. Full scores and sources at research.celesys.ai.
+
+ANALOGY MAP (in the analogy -> in reality)
+- Stitched seams -> Solder bumps
+- Knitted in one piece -> Copper fused to copper
+- Thinner fabric -> Tighter chip stacks
 
 SOURCES
 Applied-Besi partnership; Applied raises Besi stake to ~20% (Oct 26 2026); Patent US20240170443A1; SK hynix at Hot Chips (Tom's Hardware). Judgment calls are labelled. Not financial advice.

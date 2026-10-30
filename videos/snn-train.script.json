@@ -1,0 +1,44 @@
+{
+ "hook": "A brain-like chip learns on the spot, and beat Nvidia's Jetson by up to 3 times.",
+ "analogy_name": "Chess player",
+ "map": [
+  [
+   "Study camp",
+   "Data-centre training"
+  ],
+  [
+   "Learning at the board",
+   "On-device learning"
+  ],
+  [
+   "Chess player",
+   "Edge chip"
+  ]
+ ],
+ "sections": [
+  [
+   "What it is",
+   "It is a neuromorphic chip design that trains itself on the device."
+  ],
+  [
+   "Analogy",
+   "Think of a chess player who improves during the game, learning from each opponent's move at the board, instead of only studying at a far-away training camp."
+  ],
+  [
+   "How it works",
+   "First, the chip works with brain-style spikes. Second, it adjusts its own settings on the device, without sending data to a data centre."
+  ],
+  [
+   "Before",
+   "Before, learning happened in data centres."
+  ],
+  [
+   "After",
+   "Now on an FPGA it beat Jetson Orin 1.9 to 3.3 times, with less memory traffic than an A100."
+  ],
+  [
+   "Why it matters",
+   "On-device learning for edge AI is a real gap, but this is an FPGA demo, not a product. BrainChip, Lattice and AMD are the exposure. Our judgment: watch. Not financial advice."
+  ]
+ ]
+}

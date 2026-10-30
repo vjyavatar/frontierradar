@@ -1,0 +1,44 @@
+{
+ "hook": "A Nasdaq-100 fund now lives on a blockchain.",
+ "analogy_name": "Concert tickets",
+ "map": [
+  [
+   "Venue",
+   "Janus Henderson"
+  ],
+  [
+   "Phone ticket",
+   "On-chain fund token"
+  ],
+  [
+   "Box office",
+   "Traditional fund system"
+  ]
+ ],
+ "sections": [
+  [
+   "What it is",
+   "Janus Henderson's J Q Q Q is an issuer-sponsored on-chain fund."
+  ],
+  [
+   "Analogy",
+   "Think of concert tickets moving from paper at the box office to a phone wallet. The key: the venue itself issues them, not a reseller."
+  ],
+  [
+   "How it works",
+   "First, Janus Henderson and Centrifuge issue the fund on the Stellar blockchain. Second, Nasdaq licenses the index, unlike third-party stock tokens."
+  ],
+  [
+   "Before",
+   "Before, tokenization mostly covered cash-like money-market funds."
+  ],
+  [
+   "After",
+   "Now a stock index is on-chain, taking Janus Henderson's platform above 1 billion dollars."
+  ],
+  [
+   "Why it matters",
+   "Still small. Asset managers and index providers are exposure. Our judgment: watch. Not financial advice."
+  ]
+ ]
+}

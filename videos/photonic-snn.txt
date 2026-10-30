@@ -2,25 +2,33 @@ FrontierRadar explainer: Light-powered brain chip: 1,176x faster on vision
 Issue: 2026-10-30 | Stage 1 · Paper | Readiness 16/100 | Voice: Piper en_US-lessac-medium (local)
 
 HOOK
-A brain chip that uses light.
+A light brain chip is reported over a thousand times faster on vision.
 
 WHAT IT IS
-Light-powered brain chip: 1,176x faster on vision.
+It uses optical devices that act as synapse and neuron.
 
-WHAT IT DOES
-Chip-compatible optical devices that act as both synapse and neuron cut delay 1,176x and energy 239x versus standard designs on vision tasks (in their tests). Think of it like this: Swapping a postal service for a laser pointer between two windows.
+ANALOGY
+Think of a sprint start. Normally the ear hears the gun and then the legs react. Imagine a starting block that both senses the gun and launches the runner in one action.
+
+HOW IT WORKS
+First, light carries the signal into chip-compatible optical devices. Second, the same device weighs the signal like a synapse and fires like a neuron.
 
 BEFORE
-Eye-catching lab gains; geopolitics may keep this inside China.
+Before, standard designs had more delay and energy.
 
 AFTER
-Who could benefit: Chinese photonics foundries and Tower TSEM.
+Now delay fell 1,176 times and energy 239 times in their tests.
 
 WHY IT MATTERS
-We rate it Stage 1, Paper, readiness 16 out of 100. The catch: Nature Photonics review: in the cloud, losses and light-to-electric conversions 'dominate power' and have so far prevented commercial photonic tensor cores. Our judgment: watch. Not financial advice.
+It is a lab claim that needs replication, and geopolitics may keep it inside China. Tower Semiconductor is a distant exposure. Our judgment: wait. Not financial advice.
 
 NEXT
-Full scores and sources at research.celesys.ai.
+Follow FrontierRadar. Full scores and sources at research.celesys.ai.
+
+ANALOGY MAP (in the analogy -> in reality)
+- Hearing the gun -> Synapse
+- Launching -> Neuron
+- One block -> One optical device
 
 SOURCES
 Nature Communications. Judgment calls are labelled. Not financial advice.

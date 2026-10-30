@@ -2,25 +2,33 @@ FrontierRadar explainer: Brown University: a magnetic-electric material that kee
 Issue: 2026-10-30 | Stage 1 · Paper | Readiness 16/100 | Voice: Piper en_US-lessac-medium (local)
 
 HOOK
-Can a material thinner than a strand of DNA still keep its magic?
+A magnetic-electric material just kept working at 1.6 nanometres.
 
 WHAT IT IS
-Brown University and collaborators, in Nature Materials, studied thin films of bismuth ferrite, a material that is both magnetic and electric.
+Brown University made thin bismuth ferrite films with no dead layer.
 
-WHAT IT DOES
-They removed the dead layer near the surface, so the material keeps working down to about 1.6 nanometres. Like paint that used to fail if brushed too thin; now even a near-invisible coat still works.
+ANALOGY
+Think of a stadium card display. Fans flip cards when whispered to, but the edge rows were always asleep. Now every row joins in.
+
+HOW IT WORKS
+First, the team removed the dead layer. Second, electric and magnetic order survived down to four atomic unit cells.
 
 BEFORE
-Until now, very thin films of this material lost their properties near the surface. That blocked the tiny sizes real devices need.
+Before, these films lost their properties near the surface.
 
 AFTER
-Materials like this could one day let voltage, not current, flip memory bits, cutting energy use. For now, memory and spintronics research labs benefit.
+Now they work at about 1.6 nanometres, with signs of altermagnetism.
 
 WHY IT MATTERS
-We rate it Stage 1, Paper, with a readiness score of 16 out of 100. The films grow on a rare crystal, not standard silicon. Our judgment: wait. Watch for growth on silicon and a working memory cell. Not financial advice.
+Voltage-flipped memory could slash energy. Fundamental physics, manufacturing far off. Our judgment: wait. Not financial advice.
 
 NEXT
-Full scores and sources at research.celesys.ai.
+Follow FrontierRadar. Full scores and sources at research.celesys.ai.
+
+ANALOGY MAP (in the analogy -> in reality)
+- Whisper -> Voltage, not current
+- Flipping cards -> Magnetic bits switching
+- Sleeping edge rows -> Dead layer at the surface
 
 SOURCES
 Nature Materials paper (Oct 28, 2026); Brown University news (Oct 28, 2026). Judgment calls are labelled. Not financial advice.

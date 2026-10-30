@@ -1,0 +1,44 @@
+{
+ "hook": "Light-based chips are now in mass production.",
+ "analogy_name": "Printing press",
+ "map": [
+  [
+   "Scribes",
+   "Lab photonics"
+  ],
+  [
+   "Printing press",
+   "300 millimetre lines"
+  ],
+  [
+   "Books",
+   "800G and 1.6T links"
+  ]
+ ],
+ "sections": [
+  [
+   "What it is",
+   "STMicroelectronics' PIC100 silicon-photonics process is at volume."
+  ],
+  [
+   "Analogy",
+   "Think of the printing press replacing monks copying books by hand. Same words, but suddenly thousands of copies, cheaply."
+  ],
+  [
+   "How it works",
+   "First, ST makes light-based circuits on its 300 millimetre wafer lines. Second, they go into 800G and 1.6T optical links for hyperscaler data centres."
+  ],
+  [
+   "Before",
+   "Before, photonics was mostly research."
+  ],
+  [
+   "After",
+   "Now ST is at volume, with plans to more than quadruple capacity by 2027."
+  ],
+  [
+   "Why it matters",
+   "This is paper to profit. STMicro, ticker STM, plus Coherent and Lumentum are the exposure. Our judgment: build position. Not financial advice."
+  ]
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "hook": "Cloud users can now use every one of IQM's 54 qubits at once.",
+ "analogy_name": "Rowing eight",
+ "map": [
+  [
+   "Rowers",
+   "Qubits"
+  ],
+  [
+   "Oars in perfect sync",
+   "Entangled GHZ state"
+  ],
+  [
+   "Whole crew rowing",
+   "All 54 qubits working"
+  ]
+ ],
+ "sections": [
+  [
+   "What it is",
+   "IQM entangled all 54 qubits on its Emerald chip in a single linked state."
+  ],
+  [
+   "Analogy",
+   "Think of a rowing boat. Anyone can sync two rowers, but a long boat only flies when every oar enters the water together."
+  ],
+  [
+   "How it works",
+   "First, IQM links the qubits into one shared state. Second, it measures how faithful that state is against a 0.5 pass mark."
+  ],
+  [
+   "Before",
+   "Before, many studies used just 10 to 20 qubits, and only about 30 here were reliably usable."
+  ],
+  [
+   "After",
+   "Now all 54 score 0.516 with readout correction, just above the threshold, and cloud users get the same full chip."
+  ],
+  [
+   "Why it matters",
+   "Real workloads need the whole chip. The margin is thin. IQM trades as IQMX. Our judgment: watch. Not financial advice."
+  ]
+ ]
+}

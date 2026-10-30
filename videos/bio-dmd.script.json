@@ -1,0 +1,44 @@
+{
+ "hook": "A gene-editing trial for Duchenne muscular dystrophy shows how thin the safety line is.",
+ "analogy_name": "Firefighting",
+ "map": [
+  [
+   "Fire",
+   "Missing dystrophin muscle protein"
+  ],
+  [
+   "Water pressure",
+   "Dose of the virus-delivered editor"
+  ],
+  [
+   "Flooded house",
+   "Fatal immune reaction"
+  ]
+ ],
+ "sections": [
+  [
+   "What it is",
+   "It is a trial that delivered a gene editor with a single virus to four boys."
+  ],
+  [
+   "Analogy",
+   "Think of firefighters. Too little water and the fire wins. Too much and you flood and wreck the house you came to save."
+  ],
+  [
+   "How it works",
+   "First, a virus carries the editor into muscle. Second, the editor lets cells make some dystrophin again."
+  ],
+  [
+   "Before",
+   "Before, monkey tests showed no dose-limiting toxicity."
+  ],
+  [
+   "After",
+   "Now some dystrophin returned, but benefit was limited, and one boy on the high dose died of a treatment-related immune reaction."
+  ],
+  [
+   "Why it matters",
+   "Safe dosing must be proven before scale. This is a caution signal for the field, not an investment signal. Our judgment: wait. Not financial advice."
+  ]
+ ]
+}

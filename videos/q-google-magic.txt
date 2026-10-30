@@ -2,25 +2,33 @@ FrontierRadar explainer: Google shows 'magic state cultivation' on its Willow ch
 Issue: 2026-10-30 | Stage 2 · Hardware demo | Readiness 46/100 | Voice: Piper en_US-lessac-medium (local)
 
 HOOK
-Quantum computers need a special ingredient to do hard maths.
+Google just cut errors in a key quantum ingredient by about 40 times.
 
 WHAT IT IS
-Google shows 'magic state cultivation' on its Willow chip, cutting errors about 40×.
+It is the first hardware demo of magic state cultivation, on Google's Willow chip.
 
-WHAT IT DOES
-Google demonstrated magic state cultivation on real hardware, reducing errors about 40 times versus un-cultivated states and reaching a record 99.99% logical fidelity for these T-states. Think of it like this: Like a kitchen that can finally make a rare spice in-house instead of waiting for costly imports; every complex recipe needs it.
+ANALOGY
+Think of a cricket academy. Young players are tested in the nets, the shaky ones are dropped early, and only proven players reach the Test side.
+
+HOW IT WORKS
+First, the chip grows magic states step by step. Second, it checks them along the way and throws out any that pick up errors.
 
 BEFORE
-Useful quantum algorithms need special 'magic states' that are expensive to make.
+Before, useful quantum algorithms needed these magic states, and making them was expensive.
 
 AFTER
-Who could benefit: Alphabet GOOGL and Defiance Quantum ETF QTUM.
+Now errors drop about 40 times, with a record 99.99 percent logical fidelity for these states.
 
 WHY IT MATTERS
-We rate it Stage 2, Hardware demo, readiness 46 out of 100. The catch: Google says it still needs to show this at larger scale. Our judgment: watch. Not financial advice.
+Cheaper magic states bring useful quantum computing closer. Google says bigger demos are needed. Alphabet and quantum ETFs are the exposure. Our judgment: watch. Not financial advice.
 
 NEXT
-Full scores and sources at research.celesys.ai.
+Follow FrontierRadar. Full scores and sources at research.celesys.ai.
+
+ANALOGY MAP (in the analogy -> in reality)
+- Young players -> Raw magic states
+- Net sessions and cuts -> Cultivation checks that discard bad states
+- Test side -> High-fidelity T-states for algorithms
 
 SOURCES
 Google blog (Oct 15, 2026). Judgment calls are labelled. Not financial advice.

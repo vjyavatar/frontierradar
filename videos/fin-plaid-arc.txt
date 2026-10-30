@@ -2,25 +2,33 @@ FrontierRadar explainer: Plaid launches a transformer AI credit score it says pr
 Issue: 2026-10-30 | Stage 3 · Live launch | Readiness 75/100 | Voice: Piper en_US-lessac-medium (local)
 
 HOOK
-A company made a smart computer that looks at how you spend and save, to guess if you can pay back a loan.
+Plaid says its AI credit score predicts repayment 42 percent better.
 
 WHAT IT IS
-Plaid launches a transformer AI credit score it says predicts repayment 42% better.
+LendScore uses bank transactions to judge borrowers.
 
-WHAT IT DOES
-In its Fall Product Release Plaid launched LendScore 2, which it says is 42% stronger at predicting ability to repay than traditional credit data alone, and LendScore Arc, its first transformer-based credit score that learns from the order and timing of transactions. Think of it like this: Like judging a driver by watching how they actually drive every day, not just by their old ticket record.
+ANALOGY
+Think of a weather forecaster. Monthly averages tell you little about tomorrow. A live radar sequence, showing the order and timing of clouds, tells you much more.
+
+HOW IT WORKS
+First, LendScore Arc, a transformer model, reads the order and timing of bank transactions. Second, it turns that pattern into a repayment score.
 
 BEFORE
-Credit scores mostly look at past loans.
+Before, scores mostly looked at past loans.
 
 AFTER
-Who could benefit: Cash-flow lenders and fintech lenders and Banks lending to thin-file borrowers.
+Now Plaid says LendScore 2 is 42 percent stronger than traditional credit data alone, which helps people with thin credit files.
 
 WHY IT MATTERS
-We rate it Stage 3, Live launch, readiness 75 out of 100. The catch: Improvement numbers are Plaid's own internal tests. Our judgment: watch. Not financial advice.
+These are Plaid's internal results, not independent tests. Cash-flow and fintech lenders are the exposure. Our judgment: watch. Not financial advice.
 
 NEXT
-Full scores and sources at research.celesys.ai.
+Follow FrontierRadar. Full scores and sources at research.celesys.ai.
+
+ANALOGY MAP (in the analogy -> in reality)
+- Monthly averages -> Past loans
+- Live radar -> Transaction order and timing
+- Forecast -> Repayment prediction
 
 SOURCES
 Plaid via Business Wire (Oct 6, 2026). Judgment calls are labelled. Not financial advice.

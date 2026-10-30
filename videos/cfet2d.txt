@@ -2,25 +2,33 @@ FrontierRadar explainer: Stacking atom-thin transistors on top of each other (2D
 Issue: 2026-10-30 | Stage 1 · Paper | Readiness 16/100 | Voice: Piper en_US-lessac-medium (local)
 
 HOOK
-Making transistors from sheets just one atom thick and stacking them like pancakes.
+Europe's top chip lab tested stacked atom-thin transistors and said: not yet.
 
 WHAT IT IS
-Stacking atom-thin transistors on top of each other.
+imec studied 2D CFETs for the A2 node.
 
-WHAT IT DOES
-imec tested whether transistors made of atom-thin materials and stacked in pairs beat silicon at the ~2026+ 'A2' node. Think of it like this: A thinner wall doesn't help if the doors and hallways are the bottleneck.
+ANALOGY
+Think of a double-decker bus. It carries more people per road, but if the stairs and doors are narrow, boarding is so slow you lose the gain.
+
+HOW IT WORKS
+First, imec compared stacked atom-thin transistors to silicon. Second, it measured the contact and wiring losses.
 
 BEFORE
-A sober reality-check paper: 2D CFETs are a 2030s story.
+Before, hopes were high for 2D materials.
 
 AFTER
-Who could benefit: ASML and Applied Materials AMAT.
+Now the honest answer is they do not yet beat silicon.
 
 WHY IT MATTERS
-We rate it Stage 1, Paper, readiness 16 out of 100. The catch: No fab today grows 2D-material layers at wafer scale with chip-grade yield. Our judgment: watch. Not financial advice.
+A 2030s story. Toolmakers ASML, Applied and Lam win either way. Our judgment: wait. Not financial advice.
 
 NEXT
-Full scores and sources at research.celesys.ai.
+Follow FrontierRadar. Full scores and sources at research.celesys.ai.
+
+ANALOGY MAP (in the analogy -> in reality)
+- Two decks -> Stacked transistors
+- Narrow doors and stairs -> Contacts and wiring losses
+- Slow boarding -> Gains eaten up
 
 SOURCES
 arXiv 2607.12707; Related: MoS2/WSe2 CFET (Applied Physics Letters, 2026-08-24). Judgment calls are labelled. Not financial advice.

@@ -1,0 +1,44 @@
+{
+ "hook": "Quantinuum says its quantum computer now makes just five errors per million.",
+ "analogy_name": "Choir",
+ "map": [
+  [
+   "Group singing one note",
+   "Many physical qubits form one logical qubit"
+  ],
+  [
+   "Off-key singer",
+   "A single qubit error"
+  ],
+  [
+   "Conductor spotting it",
+   "The colour code detecting and fixing errors"
+  ]
+ ],
+ "sections": [
+  [
+   "What it is",
+   "It is a new error-correction record on Helios, a commercial trapped-ion machine."
+  ],
+  [
+   "Analogy",
+   "Picture a choir where every note is sung by a small group. If one singer goes off-key, the group's sound still carries the right note, and the conductor can hear who slipped."
+  ],
+  [
+   "How it works",
+   "First, information is spread across many ions using a colour code. Second, checks catch and correct errors before they spread."
+  ],
+  [
+   "Before",
+   "Before, its own September record had 10 times more errors."
+  ],
+  [
+   "After",
+   "Now it reports 99.9995 percent logical fidelity, in the target range for Apollo, a fault-tolerant machine planned by 2029."
+  ],
+  [
+   "Why it matters",
+   "Error correction decides when quantum computers become useful, and Helios is sold today. The record is company-reported. Our judgment: small bet. Not financial advice."
+  ]
+ ]
+}

@@ -2,25 +2,33 @@ FrontierRadar explainer: A light-based 'highway' between AI chip and memory
 Issue: 2026-10-30 | Stage 1 · Paper | Readiness 32/100 | Voice: Piper en_US-lessac-medium (local)
 
 HOOK
-Chips wait for memory like kids waiting in a lunch line.
+AI chips are waiting on memory. Volantis wants to move that data by light.
 
 WHAT IT IS
-A light-based 'highway' between AI chip and memory.
+It is a plan for optical links built into the interposer under an AI chip and its memory.
 
-WHAT IT DOES
-Volantis revealed a plan to build optical connections into the base layer (interposer) that sits under an AI chip and its memory, so data moves by light. Think of it like this: Replacing a crowded two-lane road between factory and warehouse with a bullet train.
+ANALOGY
+Think of an old post office that switched from bicycle couriers to pneumatic tubes running under the building.
+
+HOW IT WORKS
+First, lasers turn data into light. Second, the light travels through the base layer to memory.
 
 BEFORE
-Early-stage photonic interposer aimed at the 'memory wall'.
+Before, the memory wall slowed AI chips.
 
 AFTER
-Who could benefit: Volantis and Coherent COHR.
+Now there is a plan, not a product.
 
 WHY IT MATTERS
-We rate it Stage 1, Paper, readiness 32 out of 100. The catch: Nvidia networking SVP: 'If you can use copper, use copper' — optics only where distance forces it. Our judgment: watch. Not financial advice.
+High risk, but laser makers Coherent and Lumentum gain whichever startup wins. Our judgment: wait. Not financial advice.
 
 NEXT
-Full scores and sources at research.celesys.ai.
+Follow FrontierRadar. Full scores and sources at research.celesys.ai.
+
+ANALOGY MAP (in the analogy -> in reality)
+- Bicycle couriers -> Electrical wires
+- Pneumatic tubes -> Light paths in the interposer
+- Building -> Chip and memory package
 
 SOURCES
 The Register; Assignee patent profile. Judgment calls are labelled. Not financial advice.

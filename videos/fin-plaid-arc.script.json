@@ -1,0 +1,44 @@
+{
+ "hook": "Plaid says its AI credit score predicts repayment 42 percent better.",
+ "analogy_name": "Weather radar",
+ "map": [
+  [
+   "Monthly averages",
+   "Past loans"
+  ],
+  [
+   "Live radar",
+   "Transaction order and timing"
+  ],
+  [
+   "Forecast",
+   "Repayment prediction"
+  ]
+ ],
+ "sections": [
+  [
+   "What it is",
+   "LendScore uses bank transactions to judge borrowers."
+  ],
+  [
+   "Analogy",
+   "Think of a weather forecaster. Monthly averages tell you little about tomorrow. A live radar sequence, showing the order and timing of clouds, tells you much more."
+  ],
+  [
+   "How it works",
+   "First, LendScore Arc, a transformer model, reads the order and timing of bank transactions. Second, it turns that pattern into a repayment score."
+  ],
+  [
+   "Before",
+   "Before, scores mostly looked at past loans."
+  ],
+  [
+   "After",
+   "Now Plaid says LendScore 2 is 42 percent stronger than traditional credit data alone, which helps people with thin credit files."
+  ],
+  [
+   "Why it matters",
+   "These are Plaid's internal results, not independent tests. Cash-flow and fintech lenders are the exposure. Our judgment: watch. Not financial advice."
+  ]
+ ]
+}

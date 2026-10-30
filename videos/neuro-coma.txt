@@ -2,25 +2,33 @@ FrontierRadar explainer: A bedside brain-wave cap let 1 in 3 'unresponsive' pati
 Issue: 2026-10-30 | Stage 2 · Pilot / feasibility | Readiness 44/100 | Voice: Piper en_US-lessac-medium (local)
 
 HOOK
-Some very sick patients can't move, but their brains still listen.
+One in three patients labelled unresponsive could actually control a sound with their thoughts.
 
 WHAT IT IS
-A bedside brain-wave cap let 1 in 3 'unresponsive' patients control a sound.
+It is a bedside EEG brain-wave cap that detects hidden awareness.
 
-WHAT IT DOES
-13 of 41 clinically unresponsive brain-injury patients (32%) controlled the speed of a tone by attempting to open and close a hand, read by EEG. Think of it like this: Like finding someone locked in a dark room by giving them a light switch, and seeing them flick it.
+ANALOGY
+Think of a ship's radio operator in a storm, picking out a faint SOS from a sailor who cannot shout, only tap.
+
+HOW IT WORKS
+First, patients try to open and close a hand. Second, the EEG reads that intent and changes the speed of a tone.
 
 BEFORE
-Some patients are conscious but cannot move or speak.
+Before, these patients could look fully unresponsive.
 
 AFTER
-Who could benefit: EEG and neuro-monitoring device makers and Hospitals and families.
+Now 13 of 41, 32 percent, showed control, and 46 percent of them regained independence at 12 months, versus 7 percent without.
 
 WHY IT MATTERS
-We rate it Stage 2, Pilot / feasibility, readiness 44 out of 100. The catch: Single centre, 41 patients. Our judgment: watch. Not financial advice.
+Early detection could change care. It is single-centre and small. EEG device makers and families gain. Our judgment: watch. Not financial advice.
 
 NEXT
-Full scores and sources at research.celesys.ai.
+Follow FrontierRadar. Full scores and sources at research.celesys.ai.
+
+ANALOGY MAP (in the analogy -> in reality)
+- Trapped sailor -> Conscious patient who cannot move
+- Faint taps -> Brain signals from trying to move a hand
+- Radio receiver -> EEG cap at the bedside
 
 SOURCES
 Brain (Oxford Academic), Oct 22, 2026. Judgment calls are labelled. Not financial advice.

@@ -1,0 +1,44 @@
+{
+ "hook": "One in three patients labelled unresponsive could actually control a sound with their thoughts.",
+ "analogy_name": "Ship radio",
+ "map": [
+  [
+   "Trapped sailor",
+   "Conscious patient who cannot move"
+  ],
+  [
+   "Faint taps",
+   "Brain signals from trying to move a hand"
+  ],
+  [
+   "Radio receiver",
+   "EEG cap at the bedside"
+  ]
+ ],
+ "sections": [
+  [
+   "What it is",
+   "It is a bedside EEG brain-wave cap that detects hidden awareness."
+  ],
+  [
+   "Analogy",
+   "Think of a ship's radio operator in a storm, picking out a faint SOS from a sailor who cannot shout, only tap."
+  ],
+  [
+   "How it works",
+   "First, patients try to open and close a hand. Second, the EEG reads that intent and changes the speed of a tone."
+  ],
+  [
+   "Before",
+   "Before, these patients could look fully unresponsive."
+  ],
+  [
+   "After",
+   "Now 13 of 41, 32 percent, showed control, and 46 percent of them regained independence at 12 months, versus 7 percent without."
+  ],
+  [
+   "Why it matters",
+   "Early detection could change care. It is single-centre and small. EEG device makers and families gain. Our judgment: watch. Not financial advice."
+  ]
+ ]
+}

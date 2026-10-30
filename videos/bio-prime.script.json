@@ -1,0 +1,44 @@
+{
+ "hook": "For the first time, prime editing is rewriting DNA inside a patient's body.",
+ "analogy_name": "Book editor",
+ "map": [
+  [
+   "The book",
+   "The liver cell's DNA"
+  ],
+  [
+   "A misprint",
+   "The Wilson's mutation"
+  ],
+  [
+   "Editor's pen",
+   "Prime editor rewriting the error"
+  ]
+ ],
+ "sections": [
+  [
+   "What it is",
+   "Prime Medicine has treated the first person in a trial for Wilson's disease."
+  ],
+  [
+   "Analogy",
+   "Think of a book editor. Older tools could only swap one letter for another. Prime editing is a full editor that can insert, delete and rewrite words in place."
+  ],
+  [
+   "How it works",
+   "First, the editor is delivered to liver cells. Second, it rewrites the faulty DNA so the cells can clear excess copper again."
+  ],
+  [
+   "Before",
+   "Before, no in-body gene-editing therapy was approved, and base editing could not fix the most common Wilson's mutations."
+  ],
+  [
+   "After",
+   "Now a patient has been dosed, and first results are expected next year."
+  ],
+  [
+   "Why it matters",
+   "If results hold, Prime Medicine, ticker PRME, gains a first-in-class story. Early, single trial. Our judgment: small bet. Not financial advice."
+  ]
+ ]
+}

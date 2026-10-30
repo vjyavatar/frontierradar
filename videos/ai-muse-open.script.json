@@ -1,0 +1,44 @@
+{
+ "hook": "Meta just gave away what it calls the most capable US open-weight model.",
+ "analogy_name": "Architect blueprints",
+ "map": [
+  [
+   "Blueprints",
+   "Model weights"
+  ],
+  [
+   "Your own land",
+   "Your own hardware"
+  ],
+  [
+   "Changing rooms",
+   "Fine-tuning for your needs"
+  ]
+ ],
+ "sections": [
+  [
+   "What it is",
+   "Muse Spark Open is a model whose weights anyone can download."
+  ],
+  [
+   "Analogy",
+   "Think of an architect publishing full blueprints. Anyone can build the house on their own land, and change the rooms."
+  ],
+  [
+   "How it works",
+   "First, companies download the weights. Second, they run and adapt the model on their own servers."
+  ],
+  [
+   "Before",
+   "Before, many firms had to send data to someone else's cloud model."
+  ],
+  [
+   "After",
+   "Now they can run Meta's model in-house. The most-capable claim is Meta's own."
+  ],
+  [
+   "Why it matters",
+   "Open weights help Meta's ecosystem and firms running AI on their own hardware. Our judgment: watch. Not financial advice."
+  ]
+ ]
+}

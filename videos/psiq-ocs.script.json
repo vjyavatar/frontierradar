@@ -1,25 +1,44 @@
 {
- "hook": "What if AI data centres could stop translating light into electricity?",
+ "hook": "PsiQuantum built a light switch that rewires AI data-centre networks in 3 milliseconds.",
+ "analogy_name": "Flyover junction",
+ "map": [
+  [
+   "Traffic lights",
+   "Converting light to electricity and back"
+  ],
+  [
+   "Flyover",
+   "Switching the light itself"
+  ],
+  [
+   "Rerouting lanes",
+   "Reconfiguring in under 3 ms"
+  ]
+ ],
  "sections": [
   [
    "What it is",
-   "PsiQuantum, a quantum-computing company, has built a light-based switch for AI data-centre networks. The chips are made at GlobalFoundries."
+   "It is an 8 by 8 optical circuit switch on a silicon-photonics chip."
   ],
   [
-   "What it does",
-   "It points beams of light from one computer to another, and can rewire the network in under 3 milliseconds. Think of a railway junction that swaps tracks in a blink, so data trains of light never have to stop."
+   "Analogy",
+   "Think of a city junction. With traffic lights every car stops; a flyover lets traffic pass without stopping."
+  ],
+  [
+   "How it works",
+   "First, light enters the chip's ultra-low-loss waveguides. Second, the switch steers it straight to a new port."
   ],
   [
    "Before",
-   "Until now, most network switches turn light into electricity and back again, which costs power and adds delay. Google already uses switches built from tiny moving mirrors."
+   "Before, switches converted light to electricity and back, costing power and delay."
   ],
   [
    "After",
-   "PsiQuantum offers a chip-sized version from a standard factory, with 1.2 dB of signal loss. Who could benefit: PsiQuantum, GlobalFoundries, and big cloud firms building AI clusters."
+   "Now PsiQuantum reports 1.2 decibels loss and 40 decibels crosstalk, and samples are with select customers."
   ],
   [
    "Why it matters",
-   "We rate it Stage 2, Prototype, with a readiness score of 46 out of 100. Samples are going to select customers, but results are company-reported, and only 8 by 8 ports so far. Our judgment: watch for a named customer and a bigger switch. Not financial advice."
+   "Company-reported. GlobalFoundries and hyperscalers could gain. Our judgment: watch. Not financial advice."
   ]
  ]
 }

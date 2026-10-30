@@ -1,0 +1,44 @@
+{
+ "hook": "OpenAI's GPT-6.1 Terra halves price and cuts errors from 54 to 17 percent.",
+ "analogy_name": "Bank clerk",
+ "map": [
+  [
+   "Clerk",
+   "GPT-6.1 Terra"
+  ],
+  [
+   "Forms",
+   "Office tasks"
+  ],
+  [
+   "Mistakes",
+   "Error rate"
+  ]
+ ],
+ "sections": [
+  [
+   "What it is",
+   "It is a mid-size model for computer use."
+  ],
+  [
+   "Analogy",
+   "Think of a bank clerk processing loan forms. The new clerk costs half as much, works over three times faster, and makes far fewer mistakes."
+  ],
+  [
+   "How it works",
+   "First, the model reads the task and the screen. Second, it clicks and types on the computer to finish it."
+  ],
+  [
+   "Before",
+   "Before, errors were 53.6 percent at low effort."
+  ],
+  [
+   "After",
+   "Now errors are 16.7 percent, and coding tasks rose to 50.3 percent."
+  ],
+  [
+   "Why it matters",
+   "Routine back-office work like reading invoices becomes cheaper to automate. Our release date is an estimate. Our judgment: watch. Not financial advice."
+  ]
+ ]
+}

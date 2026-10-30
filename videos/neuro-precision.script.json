@@ -1,0 +1,44 @@
+{
+ "hook": "Precision Neuroscience pooled 70 patients into one map of the nervous system.",
+ "analogy_name": "Dictionary",
+ "map": [
+  [
+   "Speakers",
+   "Patients"
+  ],
+  [
+   "Recorded conversations",
+   "180-plus hours of neural data"
+  ],
+  [
+   "The dictionary",
+   "Shared atlas for decoding"
+  ]
+ ],
+ "sections": [
+  [
+   "What it is",
+   "It is a neural atlas of more than 180 hours recorded with temporary surface arrays."
+  ],
+  [
+   "Analogy",
+   "Think of writing a dictionary. One speaker gives you a few words; 70 speakers give you the shared language everyone uses."
+  ],
+  [
+   "How it works",
+   "First, thin Layer 7 arrays rest on the brain surface without penetrating it. Second, pooled recordings train decoders for movement, speech and facial expression."
+  ],
+  [
+   "Before",
+   "Before, decoders were trained patient by patient."
+  ],
+  [
+   "After",
+   "Now 70 patients feed one atlas, and Precision opened its first international site, in Abu Dhabi."
+  ],
+  [
+   "Why it matters",
+   "Shared data could speed decoder training. Recordings are temporary, not permanent implants, and the company is private. Our judgment: watch. Not financial advice."
+  ]
+ ]
+}

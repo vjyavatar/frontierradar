@@ -1,0 +1,44 @@
+{
+ "hook": "AI chips are waiting on memory. Volantis wants to move that data by light.",
+ "analogy_name": "Pneumatic post",
+ "map": [
+  [
+   "Bicycle couriers",
+   "Electrical wires"
+  ],
+  [
+   "Pneumatic tubes",
+   "Light paths in the interposer"
+  ],
+  [
+   "Building",
+   "Chip and memory package"
+  ]
+ ],
+ "sections": [
+  [
+   "What it is",
+   "It is a plan for optical links built into the interposer under an AI chip and its memory."
+  ],
+  [
+   "Analogy",
+   "Think of an old post office that switched from bicycle couriers to pneumatic tubes running under the building."
+  ],
+  [
+   "How it works",
+   "First, lasers turn data into light. Second, the light travels through the base layer to memory."
+  ],
+  [
+   "Before",
+   "Before, the memory wall slowed AI chips."
+  ],
+  [
+   "After",
+   "Now there is a plan, not a product."
+  ],
+  [
+   "Why it matters",
+   "High risk, but laser makers Coherent and Lumentum gain whichever startup wins. Our judgment: wait. Not financial advice."
+  ]
+ ]
+}

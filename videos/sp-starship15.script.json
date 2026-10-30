@@ -1,0 +1,44 @@
+{
+ "hook": "SpaceX wants to catch both halves of Starship on one flight.",
+ "analogy_name": "Falconry",
+ "map": [
+  [
+   "Falconer's glove",
+   "Launch tower arms"
+  ],
+  [
+   "First bird",
+   "Super Heavy booster"
+  ],
+  [
+   "Second bird",
+   "Starship upper stage"
+  ]
+ ],
+ "sections": [
+  [
+   "What it is",
+   "Flight 15 plans the first attempt to catch the Super Heavy booster and the Starship upper stage at the tower."
+  ],
+  [
+   "Analogy",
+   "Think of a falconer flying two birds and calling both back to the glove, ready to fly again."
+  ],
+  [
+   "How it works",
+   "First, the booster returns and is caught. Second, the upper stage comes back from space for its own catch."
+  ],
+  [
+   "Before",
+   "Before, this dual catch had never been attempted."
+  ],
+  [
+   "After",
+   "Now a dual catch is planned for a tentative November date, with weekly launches targeted by early 2027."
+  ],
+  [
+   "Why it matters",
+   "Full reuse could slash launch cost. FAA approval was reported unresolved. SpaceX is private; space ETFs like UFO are the exposure. Our judgment: watch. Not financial advice."
+  ]
+ ]
+}

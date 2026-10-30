@@ -1,0 +1,44 @@
+{
+ "hook": "Rocket Lab just pushed Neutron's first launch into 2027.",
+ "analogy_name": "Shipyard",
+ "map": [
+  [
+   "Hull weld gaps",
+   "Voids in carbon-fibre propellant domes"
+  ],
+  [
+   "Inspection",
+   "Testing"
+  ],
+  [
+   "New launch day",
+   "First flight moved to 2027"
+  ]
+ ],
+ "sections": [
+  [
+   "What it is",
+   "Neutron is Rocket Lab's reusable medium-lift rocket."
+  ],
+  [
+   "Analogy",
+   "Think of a shipyard that finds hidden gaps in a hull weld during inspection. You fix it before launch, and the launch day moves."
+  ],
+  [
+   "How it works",
+   "First, Rocket Lab found the voids during testing. Second, it expects to finish first-stage testing in the first quarter of 2027 before setting a date."
+  ],
+  [
+   "Before",
+   "Before, first flight was planned for late 2026."
+  ],
+  [
+   "After",
+   "Now it is 2027, with no firm date."
+  ],
+  [
+   "Why it matters",
+   "Neutron is key to bigger launch contracts, so delay matters for Rocket Lab, RKLB. Our judgment: wait. Not financial advice."
+  ]
+ ]
+}

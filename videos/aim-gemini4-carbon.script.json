@@ -1,0 +1,44 @@
+{
+ "hook": "Google's Gemini 4 Carbon ranks number one on a new AI index.",
+ "analogy_name": "Sniffer dog",
+ "map": [
+  [
+   "Sniffer dog",
+   "Gemini 4 Carbon"
+  ],
+  [
+   "Airport security",
+   "Cyber defenders"
+  ],
+  [
+   "Public demos",
+   "General release"
+  ]
+ ],
+ "sections": [
+  [
+   "What it is",
+   "It is a frontier model released first to cyber defenders."
+  ],
+  [
+   "Analogy",
+   "Think of the best sniffer dog in the country. Because it is so good at finding hidden threats, it goes to airport security first, before anyone else can borrow it."
+  ],
+  [
+   "How it works",
+   "First, a subset of cyber defenders use it to find software flaws. Second, access widens to trusted partners, then developers and consumers."
+  ],
+  [
+   "Before",
+   "Before, frontier models launched to everyone."
+  ],
+  [
+   "After",
+   "Now it scores 59 on the index and 88.2 percent on SEC-bench Pro."
+  ],
+  [
+   "Why it matters",
+   "Introductory price is 2 dollars per million input tokens. Alphabet is the exposure; no wider date is given. Our judgment: watch. Not financial advice."
+  ]
+ ]
+}

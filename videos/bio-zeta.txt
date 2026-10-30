@@ -2,25 +2,33 @@ FrontierRadar explainer: Switching back on a baby-stage gene could treat severe 
 Issue: 2026-10-30 | Stage 1 · Preclinical | Readiness 30/100 | Voice: Piper en_US-lessac-medium (local)
 
 HOOK
-Babies use a special blood gene before birth.
+A gene that switches off before birth might be switched back on to treat a deadly blood disease.
 
 WHAT IT IS
-Switching back on a baby-stage gene could treat severe alpha-thalassemia.
+Researchers reactivated the zeta-globin gene to help with severe alpha-thalassemia.
 
-WHAT IT DOES
-The team found two switches that silence the embryonic zeta-globin gene and edited them to turn it back on. Think of it like this: Like rehiring a retired worker who knows the job, when the current worker can't show up.
+ANALOGY
+Think of a hospital's old backup generator, shut down years ago. When the main power fails, engineers find its two off switches and restart it to keep the lights on.
+
+HOW IT WORKS
+First, the team found the two switches that silence zeta-globin. Second, they edited them so the gene turns back on.
 
 BEFORE
-Severe alpha-thalassemia needs lifelong transfusions or stem-cell transplants.
+Before, severe alpha-thalassemia meant lifelong transfusions or stem-cell transplants.
 
 AFTER
-Who could benefit: Gene-editing therapy developers.
+Now, in a mouse model of the deadliest form, embryos survived to late development, and patient cells made therapeutic levels.
 
 WHY IT MATTERS
-We rate it Stage 1, Preclinical, readiness 30 out of 100. The catch: Mouse embryos survived only until late development, not to birth. Our judgment: wait. Not financial advice.
+Preclinical only, and the hemoglobin needs more study. Gene-editing developers are the long-run exposure. Our judgment: wait. Not financial advice.
 
 NEXT
-Full scores and sources at research.celesys.ai.
+Follow FrontierRadar. Full scores and sources at research.celesys.ai.
+
+ANALOGY MAP (in the analogy -> in reality)
+- Main power -> Alpha-globin, missing in patients
+- Old generator -> Embryo-stage zeta-globin gene
+- Two off switches -> Two DNA switches the team edited
 
 SOURCES
 Nature Genetics paper (Oct 1, 2026). Judgment calls are labelled. Not financial advice.

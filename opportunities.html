@@ -81,7 +81,7 @@ body.v6t .layout{display:block}body.v6t .layout .toc{display:none}@media(max-wid
 @media(max-width:700px){.ogrid{grid-template-columns:1fr}.ohero img{height:120px}.ofilt{flex-wrap:nowrap;overflow-x:auto}}</style><style id="v14css">
 .t10{max-width:1100px;margin:10px auto;display:flex;gap:12px;align-items:center;background:linear-gradient(90deg,#10263a,#111a27);border:1px solid #2b5a85;border-radius:16px;padding:10px 12px}
 .t10 img{width:120px;height:72px;object-fit:cover;border-radius:10px;flex:0 0 auto}.t10 h2{margin:0 0 4px;font-size:1.05em}.t10 .lk{display:flex;gap:8px;flex-wrap:wrap;margin-top:6px}.t10 .lk a{font-weight:700}
-.ri.col>*:not(.dline):not(.st):not(.urg):not(h3):not(.sum1){display:none!important}.ri.col .dline{font-size:.8em}
+.ri.col>*:not(.dline):not(.st):not(.urg):not(h3):not(.sum1):not(.dpanel){display:none!important}.drw .ri>.dpanel[hidden]{display:none!important}.drw .sum1 .mb,.v6src .sum1 .mb{display:none!important}.ri.col .dline{font-size:.8em}
 .sum1{margin:6px 0 2px}.sum1 .an1{color:#cfe6ff;margin:4px 0}.sum1 .mb{background:#1d3a57;color:#fff;border:1px solid #2b5a85;border-radius:99px;padding:4px 14px;cursor:pointer;font-weight:700;margin-top:4px}
 .tpf{cursor:pointer;border:1px solid #2a3344;background:#151b26;color:#dfe6f0}.tpf.on{background:#2b5a85;color:#fff}
 .oqt{width:100%;border-collapse:collapse;font-size:.92em}.oqt td,.oqt th{padding:6px 8px;border-bottom:1px solid #1f2b3d;text-align:left;vertical-align:top}.oqt a{font-weight:700}
@@ -391,11 +391,13 @@ addEventListener('hashchange',route);
 if(T.length){const nw=grid?$$('.newt',grid).length:1;setTab(T[0][0]=='today'&&!nw?'all':T[0][0])}
 route();if(grid)sync();
 })();</script><script id="v14js">(()=>{const $=s=>[...document.querySelectorAll(s)];
-$('.ri').forEach(a=>{if(location.hash.slice(1)!==a.id)a.classList.add('col')});
+const unc=()=>$('.ri').forEach(a=>{if(a.querySelector(':scope>.dpanel')||a.closest('.drw'))a.classList.remove('col')});
+$('.ri').forEach(a=>{if(location.hash.slice(1)!==a.id&&!a.querySelector(':scope>.dpanel'))a.classList.add('col')});setTimeout(unc,0);addEventListener('load',unc);
 document.addEventListener('click',e=>{const b=e.target.closest('.mb');if(b){const a=b.closest('.ri');const c=a.classList.toggle('col');b.textContent=c?'More ▾':'Less ▴';if(!c&&window.openD)try{}catch(_){}}});
 window.addEventListener('hashchange',()=>{const a=document.getElementById(location.hash.slice(1));if(a&&a.classList.contains('ri')){a.classList.remove('col');const b=a.querySelector('.mb');if(b)b.textContent='Less ▴'}});
-const ch=$('.tpf');ch.forEach(c=>c.onclick=()=>{const on=!c.classList.contains('on');ch.forEach(x=>x.classList.remove('on'));if(on)c.classList.add('on');$('.ri').forEach(a=>{a.style.display=(!on||a.dataset.topic===c.dataset.t)?'':'none'})});
+const ch=$('.tpf');ch.forEach(c=>c.onclick=()=>{const on=!c.classList.contains('on');ch.forEach(x=>x.classList.remove('on'));if(on)c.classList.add('on');const tt=document.querySelector('.ttabs');if(tt){const tb=tt.querySelector('button[data-t="'+(on?c.dataset.t:'All')+'"]')||tt.querySelector('button[data-t="All"]');if(tb)tb.click();return}$('.ri').forEach(a=>{a.style.display=(!on||a.dataset.topic===c.dataset.t)?'':'none'})});
 if(localStorage.getItem('fr_nofl')==='1')document.body.classList.add('nofl');
 const bd=document.getElementById('badge')||document.getElementById('kidb');if(bd&&!document.body.classList.contains('nofl')){const x=document.createElement('button');x.className='v14x';x.textContent='×';x.title='Hide these badges';x.setAttribute('aria-label','Hide floating badges');document.body.appendChild(x);const p=()=>{const r=bd.getBoundingClientRect();x.style.top=Math.max(0,r.top-8)+'px';x.style.left=(r.right-10)+'px';if(!r.width)x.style.display='none'};setTimeout(p,300);addEventListener('resize',p);addEventListener('scroll',p,{passive:true});x.onclick=()=>{localStorage.setItem('fr_nofl','1');document.body.classList.add('nofl')}}
 const mb=document.querySelector('.bmo');if(mb)mb.onclick=e=>{e.preventDefault();document.querySelector('.bmore').classList.toggle('on')};
+document.addEventListener('click',e=>{const m=document.querySelector('.bmore');if(m&&m.classList.contains('on')&&!e.target.closest('.bmore,.bmo'))m.classList.remove('on')});
 })();</script></body></html>

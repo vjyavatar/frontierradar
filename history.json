@@ -1473,6 +1473,83 @@
       "ready": 84
      }
     ]
+   },
+   "fin-jqqq": {
+    "first_seen": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "history": [
+     {
+      "date": "2026-10-30",
+      "stage": 3,
+      "ready": 74
+     }
+    ]
+   },
+   "fin-plaid-arc": {
+    "first_seen": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "history": [
+     {
+      "date": "2026-10-30",
+      "stage": 3,
+      "ready": 75
+     }
+    ]
+   },
+   "fin-lloyds-fraud": {
+    "first_seen": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "history": [
+     {
+      "date": "2026-10-30",
+      "stage": 2,
+      "ready": 61
+     }
+    ]
+   },
+   "fin-upi-mdr": {
+    "first_seen": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "history": [
+     {
+      "date": "2026-10-30",
+      "stage": 2,
+      "ready": 66
+     }
+    ]
+   },
+   "aim-gemini4-carbon": {
+    "first_seen": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "history": [
+     {
+      "date": "2026-10-30",
+      "stage": 2,
+      "ready": 65
+     }
+    ]
+   },
+   "aim-gpt61-terra": {
+    "first_seen": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "history": [
+     {
+      "date": "2026-10-30",
+      "stage": 3,
+      "ready": 85
+     }
+    ]
+   },
+   "aim-haiku55": {
+    "first_seen": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "history": [
+     {
+      "date": "2026-10-30",
+      "stage": 3,
+      "ready": 85
+     }
+    ]
    }
   },
   "opportunities": {
@@ -1997,6 +2074,105 @@
      {
       "date": "2026-10-30",
       "stage": 4,
+      "conv": "Watch"
+     }
+    ]
+   },
+   "janus-henderson": {
+    "first_seen": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "history": [
+     {
+      "date": "2026-10-30",
+      "stage": 3,
+      "conv": "Medium"
+     }
+    ]
+   },
+   "nasdaq": {
+    "first_seen": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "history": [
+     {
+      "date": "2026-10-30",
+      "stage": 3,
+      "conv": "Watch"
+     }
+    ]
+   },
+   "upstart": {
+    "first_seen": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "history": [
+     {
+      "date": "2026-10-30",
+      "stage": 3,
+      "conv": "High"
+     }
+    ]
+   },
+   "sofi-technologies": {
+    "first_seen": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "history": [
+     {
+      "date": "2026-10-30",
+      "stage": 3,
+      "conv": "Medium"
+     }
+    ]
+   },
+   "bajaj-finance": {
+    "first_seen": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "history": [
+     {
+      "date": "2026-10-30",
+      "stage": 3,
+      "conv": "Watch"
+     }
+    ]
+   },
+   "lloyds-banking-group": {
+    "first_seen": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "history": [
+     {
+      "date": "2026-10-30",
+      "stage": 3,
+      "conv": "Watch"
+     }
+    ]
+   },
+   "one-97-communications-paytm": {
+    "first_seen": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "history": [
+     {
+      "date": "2026-10-30",
+      "stage": 3,
+      "conv": "Medium"
+     }
+    ]
+   },
+   "microsoft": {
+    "first_seen": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "history": [
+     {
+      "date": "2026-10-30",
+      "stage": 3,
+      "conv": "Watch"
+     }
+    ]
+   },
+   "amazon": {
+    "first_seen": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "history": [
+     {
+      "date": "2026-10-30",
+      "stage": 3,
       "conv": "Watch"
      }
     ]

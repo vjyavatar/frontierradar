@@ -10,7 +10,9 @@
   "Frontier AI",
   "Energy",
   "DNA storage",
-  "Space"
+  "Space",
+  "Finance & FinTech",
+  "AI Models"
  ],
  "title": "DNA that survives 400 years, a 5-in-a-million quantum error rate, and 21 new frontier breakthroughs across 8 topics",
  "hook": "Today we expand beyond chips: medicine, brain interfaces, frontier AI, quantum, energy materials, DNA data storage and rockets. Each item is scored for readiness, with an analogy and a watch / small bet / wait plan.",
@@ -442,6 +444,56 @@
    24,
    "Finance in Time: SK hynix locks in over half of 2027-28 output, drops Solidigm IPO (Oct 29, 2026)",
    "https://financeintime.com/news/2026/10/29/sk-hynix-locks-in-over-half-of-2027-28-memory-output-and-drops-its-solidigm-ipo"
+  ],
+  [
+   100,
+   "CoinDesk (Oct 27, 2026)",
+   "https://www.coindesk.com/business/2026/10/27/nasdaq-100-comes-onchain-as-janus-henderson-and-centrifuge-launch-first-licensed-fund"
+  ],
+  [
+   100,
+   "Plaid via Business Wire (Oct 6, 2026)",
+   "https://www.businesswire.com/news/home/20261006091265/en/Plaid-Releases-New-AI-Models-to-Improve-Decisions-Across-Credit-Fraud-and-Payments"
+  ],
+  [
+   100,
+   "Lloyds Banking Group press release (Oct 26, 2026)",
+   "https://www.lloydsbankinggroup.com/media/press-releases/2026/lloyds/lloyds-strengthens-fraud-support-agentic-ai.html"
+  ],
+  [
+   100,
+   "The Hindu (Oct 17, 2026)",
+   "https://www.thehindu.com/business/upi-mdr-on-select-merchant-transactions-shall-be-implemented-post-diwali/article71578558.ece"
+  ],
+  [
+   100,
+   "NPCI MDR FAQ (updated Oct 15, 2026)",
+   "https://www.npci.org.in/uploads/FA_Qs_Merchant_Discount_Rate_MDR_on_Select_UPI_P2_M_Transactions_Updated_15_October_2026_a1f433513f.pdf"
+  ],
+  [
+   100,
+   "Business Today (Oct 1, 2026)",
+   "https://www.businesstoday.in/latest/economy/story/will-mdr-on-upi-give-a-boost-to-digital-rupee-559043-2026-10-01"
+  ],
+  [
+   100,
+   "Google blog (Oct 28, 2026)",
+   "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
+  ],
+  [
+   100,
+   "OrigoTech on Artificial Analysis Index v5 (Oct 2026)",
+   "https://origotech.dev/articles/open-weight-models-state-october-2026/"
+  ],
+  [
+   100,
+   "OpenAI (Oct 2026)",
+   "https://openai.com/index/introducing-gpt-6-1-terra"
+  ],
+  [
+   100,
+   "Anthropic (Oct 7, 2026)",
+   "https://www.anthropic.com/claude-haiku-5-5"
   ]
  ],
  "research": [
@@ -2894,6 +2946,470 @@
     "groups": 5.0
    },
    "ip_level": "Medium"
+  },
+  {
+   "id": "fin-jqqq",
+   "topic": "Finance & FinTech",
+   "area": "Tokenized funds",
+   "date": "2026-10-27",
+   "title": "Janus Henderson puts a Nasdaq-100 fund on a blockchain (JQQQ)",
+   "who": "Janus Henderson with Centrifuge; index licensed by Nasdaq",
+   "links": [
+    [
+     "CoinDesk (Oct 27, 2026)",
+     "https://www.coindesk.com/business/2026/10/27/nasdaq-100-comes-onchain-as-janus-henderson-and-centrifuge-launch-first-licensed-fund"
+    ]
+   ],
+   "found": "Janus Henderson and Centrifuge launched JQQQ, an issuer-sponsored on-chain fund on the Stellar blockchain that tracks the Nasdaq-100. Unlike third-party 'stock tokens', the asset manager itself issues and manages it and Nasdaq licenses the index. CoinDesk says this takes Janus Henderson's on-chain platform above $1 billion in assets.",
+   "analogy": "Like moving a mutual fund from paper certificates to a digital ticket that can change hands any hour of the day.",
+   "brief": "Tokenization had mostly covered cash-like money-market funds. JQQQ brings a mainstream stock index on-chain with the real issuer behind it. Same month: Aviva (Oct 26) and Generali (Oct 21) tokenized money-market share classes. Still small versus traditional ETFs.",
+   "win": [
+    "Asset managers with on-chain platforms (our judgment)",
+    "Index providers licensing to tokenized products (our judgment)"
+   ],
+   "watch": "Daily trading volume and assets in JQQQ; whether US regulators allow wider retail access.",
+   "eli10": "A big fund company made a version of its fund that lives on the internet's shared ledger, so it can move faster.",
+   "tm": [
+    "1 yr (our judgment): More index funds go on-chain",
+    "3 yr (our judgment): Tokenized funds used as collateral in trading",
+    "5 yr (our judgment): Part of mainstream fund distribution if rules allow"
+   ],
+   "bear": [
+    [
+     "Assets are tiny versus the ETF market; demand not yet proven (our judgment)",
+     null
+    ],
+    [
+     "Rules for retail access to tokenized funds differ by country (our judgment)",
+     null
+    ]
+   ],
+   "plan": "Watch",
+   "ip": "Low patent risk; mostly regulatory risk. (our judgment)",
+   "video": "Janus Henderson puts a Nasdaq-100 fund on a blockchain (JQQQ). Like moving a mutual fund from paper certificates to a digital ticket that can change hands any hour of the day. Our judgment: watch. Sources on our page.",
+   "score": {
+    "evidence": 4,
+    "groups": 3,
+    "backing": 4,
+    "manufacturable": 4,
+    "supply_chain": 3,
+    "claim_boldness": 2,
+    "attention": 3,
+    "ip_crowding": 1,
+    "ip_litigation": 1
+   },
+   "ready": 74,
+   "score_points": {
+    "evidence": 41.2,
+    "manufacturable": 16.0,
+    "supply_chain": 6.0,
+    "backing": 8.0,
+    "groups": 3.0
+   },
+   "stage": 3,
+   "years": "0-2",
+   "hype": 50,
+   "ip_level": "Low"
+  },
+  {
+   "id": "fin-plaid-arc",
+   "topic": "Finance & FinTech",
+   "area": "AI credit scoring",
+   "date": "2026-10-06",
+   "title": "Plaid launches a transformer AI credit score it says predicts repayment 42% better",
+   "who": "Plaid (private)",
+   "links": [
+    [
+     "Plaid via Business Wire (Oct 6, 2026)",
+     "https://www.businesswire.com/news/home/20261006091265/en/Plaid-Releases-New-AI-Models-to-Improve-Decisions-Across-Credit-Fraud-and-Payments"
+    ]
+   ],
+   "found": "In its Fall Product Release Plaid launched LendScore 2, which it says is 42% stronger at predicting ability to repay than traditional credit data alone, and LendScore Arc, its first transformer-based credit score that learns from the order and timing of transactions. It also added an AI foundation model for fraud with up to 40% relative improvement in internal tests.",
+   "analogy": "Like judging a driver by watching how they actually drive every day, not just by their old ticket record.",
+   "brief": "Credit scores mostly look at past loans. Cash-flow models read bank transactions to judge people with thin credit files. Plaid's figures are its own internal results, not independent tests.",
+   "win": [
+    "Cash-flow lenders and fintech lenders (our judgment)",
+    "Banks lending to thin-file borrowers (our judgment)"
+   ],
+   "watch": "Independent validation by lenders and regulators' view of transformer credit models.",
+   "eli10": "A company made a smart computer that looks at how you spend and save, to guess if you can pay back a loan.",
+   "tm": [
+    "1 yr (our judgment): More lenders test transaction-based scores",
+    "3 yr (our judgment): Common in fintech lending",
+    "5 yr (our judgment): Could feed mainstream bank underwriting"
+   ],
+   "bear": [
+    [
+     "Improvement numbers are Plaid's own internal tests",
+     "https://www.businesswire.com/news/home/20261006091265/en/Plaid-Releases-New-AI-Models-to-Improve-Decisions-Across-Credit-Fraud-and-Payments"
+    ],
+    [
+     "Fair-lending and explainability rules can slow AI credit models (our judgment)",
+     null
+    ]
+   ],
+   "plan": "Watch",
+   "ip": "Plaid is private; listed exposure is indirect. (our judgment)",
+   "video": "Plaid launches a transformer AI credit score it says predicts repayment 42% better. Like judging a driver by watching how they actually drive every day, not just by their old ticket record. Our judgment: watch. Sources on our page.",
+   "score": {
+    "evidence": 4,
+    "groups": 4,
+    "backing": 3,
+    "manufacturable": 4,
+    "supply_chain": 4,
+    "claim_boldness": 3,
+    "attention": 2,
+    "ip_crowding": 2,
+    "ip_litigation": 1
+   },
+   "ready": 75,
+   "score_points": {
+    "evidence": 41.2,
+    "manufacturable": 16.0,
+    "supply_chain": 8.0,
+    "backing": 6.0,
+    "groups": 4.0
+   },
+   "stage": 3,
+   "years": "0-2",
+   "hype": 50,
+   "ip_level": "Low"
+  },
+  {
+   "id": "fin-lloyds-fraud",
+   "topic": "Finance & FinTech",
+   "area": "Fraud AI / RegTech",
+   "date": "2026-10-26",
+   "title": "Lloyds' agentic AI fraud assistant passes 90% decision accuracy on 10,600 live cases",
+   "who": "Lloyds Banking Group",
+   "links": [
+    [
+     "Lloyds Banking Group press release (Oct 26, 2026)",
+     "https://www.lloydsbankinggroup.com/media/press-releases/2026/lloyds/lloyds-strengthens-fraud-support-agentic-ai.html"
+    ]
+   ],
+   "found": "Lloyds says a platform of specialist AI agents helped fraud specialists on more than 10,600 live debit-card fraud cases in 90 days. Overall decision accuracy passed 90% in September, staff use about half as many systems per call, and overrides of its suggestions fell 30%. Humans still make the final decision.",
+   "analogy": "Like a team of junior detectives who gather every clue before the senior detective decides.",
+   "brief": "Banks used rules and single models to flag fraud. Lloyds now uses several AI agents to run the investigation steps. Same month, Bank of Ireland said AI checks about 2.9 million transactions a day and Wells Fargo described a 1B-parameter fraud model (single-talk report).",
+   "win": [
+    "Large banks with big fraud losses (our judgment)",
+    "Fraud and RegTech software vendors (our judgment)"
+   ],
+   "watch": "Wider rollout beyond debit-card cases and any reported drop in fraud losses.",
+   "eli10": "A bank uses a team of AI helpers to check if a strange card payment was a thief, so people get help faster.",
+   "tm": [
+    "1 yr (our judgment): Rolled to more fraud types",
+    "3 yr (our judgment): Agentic AI common in bank investigations",
+    "5 yr (our judgment): Linked with anti-money-laundering checks"
+   ],
+   "bear": [
+    [
+     "Accuracy figures are the bank's own; no outside audit",
+     "https://www.lloydsbankinggroup.com/media/press-releases/2026/lloyds/lloyds-strengthens-fraud-support-agentic-ai.html"
+    ],
+    [
+     "Still in testing and monitoring before expansion",
+     "https://www.lloydsbankinggroup.com/media/press-releases/2026/lloyds/lloyds-strengthens-fraud-support-agentic-ai.html"
+    ]
+   ],
+   "plan": "Watch",
+   "ip": "Low IP risk. (our judgment)",
+   "video": "Lloyds' agentic AI fraud assistant passes 90% decision accuracy on 10,600 live cases. Like a team of junior detectives who gather every clue before the senior detective decides. Our judgment: watch. Sources on our page.",
+   "score": {
+    "evidence": 3,
+    "groups": 4,
+    "backing": 4,
+    "manufacturable": 4,
+    "supply_chain": 4,
+    "claim_boldness": 2,
+    "attention": 2,
+    "ip_crowding": 1,
+    "ip_litigation": 1
+   },
+   "ready": 61,
+   "score_points": {
+    "evidence": 24.8,
+    "manufacturable": 16.0,
+    "supply_chain": 8.0,
+    "backing": 8.0,
+    "groups": 4.0
+   },
+   "stage": 2,
+   "years": "2-4",
+   "hype": 40,
+   "ip_level": "Low"
+  },
+  {
+   "id": "fin-upi-mdr",
+   "topic": "Finance & FinTech",
+   "area": "Payments / UPI / e-rupee",
+   "date": "2026-10-13",
+   "title": "India delays a 0.4% UPI merchant fee to 'immediately after Diwali'",
+   "who": "NPCI (National Payments Corporation of India)",
+   "links": [
+    [
+     "The Hindu (Oct 17, 2026)",
+     "https://www.thehindu.com/business/upi-mdr-on-select-merchant-transactions-shall-be-implemented-post-diwali/article71578558.ece"
+    ],
+    [
+     "NPCI MDR FAQ (updated Oct 15, 2026)",
+     "https://www.npci.org.in/uploads/FA_Qs_Merchant_Discount_Rate_MDR_on_Select_UPI_P2_M_Transactions_Updated_15_October_2026_a1f433513f.pdf"
+    ],
+    [
+     "Business Today (Oct 1, 2026)",
+     "https://www.businesstoday.in/latest/economy/story/will-mdr-on-upi-give-a-boost-to-digital-rupee-559043-2026-10-01"
+    ]
+   ],
+   "found": "NPCI said a 0.4% merchant discount rate on person-to-merchant UPI payments above ₹2,000 at medium and large merchants, capped at ₹300, will start 'immediately post Diwali' on a date to be notified; it was due on Oct 15. UPI handled 24.07 billion transactions worth ₹29.37 lakh crore in September 2026. The Hindu reports the Supreme Court asked for affidavits explaining the fee.",
+   "analogy": "Like a free highway adding a small toll only for big trucks, to pay for repairs.",
+   "brief": "UPI has been free for merchants. A small fee on bigger payments could give payment apps and banks a revenue line. S&P's view (Business Today): the digital rupee (e₹) stays a niche settlement tool and UPI stays dominant.",
+   "win": [
+    "UPI payment apps and payment aggregators (our judgment)",
+    "Banks in the UPI chain (our judgment)"
+   ],
+   "watch": "The notified start date and the Supreme Court hearing.",
+   "eli10": "India's phone payment system may start charging shops a tiny fee on big payments, which could help payment companies earn money.",
+   "tm": [
+    "1 yr (our judgment): Fee starts or is changed after court review",
+    "3 yr (our judgment): Payment apps earn more per transaction",
+    "5 yr (our judgment): e-rupee used for programmable payments alongside UPI"
+   ],
+   "bear": [
+    [
+     "Already postponed once, and the Supreme Court is reviewing it",
+     "https://www.thehindu.com/business/upi-mdr-on-select-merchant-transactions-shall-be-implemented-post-diwali/article71578558.ece"
+    ],
+    [
+     "Traders oppose it; the fee could be cut or dropped (our judgment)",
+     null
+    ]
+   ],
+   "plan": "Watch",
+   "ip": "Policy risk, not patent risk. (our judgment)",
+   "video": "India delays a 0.4% UPI merchant fee to 'immediately after Diwali'. Like a free highway adding a small toll only for big trucks, to pay for repairs. Our judgment: watch. Sources on our page.",
+   "score": {
+    "evidence": 3,
+    "groups": 3,
+    "backing": 4,
+    "manufacturable": 5,
+    "supply_chain": 5,
+    "claim_boldness": 2,
+    "attention": 4,
+    "ip_crowding": 1,
+    "ip_litigation": 2
+   },
+   "ready": 66,
+   "score_points": {
+    "evidence": 24.8,
+    "manufacturable": 20.0,
+    "supply_chain": 10.0,
+    "backing": 8.0,
+    "groups": 3.0
+   },
+   "stage": 2,
+   "years": "2-4",
+   "hype": 60,
+   "ip_level": "Low"
+  },
+  {
+   "id": "aim-gemini4-carbon",
+   "topic": "AI Models",
+   "area": "Frontier closed model",
+   "date": "2026-10-28",
+   "title": "Google's Gemini 4 Carbon ranks #1 on a new independent AI index, first given to cyber defenders",
+   "who": "Google DeepMind",
+   "links": [
+    [
+     "Google blog (Oct 28, 2026)",
+     "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
+    ],
+    [
+     "OrigoTech on Artificial Analysis Index v5 (Oct 2026)",
+     "https://origotech.dev/articles/open-weight-models-state-october-2026/"
+    ]
+   ],
+   "found": "Google says Gemini 4 Carbon scores 59, #1 on Artificial Analysis Intelligence Index v5, and leads security tests such as SEC-bench Pro (88.2%) for finding software flaws. Access starts with a subset of cyber defenders, then trusted partners, before developers and consumers. Introductory price: $2 per million input tokens and $10 per million output tokens.",
+   "analogy": "Like a new top student first let into the bank's security team before being allowed to tutor everyone.",
+   "brief": "Frontier models usually launch to everyone. Carbon is gated first because it is strong at finding and exploiting software flaws. Wider release date not given.",
+   "win": [
+    "Alphabet (Google Cloud, Gemini API) (our judgment)",
+    "Cybersecurity teams using AI (our judgment)"
+   ],
+   "watch": "Date of general developer access and independent security evaluations.",
+   "eli10": "Google made a very smart AI that is great at finding computer weak spots, so it is giving it to the good guys first.",
+   "tm": [
+    "1 yr (our judgment): Broad API release",
+    "3 yr (our judgment): AI routinely finds and patches bugs",
+    "5 yr (our judgment): Security tools rebuilt around AI agents"
+   ],
+   "bear": [
+    [
+     "Benchmark claims are Google's; most users cannot test it yet",
+     "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
+    ],
+    [
+     "Rivals leapfrog every few weeks (our judgment)",
+     null
+    ]
+   ],
+   "plan": "Watch",
+   "ip": "Heavy AI patent activity; no specific dispute. (our judgment)",
+   "video": "Google's Gemini 4 Carbon ranks #1 on a new independent AI index, first given to cyber defenders. Like a new top student first let into the bank's security team before being allowed to tutor everyone. Our judgment: watch. Sources on our page.",
+   "score": {
+    "evidence": 3,
+    "groups": 4,
+    "backing": 5,
+    "manufacturable": 4,
+    "supply_chain": 5,
+    "claim_boldness": 4,
+    "attention": 4,
+    "ip_crowding": 3,
+    "ip_litigation": 2
+   },
+   "ready": 65,
+   "score_points": {
+    "evidence": 24.8,
+    "manufacturable": 16.0,
+    "supply_chain": 10.0,
+    "backing": 10.0,
+    "groups": 4.0
+   },
+   "stage": 2,
+   "years": "2-4",
+   "hype": 80,
+   "ip_level": "Medium"
+  },
+  {
+   "id": "aim-gpt61-terra",
+   "topic": "AI Models",
+   "area": "Efficient frontier model",
+   "date": "2026-10-20",
+   "title": "OpenAI's GPT-6.1 Terra: computer-use AI at half the price, with errors cut from 54% to 17%",
+   "who": "OpenAI (Microsoft is a major partner)",
+   "links": [
+    [
+     "OpenAI (Oct 2026)",
+     "https://openai.com/index/introducing-gpt-6-1-terra"
+    ]
+   ],
+   "found": "OpenAI says GPT-6.1 Terra's API costs 50% less than GPT-5.6 Terra and GPT-6.1 Sol. On its hard-prompt test the error rate at low reasoning effort fell from 53.6% to 16.7%. It solves 50.3% of Terminal-Bench 4.0 coding tasks at max effort, up from 21.5%, and finishes tasks over three times faster than GPT-6 Astra.",
+   "analogy": "Like a cheaper, faster office assistant who now makes far fewer mistakes filling in forms.",
+   "brief": "Cheaper mid-size models make it practical to automate routine office work such as reading invoices. OpenAI says the most complex coding still needs its bigger models. Release date is our estimate from coverage; the OpenAI page is undated in our fetch.",
+   "win": [
+    "Cloud providers hosting OpenAI models (our judgment)",
+    "Businesses automating back-office work (our judgment)"
+   ],
+   "watch": "Independent benchmark results and enterprise adoption figures.",
+   "eli10": "OpenAI made a faster, cheaper AI that can use a computer like a person and gets fewer things wrong.",
+   "tm": [
+    "1 yr (our judgment): Common in office automation",
+    "3 yr (our judgment): AI agents handle routine desk tasks",
+    "5 yr (our judgment): Most form-filling work automated"
+   ],
+   "bear": [
+    [
+     "Benchmarks are OpenAI's own",
+     "https://openai.com/index/introducing-gpt-6-1-terra"
+    ],
+    [
+     "OpenAI is private; listed exposure is indirect via Microsoft (our judgment)",
+     null
+    ]
+   ],
+   "plan": "Watch",
+   "ip": "Heavy AI patent and copyright litigation exposure. (our judgment)",
+   "video": "OpenAI's GPT-6.1 Terra: computer-use AI at half the price, with errors cut from 54% to 17%. Like a cheaper, faster office assistant who now makes far fewer mistakes filling in forms. Our judgment: watch. Sources on our page.",
+   "score": {
+    "evidence": 4,
+    "groups": 4,
+    "backing": 5,
+    "manufacturable": 5,
+    "supply_chain": 5,
+    "claim_boldness": 3,
+    "attention": 4,
+    "ip_crowding": 3,
+    "ip_litigation": 3
+   },
+   "ready": 85,
+   "score_points": {
+    "evidence": 41.2,
+    "manufacturable": 20.0,
+    "supply_chain": 10.0,
+    "backing": 10.0,
+    "groups": 4.0
+   },
+   "stage": 3,
+   "years": "0-2",
+   "hype": 70,
+   "ip_level": "Medium"
+  },
+  {
+   "id": "aim-haiku55",
+   "topic": "AI Models",
+   "area": "Small / efficient model",
+   "date": "2026-10-07",
+   "title": "Anthropic's Claude Haiku 5.5 costs about 75% less to run than Haiku 4.5",
+   "who": "Anthropic (backed by Amazon and Google)",
+   "links": [
+    [
+     "Anthropic (Oct 7, 2026)",
+     "https://www.anthropic.com/claude-haiku-5-5"
+    ],
+    [
+     "OrigoTech on Artificial Analysis Index v5 (Oct 2026)",
+     "https://origotech.dev/articles/open-weight-models-state-october-2026/"
+    ]
+   ],
+   "found": "Anthropic released Claude Haiku 5.5 on all platforms, including AWS, Google Cloud and Microsoft Azure, saying it costs about 75% less to run than Haiku 4.5 and is its fastest model. OrigoTech, citing Artificial Analysis v5, puts it at 36, ahead of the best downloadable open-weight models (32).",
+   "analogy": "Like a pocket calculator that now does what a desktop computer did, for a quarter of the price.",
+   "brief": "Small models handle high-volume work such as summaries, sorting and customer support. A small closed model now outscores the best open models on that index, which widens the open-vs-closed gap.",
+   "win": [
+    "Amazon (AWS Bedrock) and Google Cloud, both Anthropic investors (our judgment)",
+    "Apps with high-volume AI tasks (our judgment)"
+   ],
+   "watch": "Price moves by rivals and open-weight catch-up (Kimi K3.1 Pro weights promised by Nov 4).",
+   "eli10": "A smaller, cheaper AI got much smarter, so apps can use AI lots more without paying a lot.",
+   "tm": [
+    "1 yr (our judgment): Small models replace big ones for routine tasks",
+    "3 yr (our judgment): AI cost per task keeps falling",
+    "5 yr (our judgment): AI in most software by default"
+   ],
+   "bear": [
+    [
+     "Cost saving is Anthropic's own average estimate",
+     "https://www.anthropic.com/claude-haiku-5-5"
+    ],
+    [
+     "Price wars squeeze margins for model makers (our judgment)",
+     null
+    ]
+   ],
+   "plan": "Watch",
+   "ip": "AI copyright litigation is industry-wide. (our judgment)",
+   "video": "Anthropic's Claude Haiku 5.5 costs about 75% less to run than Haiku 4.5. Like a pocket calculator that now does what a desktop computer did, for a quarter of the price. Our judgment: watch. Sources on our page.",
+   "score": {
+    "evidence": 4,
+    "groups": 4,
+    "backing": 5,
+    "manufacturable": 5,
+    "supply_chain": 5,
+    "claim_boldness": 2,
+    "attention": 3,
+    "ip_crowding": 3,
+    "ip_litigation": 3
+   },
+   "ready": 85,
+   "score_points": {
+    "evidence": 41.2,
+    "manufacturable": 20.0,
+    "supply_chain": 10.0,
+    "backing": 10.0,
+    "groups": 4.0
+   },
+   "stage": 3,
+   "years": "0-2",
+   "hype": 50,
+   "ip_level": "Medium"
   }
  ],
  "results": {
@@ -3128,7 +3644,9 @@
    "stage": 2,
    "links": [
     "q-google-magic",
-    "ai-genie4"
+    "ai-genie4",
+    "aim-gemini4-carbon",
+    "aim-haiku55"
    ],
    "score": {
     "exposure": 2,
@@ -3141,7 +3659,7 @@
      null
     ]
    ],
-   "conv_score": 50
+   "conv_score": 56
   },
   {
    "name": "Quantinuum",
@@ -4000,6 +4518,240 @@
     ]
    ],
    "conv_score": 39
+  },
+  {
+   "name": "Janus Henderson",
+   "region": "USA",
+   "ticker": "JHG",
+   "catalyst": "Launched JQQQ tokenized Nasdaq-100 fund (Oct 27)",
+   "timeline": "2026-2028",
+   "risk": "Tokenized assets are a tiny share of its funds",
+   "conv": "Medium",
+   "src": null,
+   "stage": 3,
+   "links": [
+    "fin-jqqq"
+   ],
+   "score": {
+    "exposure": 2,
+    "execution": 3,
+    "investable": 1
+   },
+   "bear": [
+    [
+     "Small revenue impact near term (our judgment)",
+     null
+    ]
+   ],
+   "conv_score": 58
+  },
+  {
+   "name": "Nasdaq",
+   "region": "USA",
+   "ticker": "NDAQ",
+   "catalyst": "Licensed Nasdaq-100 to the first issuer-sponsored tokenized fund",
+   "timeline": "2026-2028",
+   "risk": "Licensing fees from tokenized funds are small",
+   "conv": "Watch",
+   "src": null,
+   "stage": 3,
+   "links": [
+    "fin-jqqq"
+   ],
+   "score": {
+    "exposure": 1,
+    "execution": 4,
+    "investable": 1
+   },
+   "bear": [
+    [
+     "Diluted exposure (our judgment)",
+     null
+    ]
+   ],
+   "conv_score": 54
+  },
+  {
+   "name": "Upstart",
+   "region": "USA",
+   "ticker": "UPST",
+   "catalyst": "Cash-flow and AI credit models gaining ground (sector signal from Plaid launch)",
+   "timeline": "2026-2027",
+   "risk": "Credit cycle and funding risk",
+   "conv": "High",
+   "src": null,
+   "stage": 3,
+   "links": [
+    "fin-plaid-arc"
+   ],
+   "score": {
+    "exposure": 3,
+    "execution": 3,
+    "investable": 1
+   },
+   "bear": [
+    [
+     "Not directly tied to Plaid; sector read-across only (our judgment)",
+     null
+    ]
+   ],
+   "conv_score": 66
+  },
+  {
+   "name": "SoFi Technologies",
+   "region": "USA",
+   "ticker": "SOFI",
+   "catalyst": "Fintech lender that could adopt cash-flow underwriting",
+   "timeline": "2026-2028",
+   "risk": "Credit losses in a downturn",
+   "conv": "Medium",
+   "src": null,
+   "stage": 3,
+   "links": [
+    "fin-plaid-arc"
+   ],
+   "score": {
+    "exposure": 2,
+    "execution": 3,
+    "investable": 1
+   },
+   "bear": [
+    [
+     "Read-across only (our judgment)",
+     null
+    ]
+   ],
+   "conv_score": 58
+  },
+  {
+   "name": "Bajaj Finance",
+   "region": "India",
+   "ticker": "BAJFINANCE.NS",
+   "catalyst": "Large Indian consumer lender using data-driven credit (read-across)",
+   "timeline": "2026-2028",
+   "risk": "Indian credit-cycle risk",
+   "conv": "Watch",
+   "src": null,
+   "stage": 3,
+   "links": [
+    "fin-plaid-arc"
+   ],
+   "score": {
+    "exposure": 1,
+    "execution": 4,
+    "investable": 1
+   },
+   "bear": [
+    [
+     "Read-across only (our judgment)",
+     null
+    ]
+   ],
+   "conv_score": 54
+  },
+  {
+   "name": "Lloyds Banking Group",
+   "region": "UK",
+   "ticker": "LYG",
+   "catalyst": "Agentic AI fraud platform >90% accuracy (Oct 26)",
+   "timeline": "2026-2027",
+   "risk": "Fraud AI is a small cost lever for a large bank",
+   "conv": "Watch",
+   "src": null,
+   "stage": 3,
+   "links": [
+    "fin-lloyds-fraud"
+   ],
+   "score": {
+    "exposure": 1,
+    "execution": 4,
+    "investable": 1
+   },
+   "bear": [
+    [
+     "Diluted exposure (our judgment)",
+     null
+    ]
+   ],
+   "conv_score": 48
+  },
+  {
+   "name": "One 97 Communications (Paytm)",
+   "region": "India",
+   "ticker": "PAYTM.NS",
+   "catalyst": "UPI MDR 0.4% above ₹2,000 to start after Diwali, date to be notified",
+   "timeline": "2026-2027",
+   "risk": "Fee could be cut or dropped after Supreme Court review",
+   "conv": "Medium",
+   "src": null,
+   "stage": 3,
+   "links": [
+    "fin-upi-mdr"
+   ],
+   "score": {
+    "exposure": 3,
+    "execution": 3,
+    "investable": 1
+   },
+   "bear": [
+    [
+     "Policy may change (our judgment)",
+     null
+    ]
+   ],
+   "conv_score": 62
+  },
+  {
+   "name": "Microsoft",
+   "region": "USA",
+   "ticker": "MSFT",
+   "catalyst": "Major OpenAI partner; GPT-6.1 Terra launch",
+   "timeline": "2026-2028",
+   "risk": "AI is one part of a huge business",
+   "conv": "Watch",
+   "src": null,
+   "stage": 3,
+   "links": [
+    "aim-gpt61-terra"
+   ],
+   "score": {
+    "exposure": 1,
+    "execution": 4,
+    "investable": 1
+   },
+   "bear": [
+    [
+     "Diluted exposure (our judgment)",
+     null
+    ]
+   ],
+   "conv_score": 58
+  },
+  {
+   "name": "Amazon",
+   "region": "USA",
+   "ticker": "AMZN",
+   "catalyst": "Anthropic investor; Claude Haiku 5.5 on AWS",
+   "timeline": "2026-2028",
+   "risk": "AI model price wars",
+   "conv": "Watch",
+   "src": null,
+   "stage": 3,
+   "links": [
+    "aim-haiku55"
+   ],
+   "score": {
+    "exposure": 1,
+    "execution": 4,
+    "investable": 1
+   },
+   "bear": [
+    [
+     "Diluted exposure (our judgment)",
+     null
+    ]
+   ],
+   "conv_score": 58
   }
  ],
  "botd": {

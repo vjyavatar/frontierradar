@@ -1413,5 +1413,187 @@
   "ready": 74,
   "call": "Top-5 #5: Watch, 0-2 yrs",
   "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "top5",
+  "id": "aim-gpt61-terra",
+  "name": "OpenAI's GPT-6.1 Terra: computer-use AI at half the price, with errors cut from 54% to 17%",
+  "rank": 1,
+  "stage": 3,
+  "ready": 85,
+  "call": "Top-5 #1: Watch, 0-2 yrs",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "top5",
+  "id": "aim-haiku55",
+  "name": "Anthropic's Claude Haiku 5.5 costs about 75% less to run than Haiku 4.5",
+  "rank": 2,
+  "stage": 3,
+  "ready": 85,
+  "call": "Top-5 #2: Watch, 0-2 yrs",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "research",
+  "id": "fin-jqqq",
+  "name": "Janus Henderson puts a Nasdaq-100 fund on a blockchain (JQQQ)",
+  "stage": 3,
+  "ready": 74,
+  "call": "Readiness 74, 0-2 yrs to market",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "research",
+  "id": "fin-plaid-arc",
+  "name": "Plaid launches a transformer AI credit score it says predicts repayment 42% better",
+  "stage": 3,
+  "ready": 75,
+  "call": "Readiness 75, 0-2 yrs to market",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "research",
+  "id": "fin-lloyds-fraud",
+  "name": "Lloyds' agentic AI fraud assistant passes 90% decision accuracy on 10,600 live cases",
+  "stage": 2,
+  "ready": 61,
+  "call": "Readiness 61, 2-4 yrs to market",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "research",
+  "id": "fin-upi-mdr",
+  "name": "India delays a 0.4% UPI merchant fee to 'immediately after Diwali'",
+  "stage": 2,
+  "ready": 66,
+  "call": "Readiness 66, 2-4 yrs to market",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "research",
+  "id": "aim-gemini4-carbon",
+  "name": "Google's Gemini 4 Carbon ranks #1 on a new independent AI index, first given to cyber defenders",
+  "stage": 2,
+  "ready": 65,
+  "call": "Readiness 65, 2-4 yrs to market",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "research",
+  "id": "aim-gpt61-terra",
+  "name": "OpenAI's GPT-6.1 Terra: computer-use AI at half the price, with errors cut from 54% to 17%",
+  "stage": 3,
+  "ready": 85,
+  "call": "Readiness 85, 0-2 yrs to market",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "research",
+  "id": "aim-haiku55",
+  "name": "Anthropic's Claude Haiku 5.5 costs about 75% less to run than Haiku 4.5",
+  "stage": 3,
+  "ready": 85,
+  "call": "Readiness 85, 0-2 yrs to market",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "opp",
+  "id": "janus-henderson",
+  "name": "Janus Henderson",
+  "stage": 3,
+  "ready": 74,
+  "call": "Medium conviction",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "opp",
+  "id": "nasdaq",
+  "name": "Nasdaq",
+  "stage": 3,
+  "ready": 74,
+  "call": "Watch conviction",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "opp",
+  "id": "upstart",
+  "name": "Upstart",
+  "stage": 3,
+  "ready": 75,
+  "call": "High conviction",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "opp",
+  "id": "sofi-technologies",
+  "name": "SoFi Technologies",
+  "stage": 3,
+  "ready": 75,
+  "call": "Medium conviction",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "opp",
+  "id": "bajaj-finance",
+  "name": "Bajaj Finance",
+  "stage": 3,
+  "ready": 75,
+  "call": "Watch conviction",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "opp",
+  "id": "lloyds-banking-group",
+  "name": "Lloyds Banking Group",
+  "stage": 3,
+  "ready": 61,
+  "call": "Watch conviction",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "opp",
+  "id": "one-97-communications-paytm",
+  "name": "One 97 Communications (Paytm)",
+  "stage": 3,
+  "ready": 66,
+  "call": "Medium conviction",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "opp",
+  "id": "microsoft",
+  "name": "Microsoft",
+  "stage": 3,
+  "ready": 85,
+  "call": "Watch conviction",
+  "outcome": "pending"
+ },
+ {
+  "date": "2026-10-30",
+  "kind": "opp",
+  "id": "amazon",
+  "name": "Amazon",
+  "stage": 3,
+  "ready": 85,
+  "call": "Watch conviction",
+  "outcome": "pending"
  }
 ]

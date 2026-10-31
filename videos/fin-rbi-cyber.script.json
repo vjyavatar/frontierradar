@@ -1,0 +1,44 @@
+{
+ "hook": "India's central bank is telling banks to lock their digital side doors.",
+ "analogy_name": "Service lift",
+ "map": [
+  [
+   "Service lift",
+   "API link to partners"
+  ],
+  [
+   "Delivery partners",
+   "Fintechs and non-bank lenders"
+  ],
+  [
+   "Key-card check",
+   "Proof of security compliance"
+  ]
+ ],
+ "sections": [
+  [
+   "What it is",
+   "Reuters reports the R B I asked banks to check weak spots in A P Is, the links that connect them to fintechs and lenders."
+  ],
+  [
+   "Analogy",
+   "Picture a housing society that finds thieves entering through the service lift used by delivery partners. Now the guard checks every partner's key card."
+  ],
+  [
+   "How it works",
+   "First, banks must probe their A P I links for weaknesses. Second, they must show proof of compliance and readiness for A I risks."
+  ],
+  [
+   "Before",
+   "Before, rules existed, but sources say banks were slow to apply them. Two lenders lost about 2 million dollars through a hacked A P I link."
+  ],
+  [
+   "After",
+   "Now the regulator is asking for proof, not promises."
+  ],
+  [
+   "Why it matters",
+   "Security spending may rise; small lenders face higher costs. This is based on unnamed sources. Our judgment: watch. Not financial advice."
+  ]
+ ]
+}

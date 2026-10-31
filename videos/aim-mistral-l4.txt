@@ -1,0 +1,34 @@
+FrontierRadar explainer: Mistral releases the weights of Large 4, a ~1-trillion-parameter open model aimed at coding and cyber defence
+Issue: 2026-10-31 | Stage 3 · Generally available | Readiness 81/100 | Voice: Piper en_US-lessac-medium (local)
+
+HOOK
+A trillion-parameter AI model is now free to download.
+
+WHAT IT IS
+Mistral released the weights of Mistral Large 4, its biggest open model, built for coding and cyber defence.
+
+ANALOGY
+Think of a carmaker publishing its full engine design. Any garage can build and tune the engine, but taxi firms selling rides with it need a separate licence.
+
+HOW IT WORKS
+First, organisations download the model and run it on their own hardware. Second, they fine-tune it on private data, for example security logs.
+
+BEFORE
+Before, most top models could only be rented through an online service.
+
+AFTER
+Now Mistral says it leads open models on two coding tests, at 70 cents per million input tokens through its API.
+
+WHY IT MATTERS
+Banks and governments wanting control get a strong option. Benchmarks are Mistral's own. Our judgment: watch. Not financial advice.
+
+NEXT
+Follow FrontierRadar. Full scores and sources at research.celesys.ai.
+
+ANALOGY MAP (in the analogy -> in reality)
+- Engine design -> Model weights
+- Garages tuning it -> Companies running it on their own servers
+- Taxi firms' licence -> Licence for hosted AI services
+
+SOURCES
+Mistral AI: Large 4 is now open weight (Oct 2026); Hugging Face model page. Judgment calls are labelled. Not financial advice.

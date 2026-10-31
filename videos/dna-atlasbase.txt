@@ -1,0 +1,34 @@
+FrontierRadar explainer: AtlasBase unveils 'Thalia', a DNA-writing chip with 5.6 billion sites, 700× earlier chips
+Issue: 2026-10-31 | Stage 2 · Prototype system | Readiness 36/100 | Voice: Piper en_US-lessac-medium (local)
+
+HOOK
+A new chip can write DNA at 5.6 billion spots at once.
+
+WHAT IT IS
+AtlasBase unveiled Thalia, a semiconductor chip that writes synthetic DNA for data storage and DNA computing.
+
+ANALOGY
+Think of going from one printing press to a newspaper plant with billions of tiny presses printing side by side.
+
+HOW IT WORKS
+First, each electrode site builds a DNA strand letter by letter. Second, billions of sites work in parallel on a chip made with standard chip lines.
+
+BEFORE
+Before, writing DNA was the slowest and costliest step of DNA storage.
+
+AFTER
+Now AtlasBase claims a 700-fold scale-up over earlier chips, with early access for partners.
+
+WHY IT MATTERS
+No speed or cost per gigabyte was disclosed, so this is early. Our judgment: wait. Not financial advice.
+
+NEXT
+Follow FrontierRadar. Full scores and sources at research.celesys.ai.
+
+ANALOGY MAP (in the analogy -> in reality)
+- One printing press -> Older DNA synthesis chips
+- Billions of tiny presses -> 5.6 billion writing sites
+- Newspapers -> DNA strands holding data
+
+SOURCES
+Embedded Computing Design (Oct 28, 2026). Judgment calls are labelled. Not financial advice.

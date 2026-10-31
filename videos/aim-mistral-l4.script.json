@@ -1,0 +1,44 @@
+{
+ "hook": "A trillion-parameter AI model is now free to download.",
+ "analogy_name": "Engine design",
+ "map": [
+  [
+   "Engine design",
+   "Model weights"
+  ],
+  [
+   "Garages tuning it",
+   "Companies running it on their own servers"
+  ],
+  [
+   "Taxi firms' licence",
+   "Licence for hosted AI services"
+  ]
+ ],
+ "sections": [
+  [
+   "What it is",
+   "Mistral released the weights of Mistral Large 4, its biggest open model, built for coding and cyber defence."
+  ],
+  [
+   "Analogy",
+   "Think of a carmaker publishing its full engine design. Any garage can build and tune the engine, but taxi firms selling rides with it need a separate licence."
+  ],
+  [
+   "How it works",
+   "First, organisations download the model and run it on their own hardware. Second, they fine-tune it on private data, for example security logs."
+  ],
+  [
+   "Before",
+   "Before, most top models could only be rented through an online service."
+  ],
+  [
+   "After",
+   "Now Mistral says it leads open models on two coding tests, at 70 cents per million input tokens through its API."
+  ],
+  [
+   "Why it matters",
+   "Banks and governments wanting control get a strong option. Benchmarks are Mistral's own. Our judgment: watch. Not financial advice."
+  ]
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "hook": "India just relit a missing light in its own GPS system.",
+ "analogy_name": "Lighthouses",
+ "map": [
+  [
+   "Lighthouses",
+   "NavIC satellites"
+  ],
+  [
+   "Ship fixing its position",
+   "Phone or ship finding its location"
+  ],
+  [
+   "The dark light",
+   "Failed NVS-02 satellite"
+  ]
+ ],
+ "sections": [
+  [
+   "What it is",
+   "ISRO's GSLV-F18 rocket launched NVS-03, a navigation satellite for NavIC, India's own positioning system."
+  ],
+  [
+   "Analogy",
+   "Picture lighthouses along a coast. A ship must see at least four lights to fix its position. One light went dark, and this launch relights it."
+  ],
+  [
+   "How it works",
+   "First, the rocket placed the 2,250 kilogram satellite in a transfer orbit 18 minutes after liftoff. Second, the satellite will raise itself to its final orbit, carrying an Indian-made atomic clock."
+  ],
+  [
+   "Before",
+   "Before, NavIC had only three working satellites, one short of the minimum for standalone positioning."
+  ],
+  [
+   "After",
+   "Now ISRO's chairman says the launch restores the minimum four, and a new L1 signal makes NavIC easier for everyday phones."
+  ],
+  [
+   "Why it matters",
+   "India gains a navigation system it controls. Orbit-raising is still ahead. Listed suppliers like MTAR are indirect. Our judgment: watch. Not financial advice."
+  ]
+ ]
+}

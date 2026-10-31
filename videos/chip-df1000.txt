@@ -1,0 +1,34 @@
+FrontierRadar explainer: China's DF1000 AI chip stacks memory directly on its logic, reaching 6.4 TB/s without HBM
+Issue: 2026-10-31 | Stage 2 · Prototype | Readiness 52/100 | Voice: Piper en_US-lessac-medium (local)
+
+HOOK
+A Chinese AI chip skips the world's scarcest memory and still claims 6.4 terabytes per second.
+
+WHAT IT IS
+DF1000, from Dongfang Suanxin, stacks a memory wafer directly on top of the chip's logic.
+
+ANALOGY
+Think of building the warehouse directly above the shop floor, linked by thousands of lifts, instead of trucking goods in from a depot across town.
+
+HOW IT WORKS
+First, a memory wafer is bonded face to face onto the logic wafer, with no bumps in between. Second, the very short, dense links feed data fast, even on an older 14 nanometre process.
+
+BEFORE
+Before, AI chips sat beside H B M memory stacks that are scarce and restricted for China.
+
+AFTER
+Now a 128-card cluster ran 72 hours non-stop, with a 1,000-card cluster planned by year end.
+
+WHY IT MATTERS
+If the claims hold, memory-on-logic stacking could reshape AI chips. Figures are the company's own. Our judgment: watch. Not financial advice.
+
+NEXT
+Follow FrontierRadar. Full scores and sources at research.celesys.ai.
+
+ANALOGY MAP (in the analogy -> in reality)
+- Shop floor -> Compute logic
+- Warehouse upstairs -> DRAM memory layer
+- Thousands of lifts -> Copper-to-copper vertical links
+
+SOURCES
+AI123 news (Oct 30, 2026); Jiemian / ZDNet China (Oct 30, 2026, in Chinese); CGTN: DF1000 unveiled (Jul 13, 2026). Judgment calls are labelled. Not financial advice.

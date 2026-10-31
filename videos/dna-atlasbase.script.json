@@ -1,0 +1,44 @@
+{
+ "hook": "A new chip can write DNA at 5.6 billion spots at once.",
+ "analogy_name": "Newspaper plant",
+ "map": [
+  [
+   "One printing press",
+   "Older DNA synthesis chips"
+  ],
+  [
+   "Billions of tiny presses",
+   "5.6 billion writing sites"
+  ],
+  [
+   "Newspapers",
+   "DNA strands holding data"
+  ]
+ ],
+ "sections": [
+  [
+   "What it is",
+   "AtlasBase unveiled Thalia, a semiconductor chip that writes synthetic DNA for data storage and DNA computing."
+  ],
+  [
+   "Analogy",
+   "Think of going from one printing press to a newspaper plant with billions of tiny presses printing side by side."
+  ],
+  [
+   "How it works",
+   "First, each electrode site builds a DNA strand letter by letter. Second, billions of sites work in parallel on a chip made with standard chip lines."
+  ],
+  [
+   "Before",
+   "Before, writing DNA was the slowest and costliest step of DNA storage."
+  ],
+  [
+   "After",
+   "Now AtlasBase claims a 700-fold scale-up over earlier chips, with early access for partners."
+  ],
+  [
+   "Why it matters",
+   "No speed or cost per gigabyte was disclosed, so this is early. Our judgment: wait. Not financial advice."
+  ]
+ ]
+}

@@ -1,0 +1,34 @@
+FrontierRadar explainer: RBI presses banks to prove cyber defences as AI-assisted API attacks hit Indian lenders
+Issue: 2026-10-31 | Stage 2 · Pilot | Readiness 60/100 | Voice: Piper en_US-lessac-medium (local)
+
+HOOK
+India's central bank is telling banks to lock their digital side doors.
+
+WHAT IT IS
+Reuters reports the R B I asked banks to check weak spots in A P Is, the links that connect them to fintechs and lenders.
+
+ANALOGY
+Picture a housing society that finds thieves entering through the service lift used by delivery partners. Now the guard checks every partner's key card.
+
+HOW IT WORKS
+First, banks must probe their A P I links for weaknesses. Second, they must show proof of compliance and readiness for A I risks.
+
+BEFORE
+Before, rules existed, but sources say banks were slow to apply them. Two lenders lost about 2 million dollars through a hacked A P I link.
+
+AFTER
+Now the regulator is asking for proof, not promises.
+
+WHY IT MATTERS
+Security spending may rise; small lenders face higher costs. This is based on unnamed sources. Our judgment: watch. Not financial advice.
+
+NEXT
+Follow FrontierRadar. Full scores and sources at research.celesys.ai.
+
+ANALOGY MAP (in the analogy -> in reality)
+- Service lift -> API link to partners
+- Delivery partners -> Fintechs and non-bank lenders
+- Key-card check -> Proof of security compliance
+
+SOURCES
+Business Standard / Reuters (Oct 30, 2026). Judgment calls are labelled. Not financial advice.

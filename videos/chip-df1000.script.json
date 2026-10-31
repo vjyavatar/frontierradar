@@ -1,0 +1,44 @@
+{
+ "hook": "A Chinese AI chip skips the world's scarcest memory and still claims 6.4 terabytes per second.",
+ "analogy_name": "Warehouse above the shop",
+ "map": [
+  [
+   "Shop floor",
+   "Compute logic"
+  ],
+  [
+   "Warehouse upstairs",
+   "DRAM memory layer"
+  ],
+  [
+   "Thousands of lifts",
+   "Copper-to-copper vertical links"
+  ]
+ ],
+ "sections": [
+  [
+   "What it is",
+   "DF1000, from Dongfang Suanxin, stacks a memory wafer directly on top of the chip's logic."
+  ],
+  [
+   "Analogy",
+   "Think of building the warehouse directly above the shop floor, linked by thousands of lifts, instead of trucking goods in from a depot across town."
+  ],
+  [
+   "How it works",
+   "First, a memory wafer is bonded face to face onto the logic wafer, with no bumps in between. Second, the very short, dense links feed data fast, even on an older 14 nanometre process."
+  ],
+  [
+   "Before",
+   "Before, AI chips sat beside H B M memory stacks that are scarce and restricted for China."
+  ],
+  [
+   "After",
+   "Now a 128-card cluster ran 72 hours non-stop, with a 1,000-card cluster planned by year end."
+  ],
+  [
+   "Why it matters",
+   "If the claims hold, memory-on-logic stacking could reshape AI chips. Figures are the company's own. Our judgment: watch. Not financial advice."
+  ]
+ ]
+}

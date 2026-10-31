@@ -1,0 +1,44 @@
+{
+ "hook": "America's drug regulator may let one approval cover many custom gene edits.",
+ "analogy_name": "Tailor's pattern",
+ "map": [
+  [
+   "Approved suit pattern",
+   "One biologics licence"
+  ],
+  [
+   "Each customer's size",
+   "Each patient's mutation"
+  ],
+  [
+   "Allowed measurement range",
+   "Individualized Feature Space"
+  ]
+ ],
+ "sections": [
+  [
+   "What it is",
+   "It is FDA draft guidance for personalised gene-editing treatments for rare diseases."
+  ],
+  [
+   "Analogy",
+   "Think of a tailor approved once for a suit pattern. After that, each customer's size can be cut without a fresh approval, as long as the measurements stay in the approved range."
+  ],
+  [
+   "How it works",
+   "First, a company defines the limits within which its therapy may vary. Second, new patient versions inside those limits are added with lab data, without new clinical trials."
+  ],
+  [
+   "Before",
+   "Before, an edit for one family's rare mutation looked like a brand-new drug needing its own trials."
+  ],
+  [
+   "After",
+   "Now, if finalised, many custom versions could share one approval. Comments close on November 27."
+  ],
+  [
+   "Why it matters",
+   "This could open rare-disease markets that were too small to serve. It is still a draft. Our judgment: watch. Not financial advice."
+  ]
+ ]
+}

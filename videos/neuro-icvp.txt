@@ -1,0 +1,34 @@
+FrontierRadar explainer: A wireless brain implant for artificial vision goes into a third blind patient
+Issue: 2026-10-31 | Stage 2 · Pilot / feasibility | Readiness 33/100 | Voice: Piper en_US-lessac-medium (local)
+
+HOOK
+A blind patient just received a wireless implant that talks straight to the brain's vision area.
+
+WHAT IT IS
+It is the Intracortical Visual Prosthesis, now placed in a third person at Rush University Medical Center.
+
+ANALOGY
+Think of a stadium light board. Each bulb is one dot, and a pattern of dots draws a rough picture, even when the TV camera is broken.
+
+HOW IT WORKS
+First, 34 tiny wireless stimulators with 544 electrodes sit in the visual cortex. Second, they send patterns that may be seen as spots of light.
+
+BEFORE
+Before, most sight aids needed a working eye or optic nerve.
+
+AFTER
+Now three people have the implant, and the study will test whether it helps them move around.
+
+WHY IT MATTERS
+No results on what participants see are published yet. Partners are mostly private. Our judgment: wait. Not financial advice.
+
+NEXT
+Follow FrontierRadar. Full scores and sources at research.celesys.ai.
+
+ANALOGY MAP (in the analogy -> in reality)
+- Light board -> Visual cortex
+- Each bulb -> One electrode's spot of light
+- Broken TV camera -> Damaged eye or optic nerve
+
+SOURCES
+Rush University Medical Center news (Oct 29, 2026). Judgment calls are labelled. Not financial advice.

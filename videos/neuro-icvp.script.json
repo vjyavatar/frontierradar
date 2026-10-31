@@ -1,0 +1,44 @@
+{
+ "hook": "A blind patient just received a wireless implant that talks straight to the brain's vision area.",
+ "analogy_name": "Stadium light board",
+ "map": [
+  [
+   "Light board",
+   "Visual cortex"
+  ],
+  [
+   "Each bulb",
+   "One electrode's spot of light"
+  ],
+  [
+   "Broken TV camera",
+   "Damaged eye or optic nerve"
+  ]
+ ],
+ "sections": [
+  [
+   "What it is",
+   "It is the Intracortical Visual Prosthesis, now placed in a third person at Rush University Medical Center."
+  ],
+  [
+   "Analogy",
+   "Think of a stadium light board. Each bulb is one dot, and a pattern of dots draws a rough picture, even when the TV camera is broken."
+  ],
+  [
+   "How it works",
+   "First, 34 tiny wireless stimulators with 544 electrodes sit in the visual cortex. Second, they send patterns that may be seen as spots of light."
+  ],
+  [
+   "Before",
+   "Before, most sight aids needed a working eye or optic nerve."
+  ],
+  [
+   "After",
+   "Now three people have the implant, and the study will test whether it helps them move around."
+  ],
+  [
+   "Why it matters",
+   "No results on what participants see are published yet. Partners are mostly private. Our judgment: wait. Not financial advice."
+  ]
+ ]
+}

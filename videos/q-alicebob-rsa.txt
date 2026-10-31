@@ -1,0 +1,34 @@
+FrontierRadar explainer: Alice & Bob: about 22,600 'cat qubits' could break RSA-2048 encryption in about 3 days, on paper
+Issue: 2026-10-31 | Stage 1 · Lab physics | Readiness 22/100 | Voice: Piper en_US-lessac-medium (local)
+
+HOOK
+The quantum computer needed to break bank encryption just got 40 times smaller, on paper.
+
+WHAT IT IS
+Alice and Bob, a French quantum startup, published a full plan for running Shor's code-breaking algorithm on its cat qubits.
+
+ANALOGY
+Think of an engineer who publishes complete blueprints showing a bridge needs 40 times fewer steel beams than anyone assumed. Nothing is built yet, but the price tag just shrank.
+
+HOW IT WORKS
+First, cat qubits block one kind of error in hardware, so less correction is needed. Second, the team laid out every step, down to the physical routing on the chip.
+
+BEFORE
+Before, estimates for standard qubits ran to hundreds of thousands or millions of qubits.
+
+AFTER
+Now the estimate is about 22,600 cat qubits and roughly 3 days to break RSA-2048.
+
+WHY IT MATTERS
+It is a paper estimate that assumes hardware nobody has built yet. But it pulls the deadline for upgrading encryption closer. Our judgment: watch. Not financial advice.
+
+NEXT
+Follow FrontierRadar. Full scores and sources at research.celesys.ai.
+
+ANALOGY MAP (in the analogy -> in reality)
+- The bridge -> A code-breaking quantum computer
+- Steel beams -> Physical qubits
+- Full blueprints -> Chip layout down to every wire
+
+SOURCES
+Quantum Computing Report (Oct 30, 2026). Judgment calls are labelled. Not financial advice.

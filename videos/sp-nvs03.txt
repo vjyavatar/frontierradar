@@ -1,0 +1,34 @@
+FrontierRadar explainer: ISRO's GSLV-F18 puts NVS-03 in orbit, set to restore India's own GPS (NavIC)
+Issue: 2026-10-31 | Stage 3 · Flight | Readiness 78/100 | Voice: Piper en_US-lessac-medium (local)
+
+HOOK
+India just relit a missing light in its own GPS system.
+
+WHAT IT IS
+ISRO's GSLV-F18 rocket launched NVS-03, a navigation satellite for NavIC, India's own positioning system.
+
+ANALOGY
+Picture lighthouses along a coast. A ship must see at least four lights to fix its position. One light went dark, and this launch relights it.
+
+HOW IT WORKS
+First, the rocket placed the 2,250 kilogram satellite in a transfer orbit 18 minutes after liftoff. Second, the satellite will raise itself to its final orbit, carrying an Indian-made atomic clock.
+
+BEFORE
+Before, NavIC had only three working satellites, one short of the minimum for standalone positioning.
+
+AFTER
+Now ISRO's chairman says the launch restores the minimum four, and a new L1 signal makes NavIC easier for everyday phones.
+
+WHY IT MATTERS
+India gains a navigation system it controls. Orbit-raising is still ahead. Listed suppliers like MTAR are indirect. Our judgment: watch. Not financial advice.
+
+NEXT
+Follow FrontierRadar. Full scores and sources at research.celesys.ai.
+
+ANALOGY MAP (in the analogy -> in reality)
+- Lighthouses -> NavIC satellites
+- Ship fixing its position -> Phone or ship finding its location
+- The dark light -> Failed NVS-02 satellite
+
+SOURCES
+ISRO: GSLV-F18/NVS-03 mission page; Times of India (Oct 31, 2026). Judgment calls are labelled. Not financial advice.

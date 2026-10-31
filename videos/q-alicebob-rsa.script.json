@@ -1,0 +1,44 @@
+{
+ "hook": "The quantum computer needed to break bank encryption just got 40 times smaller, on paper.",
+ "analogy_name": "Bridge blueprints",
+ "map": [
+  [
+   "The bridge",
+   "A code-breaking quantum computer"
+  ],
+  [
+   "Steel beams",
+   "Physical qubits"
+  ],
+  [
+   "Full blueprints",
+   "Chip layout down to every wire"
+  ]
+ ],
+ "sections": [
+  [
+   "What it is",
+   "Alice and Bob, a French quantum startup, published a full plan for running Shor's code-breaking algorithm on its cat qubits."
+  ],
+  [
+   "Analogy",
+   "Think of an engineer who publishes complete blueprints showing a bridge needs 40 times fewer steel beams than anyone assumed. Nothing is built yet, but the price tag just shrank."
+  ],
+  [
+   "How it works",
+   "First, cat qubits block one kind of error in hardware, so less correction is needed. Second, the team laid out every step, down to the physical routing on the chip."
+  ],
+  [
+   "Before",
+   "Before, estimates for standard qubits ran to hundreds of thousands or millions of qubits."
+  ],
+  [
+   "After",
+   "Now the estimate is about 22,600 cat qubits and roughly 3 days to break RSA-2048."
+  ],
+  [
+   "Why it matters",
+   "It is a paper estimate that assumes hardware nobody has built yet. But it pulls the deadline for upgrading encryption closer. Our judgment: watch. Not financial advice."
+  ]
+ ]
+}

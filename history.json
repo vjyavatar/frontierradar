@@ -2178,5 +2178,1849 @@
     ]
    }
   }
+ },
+ "2026-10-31": {
+  "research": {
+   "q-alicebob-rsa": {
+    "first_seen": "2026-10-31",
+    "last_updated": "2026-10-31",
+    "history": [
+     {
+      "date": "2026-10-31",
+      "stage": 1,
+      "ready": 22
+     }
+    ]
+   },
+   "sp-nvs03": {
+    "first_seen": "2026-10-31",
+    "last_updated": "2026-10-31",
+    "history": [
+     {
+      "date": "2026-10-31",
+      "stage": 3,
+      "ready": 78
+     }
+    ]
+   },
+   "bio-fda-ifs": {
+    "first_seen": "2026-10-31",
+    "last_updated": "2026-10-31",
+    "history": [
+     {
+      "date": "2026-10-31",
+      "stage": 2,
+      "ready": 57
+     }
+    ]
+   },
+   "chip-df1000": {
+    "first_seen": "2026-10-31",
+    "last_updated": "2026-10-31",
+    "history": [
+     {
+      "date": "2026-10-31",
+      "stage": 2,
+      "ready": 52
+     }
+    ]
+   },
+   "aim-mistral-l4": {
+    "first_seen": "2026-10-31",
+    "last_updated": "2026-10-31",
+    "history": [
+     {
+      "date": "2026-10-31",
+      "stage": 3,
+      "ready": 81
+     }
+    ]
+   },
+   "fin-rbi-cyber": {
+    "first_seen": "2026-10-31",
+    "last_updated": "2026-10-31",
+    "history": [
+     {
+      "date": "2026-10-31",
+      "stage": 2,
+      "ready": 60
+     }
+    ]
+   },
+   "neuro-icvp": {
+    "first_seen": "2026-10-31",
+    "last_updated": "2026-10-31",
+    "history": [
+     {
+      "date": "2026-10-31",
+      "stage": 2,
+      "ready": 33
+     }
+    ]
+   },
+   "dna-atlasbase": {
+    "first_seen": "2026-10-31",
+    "last_updated": "2026-10-31",
+    "history": [
+     {
+      "date": "2026-10-31",
+      "stage": 2,
+      "ready": 36
+     }
+    ]
+   },
+   "dna-gungnir": {
+    "first_seen": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "history": [
+     {
+      "date": "2026-10-30",
+      "stage": 1,
+      "ready": 28
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 1,
+      "ready": 28
+     }
+    ]
+   },
+   "dna-sam": {
+    "first_seen": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "history": [
+     {
+      "date": "2026-10-30",
+      "stage": 1,
+      "ready": 28
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 1,
+      "ready": 28
+     }
+    ]
+   },
+   "dna-chip": {
+    "first_seen": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "history": [
+     {
+      "date": "2026-10-30",
+      "stage": 1,
+      "ready": 34
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 1,
+      "ready": 34
+     }
+    ]
+   },
+   "q-google-magic": {
+    "first_seen": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "history": [
+     {
+      "date": "2026-10-30",
+      "stage": 2,
+      "ready": 46
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 2,
+      "ready": 46
+     }
+    ]
+   },
+   "q-quantinuum": {
+    "first_seen": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "history": [
+     {
+      "date": "2026-10-30",
+      "stage": 2,
+      "ready": 54
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 2,
+      "ready": 54
+     }
+    ]
+   },
+   "q-iqm-54": {
+    "first_seen": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "history": [
+     {
+      "date": "2026-10-30",
+      "stage": 3,
+      "ready": 67
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 3,
+      "ready": 67
+     }
+    ]
+   },
+   "bio-prime": {
+    "first_seen": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "history": [
+     {
+      "date": "2026-10-30",
+      "stage": 2,
+      "ready": 43
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 2,
+      "ready": 43
+     }
+    ]
+   },
+   "bio-dmd": {
+    "first_seen": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "history": [
+     {
+      "date": "2026-10-30",
+      "stage": 2,
+      "ready": 32
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 2,
+      "ready": 32
+     }
+    ]
+   },
+   "bio-zeta": {
+    "first_seen": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "history": [
+     {
+      "date": "2026-10-30",
+      "stage": 1,
+      "ready": 30
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 1,
+      "ready": 30
+     }
+    ]
+   },
+   "neuro-coma": {
+    "first_seen": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "history": [
+     {
+      "date": "2026-10-30",
+      "stage": 2,
+      "ready": 44
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 2,
+      "ready": 44
+     }
+    ]
+   },
+   "neuro-neuralink": {
+    "first_seen": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "history": [
+     {
+      "date": "2026-10-30",
+      "stage": 2,
+      "ready": 39
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 2,
+      "ready": 39
+     }
+    ]
+   },
+   "neuro-precision": {
+    "first_seen": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "history": [
+     {
+      "date": "2026-10-30",
+      "stage": 2,
+      "ready": 37
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 2,
+      "ready": 37
+     }
+    ]
+   },
+   "ai-muse": {
+    "first_seen": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "history": [
+     {
+      "date": "2026-10-30",
+      "stage": 3,
+      "ready": 78
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 3,
+      "ready": 78
+     }
+    ]
+   },
+   "ai-genie4": {
+    "first_seen": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "history": [
+     {
+      "date": "2026-10-30",
+      "stage": 2,
+      "ready": 45
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 2,
+      "ready": 45
+     }
+    ]
+   },
+   "ai-muse-open": {
+    "first_seen": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "history": [
+     {
+      "date": "2026-10-30",
+      "stage": 3,
+      "ready": 78
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 3,
+      "ready": 78
+     }
+    ]
+   },
+   "en-oxyhalide": {
+    "first_seen": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "history": [
+     {
+      "date": "2026-10-30",
+      "stage": 1,
+      "ready": 32
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 1,
+      "ready": 32
+     }
+    ]
+   },
+   "en-tandem": {
+    "first_seen": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "history": [
+     {
+      "date": "2026-10-30",
+      "stage": 1,
+      "ready": 32
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 1,
+      "ready": 32
+     }
+    ]
+   },
+   "en-helena": {
+    "first_seen": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "history": [
+     {
+      "date": "2026-10-30",
+      "stage": 2,
+      "ready": 41
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 2,
+      "ready": 41
+     }
+    ]
+   },
+   "sp-starship15": {
+    "first_seen": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "history": [
+     {
+      "date": "2026-10-30",
+      "stage": 3,
+      "ready": 74
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 3,
+      "ready": 74
+     }
+    ]
+   },
+   "sp-neutron": {
+    "first_seen": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "history": [
+     {
+      "date": "2026-10-30",
+      "stage": 2,
+      "ready": 41
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 2,
+      "ready": 41
+     }
+    ]
+   },
+   "sp-newglenn": {
+    "first_seen": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "history": [
+     {
+      "date": "2026-10-30",
+      "stage": 3,
+      "ready": 70
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 3,
+      "ready": 70
+     }
+    ]
+   },
+   "psiq-ocs": {
+    "first_seen": "2026-10-29",
+    "last_updated": "2026-10-29",
+    "history": [
+     {
+      "date": "2026-10-29",
+      "stage": 2,
+      "ready": 46
+     },
+     {
+      "date": "2026-10-30",
+      "stage": 2,
+      "ready": 46
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 2,
+      "ready": 46
+     }
+    ]
+   },
+   "duopd": {
+    "first_seen": "2026-10-29",
+    "last_updated": "2026-10-29",
+    "history": [
+     {
+      "date": "2026-10-29",
+      "stage": 1,
+      "ready": 27
+     },
+     {
+      "date": "2026-10-30",
+      "stage": 1,
+      "ready": 27
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 1,
+      "ready": 27
+     }
+    ]
+   },
+   "bfo-thin": {
+    "first_seen": "2026-10-29",
+    "last_updated": "2026-10-29",
+    "history": [
+     {
+      "date": "2026-10-29",
+      "stage": 1,
+      "ready": 16
+     },
+     {
+      "date": "2026-10-30",
+      "stage": 1,
+      "ready": 16
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 1,
+      "ready": 16
+     }
+    ]
+   },
+   "agilex27": {
+    "first_seen": "2026-10-29",
+    "last_updated": "2026-10-29",
+    "history": [
+     {
+      "date": "2026-10-29",
+      "stage": 2,
+      "ready": 67
+     },
+     {
+      "date": "2026-10-30",
+      "stage": 2,
+      "ready": 67
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 2,
+      "ready": 67
+     }
+    ]
+   },
+   "ceva-npu": {
+    "first_seen": "2026-10-29",
+    "last_updated": "2026-10-29",
+    "history": [
+     {
+      "date": "2026-10-29",
+      "stage": 2,
+      "ready": 66
+     },
+     {
+      "date": "2026-10-30",
+      "stage": 2,
+      "ready": 66
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 2,
+      "ready": 66
+     }
+    ]
+   },
+   "neurophos": {
+    "first_seen": "2026-10-28",
+    "last_updated": "2026-10-28",
+    "history": [
+     {
+      "date": "2026-10-28",
+      "stage": 2,
+      "ready": 31
+     },
+     {
+      "date": "2026-10-29",
+      "stage": 2,
+      "ready": 31
+     },
+     {
+      "date": "2026-10-30",
+      "stage": 2,
+      "ready": 31
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 2,
+      "ready": 31
+     }
+    ]
+   },
+   "volantis": {
+    "first_seen": "2026-10-28",
+    "last_updated": "2026-10-28",
+    "history": [
+     {
+      "date": "2026-10-28",
+      "stage": 1,
+      "ready": 32
+     },
+     {
+      "date": "2026-10-29",
+      "stage": 1,
+      "ready": 32
+     },
+     {
+      "date": "2026-10-30",
+      "stage": 1,
+      "ready": 32
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 1,
+      "ready": 32
+     }
+    ]
+   },
+   "ibm-superpose": {
+    "first_seen": "2026-10-28",
+    "last_updated": "2026-10-28",
+    "history": [
+     {
+      "date": "2026-10-28",
+      "stage": 1,
+      "ready": 19
+     },
+     {
+      "date": "2026-10-29",
+      "stage": 1,
+      "ready": 19
+     },
+     {
+      "date": "2026-10-30",
+      "stage": 1,
+      "ready": 19
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 1,
+      "ready": 19
+     }
+    ]
+   },
+   "micron-split": {
+    "first_seen": "2026-10-28",
+    "last_updated": "2026-10-28",
+    "history": [
+     {
+      "date": "2026-10-28",
+      "stage": 1,
+      "ready": 35
+     },
+     {
+      "date": "2026-10-29",
+      "stage": 1,
+      "ready": 35
+     },
+     {
+      "date": "2026-10-30",
+      "stage": 1,
+      "ready": 35
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 1,
+      "ready": 35
+     }
+    ]
+   },
+   "modulator": {
+    "first_seen": "2026-10-28",
+    "last_updated": "2026-10-28",
+    "history": [
+     {
+      "date": "2026-10-28",
+      "stage": 1,
+      "ready": 36
+     },
+     {
+      "date": "2026-10-29",
+      "stage": 1,
+      "ready": 36
+     },
+     {
+      "date": "2026-10-30",
+      "stage": 1,
+      "ready": 36
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 1,
+      "ready": 36
+     }
+    ]
+   },
+   "cfet2d": {
+    "first_seen": "2026-10-28",
+    "last_updated": "2026-10-28",
+    "history": [
+     {
+      "date": "2026-10-28",
+      "stage": 1,
+      "ready": 16
+     },
+     {
+      "date": "2026-10-29",
+      "stage": 1,
+      "ready": 16
+     },
+     {
+      "date": "2026-10-30",
+      "stage": 1,
+      "ready": 16
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 1,
+      "ready": 16
+     }
+    ]
+   },
+   "hybridbond": {
+    "first_seen": "2026-10-28",
+    "last_updated": "2026-10-28",
+    "history": [
+     {
+      "date": "2026-10-28",
+      "stage": 3,
+      "ready": 80
+     },
+     {
+      "date": "2026-10-29",
+      "stage": 3,
+      "ready": 80
+     },
+     {
+      "date": "2026-10-30",
+      "stage": 3,
+      "ready": 80
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 3,
+      "ready": 80
+     }
+    ]
+   },
+   "glass": {
+    "first_seen": "2026-10-28",
+    "last_updated": "2026-10-29",
+    "history": [
+     {
+      "date": "2026-10-28",
+      "stage": 2,
+      "ready": 52
+     },
+     {
+      "date": "2026-10-29",
+      "stage": 2,
+      "ready": 52
+     },
+     {
+      "date": "2026-10-30",
+      "stage": 2,
+      "ready": 52
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 2,
+      "ready": 52
+     }
+    ]
+   },
+   "snn-train": {
+    "first_seen": "2026-10-28",
+    "last_updated": "2026-10-28",
+    "history": [
+     {
+      "date": "2026-10-28",
+      "stage": 1,
+      "ready": 28
+     },
+     {
+      "date": "2026-10-29",
+      "stage": 1,
+      "ready": 28
+     },
+     {
+      "date": "2026-10-30",
+      "stage": 1,
+      "ready": 28
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 1,
+      "ready": 28
+     }
+    ]
+   },
+   "snn-logic": {
+    "first_seen": "2026-10-28",
+    "last_updated": "2026-10-28",
+    "history": [
+     {
+      "date": "2026-10-28",
+      "stage": 1,
+      "ready": 16
+     },
+     {
+      "date": "2026-10-29",
+      "stage": 1,
+      "ready": 16
+     },
+     {
+      "date": "2026-10-30",
+      "stage": 1,
+      "ready": 16
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 1,
+      "ready": 16
+     }
+    ]
+   },
+   "photonic-snn": {
+    "first_seen": "2026-10-28",
+    "last_updated": "2026-10-28",
+    "history": [
+     {
+      "date": "2026-10-28",
+      "stage": 1,
+      "ready": 16
+     },
+     {
+      "date": "2026-10-29",
+      "stage": 1,
+      "ready": 16
+     },
+     {
+      "date": "2026-10-30",
+      "stage": 1,
+      "ready": 16
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 1,
+      "ready": 16
+     }
+    ]
+   },
+   "st-pic": {
+    "first_seen": "2026-10-28",
+    "last_updated": "2026-10-28",
+    "history": [
+     {
+      "date": "2026-10-28",
+      "stage": 3,
+      "ready": 84
+     },
+     {
+      "date": "2026-10-29",
+      "stage": 3,
+      "ready": 84
+     },
+     {
+      "date": "2026-10-30",
+      "stage": 3,
+      "ready": 84
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 3,
+      "ready": 84
+     }
+    ]
+   },
+   "fin-jqqq": {
+    "first_seen": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "history": [
+     {
+      "date": "2026-10-30",
+      "stage": 3,
+      "ready": 74
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 3,
+      "ready": 74
+     }
+    ]
+   },
+   "fin-plaid-arc": {
+    "first_seen": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "history": [
+     {
+      "date": "2026-10-30",
+      "stage": 3,
+      "ready": 75
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 3,
+      "ready": 75
+     }
+    ]
+   },
+   "fin-lloyds-fraud": {
+    "first_seen": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "history": [
+     {
+      "date": "2026-10-30",
+      "stage": 2,
+      "ready": 61
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 2,
+      "ready": 61
+     }
+    ]
+   },
+   "fin-upi-mdr": {
+    "first_seen": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "history": [
+     {
+      "date": "2026-10-30",
+      "stage": 2,
+      "ready": 66
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 2,
+      "ready": 66
+     }
+    ]
+   },
+   "aim-gemini4-carbon": {
+    "first_seen": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "history": [
+     {
+      "date": "2026-10-30",
+      "stage": 2,
+      "ready": 65
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 2,
+      "ready": 65
+     }
+    ]
+   },
+   "aim-gpt61-terra": {
+    "first_seen": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "history": [
+     {
+      "date": "2026-10-30",
+      "stage": 3,
+      "ready": 85
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 3,
+      "ready": 85
+     }
+    ]
+   },
+   "aim-haiku55": {
+    "first_seen": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "history": [
+     {
+      "date": "2026-10-30",
+      "stage": 3,
+      "ready": 85
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 3,
+      "ready": 85
+     }
+    ]
+   }
+  },
+  "opportunities": {
+   "alphabet": {
+    "first_seen": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "history": [
+     {
+      "date": "2026-10-30",
+      "stage": 2,
+      "conv": "Medium"
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 2,
+      "conv": "Medium"
+     }
+    ]
+   },
+   "quantinuum": {
+    "first_seen": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "history": [
+     {
+      "date": "2026-10-30",
+      "stage": 2,
+      "conv": "High"
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 2,
+      "conv": "High"
+     }
+    ]
+   },
+   "iqm-quantum-computers": {
+    "first_seen": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "history": [
+     {
+      "date": "2026-10-30",
+      "stage": 2,
+      "conv": "High"
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 2,
+      "conv": "High"
+     }
+    ]
+   },
+   "defiance-quantum-etf": {
+    "first_seen": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "history": [
+     {
+      "date": "2026-10-30",
+      "stage": 2,
+      "conv": "Medium"
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 2,
+      "conv": "Medium"
+     }
+    ]
+   },
+   "prime-medicine": {
+    "first_seen": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "history": [
+     {
+      "date": "2026-10-30",
+      "stage": 2,
+      "conv": "High"
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 2,
+      "conv": "High"
+     }
+    ]
+   },
+   "meta-platforms": {
+    "first_seen": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "history": [
+     {
+      "date": "2026-10-30",
+      "stage": 2,
+      "conv": "High"
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 2,
+      "conv": "High"
+     }
+    ]
+   },
+   "rocket-lab": {
+    "first_seen": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "history": [
+     {
+      "date": "2026-10-30",
+      "stage": 2,
+      "conv": "Medium"
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 2,
+      "conv": "Medium"
+     }
+    ]
+   },
+   "procure-space-etf": {
+    "first_seen": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "history": [
+     {
+      "date": "2026-10-30",
+      "stage": 2,
+      "conv": "Medium"
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 2,
+      "conv": "Medium"
+     }
+    ]
+   },
+   "twist-bioscience": {
+    "first_seen": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "history": [
+     {
+      "date": "2026-10-30",
+      "stage": 2,
+      "conv": "Watch"
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 2,
+      "conv": "Watch"
+     }
+    ]
+   },
+   "aixtron": {
+    "first_seen": "2026-10-28",
+    "last_updated": "2026-10-28",
+    "history": [
+     {
+      "date": "2026-10-28",
+      "stage": 1,
+      "conv": "Watch"
+     },
+     {
+      "date": "2026-10-29",
+      "stage": 1,
+      "conv": "Watch"
+     },
+     {
+      "date": "2026-10-30",
+      "stage": 1,
+      "conv": "Watch"
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 1,
+      "conv": "Watch"
+     }
+    ]
+   },
+   "micron": {
+    "first_seen": "2026-10-28",
+    "last_updated": "2026-10-28",
+    "history": [
+     {
+      "date": "2026-10-28",
+      "stage": 1,
+      "conv": "Medium"
+     },
+     {
+      "date": "2026-10-29",
+      "stage": 1,
+      "conv": "Medium"
+     },
+     {
+      "date": "2026-10-30",
+      "stage": 1,
+      "conv": "Medium"
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 1,
+      "conv": "Medium"
+     }
+    ]
+   },
+   "ibiden": {
+    "first_seen": "2026-10-28",
+    "last_updated": "2026-10-28",
+    "history": [
+     {
+      "date": "2026-10-28",
+      "stage": 2,
+      "conv": "Medium"
+     },
+     {
+      "date": "2026-10-29",
+      "stage": 2,
+      "conv": "Medium"
+     },
+     {
+      "date": "2026-10-30",
+      "stage": 2,
+      "conv": "Medium"
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 2,
+      "conv": "Medium"
+     }
+    ]
+   },
+   "tata-electronics-fab": {
+    "first_seen": "2026-10-28",
+    "last_updated": "2026-10-28",
+    "history": [
+     {
+      "date": "2026-10-28",
+      "stage": 2,
+      "conv": "Watch"
+     },
+     {
+      "date": "2026-10-29",
+      "stage": 2,
+      "conv": "Watch"
+     },
+     {
+      "date": "2026-10-30",
+      "stage": 2,
+      "conv": "Watch"
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 2,
+      "conv": "Watch"
+     }
+    ]
+   },
+   "coherent": {
+    "first_seen": "2026-10-28",
+    "last_updated": "2026-10-28",
+    "history": [
+     {
+      "date": "2026-10-28",
+      "stage": 2,
+      "conv": "Medium"
+     },
+     {
+      "date": "2026-10-29",
+      "stage": 2,
+      "conv": "Medium"
+     },
+     {
+      "date": "2026-10-30",
+      "stage": 2,
+      "conv": "Medium"
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 2,
+      "conv": "Medium"
+     }
+    ]
+   },
+   "tower-semiconductor": {
+    "first_seen": "2026-10-28",
+    "last_updated": "2026-10-28",
+    "history": [
+     {
+      "date": "2026-10-28",
+      "stage": 2,
+      "conv": "Medium"
+     },
+     {
+      "date": "2026-10-29",
+      "stage": 2,
+      "conv": "Medium"
+     },
+     {
+      "date": "2026-10-30",
+      "stage": 2,
+      "conv": "Medium"
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 2,
+      "conv": "Medium"
+     }
+    ]
+   },
+   "corning": {
+    "first_seen": "2026-10-28",
+    "last_updated": "2026-10-28",
+    "history": [
+     {
+      "date": "2026-10-28",
+      "stage": 2,
+      "conv": "Medium"
+     },
+     {
+      "date": "2026-10-29",
+      "stage": 2,
+      "conv": "Medium"
+     },
+     {
+      "date": "2026-10-30",
+      "stage": 2,
+      "conv": "Medium"
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 2,
+      "conv": "Medium"
+     }
+    ]
+   },
+   "brainchip": {
+    "first_seen": "2026-10-28",
+    "last_updated": "2026-10-28",
+    "history": [
+     {
+      "date": "2026-10-28",
+      "stage": 2,
+      "conv": "Speculative"
+     },
+     {
+      "date": "2026-10-29",
+      "stage": 2,
+      "conv": "Speculative"
+     },
+     {
+      "date": "2026-10-30",
+      "stage": 2,
+      "conv": "Speculative"
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 2,
+      "conv": "Speculative"
+     }
+    ]
+   },
+   "ceva": {
+    "first_seen": "2026-10-29",
+    "last_updated": "2026-10-29",
+    "history": [
+     {
+      "date": "2026-10-29",
+      "stage": 2,
+      "conv": "Medium"
+     },
+     {
+      "date": "2026-10-30",
+      "stage": 2,
+      "conv": "Medium"
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 2,
+      "conv": "Medium"
+     }
+    ]
+   },
+   "globalfoundries": {
+    "first_seen": "2026-10-29",
+    "last_updated": "2026-10-29",
+    "history": [
+     {
+      "date": "2026-10-29",
+      "stage": 2,
+      "conv": "Medium"
+     },
+     {
+      "date": "2026-10-30",
+      "stage": 2,
+      "conv": "Medium"
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 2,
+      "conv": "Medium"
+     }
+    ]
+   },
+   "altera": {
+    "first_seen": "2026-10-29",
+    "last_updated": "2026-10-29",
+    "history": [
+     {
+      "date": "2026-10-29",
+      "stage": 2,
+      "conv": "Watch"
+     },
+     {
+      "date": "2026-10-30",
+      "stage": 2,
+      "conv": "Watch"
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 2,
+      "conv": "Watch"
+     }
+    ]
+   },
+   "besi": {
+    "first_seen": "2026-10-28",
+    "last_updated": "2026-10-28",
+    "history": [
+     {
+      "date": "2026-10-28",
+      "stage": 3,
+      "conv": "High"
+     },
+     {
+      "date": "2026-10-29",
+      "stage": 3,
+      "conv": "High"
+     },
+     {
+      "date": "2026-10-30",
+      "stage": 3,
+      "conv": "High"
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 3,
+      "conv": "High"
+     }
+    ]
+   },
+   "advantest": {
+    "first_seen": "2026-10-28",
+    "last_updated": "2026-10-28",
+    "history": [
+     {
+      "date": "2026-10-28",
+      "stage": 3,
+      "conv": "Medium"
+     },
+     {
+      "date": "2026-10-29",
+      "stage": 3,
+      "conv": "Medium"
+     },
+     {
+      "date": "2026-10-30",
+      "stage": 3,
+      "conv": "Medium"
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 3,
+      "conv": "Medium"
+     }
+    ]
+   },
+   "kaynes-technology": {
+    "first_seen": "2026-10-28",
+    "last_updated": "2026-10-28",
+    "history": [
+     {
+      "date": "2026-10-28",
+      "stage": 3,
+      "conv": "Watch"
+     },
+     {
+      "date": "2026-10-29",
+      "stage": 3,
+      "conv": "Watch"
+     },
+     {
+      "date": "2026-10-30",
+      "stage": 3,
+      "conv": "Watch"
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 3,
+      "conv": "Watch"
+     }
+    ]
+   },
+   "cg-power": {
+    "first_seen": "2026-10-28",
+    "last_updated": "2026-10-28",
+    "history": [
+     {
+      "date": "2026-10-28",
+      "stage": 3,
+      "conv": "Watch"
+     },
+     {
+      "date": "2026-10-29",
+      "stage": 3,
+      "conv": "Watch"
+     },
+     {
+      "date": "2026-10-30",
+      "stage": 3,
+      "conv": "Watch"
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 3,
+      "conv": "Watch"
+     }
+    ]
+   },
+   "adeia": {
+    "first_seen": "2026-10-28",
+    "last_updated": "2026-10-28",
+    "history": [
+     {
+      "date": "2026-10-28",
+      "stage": 3,
+      "conv": "Medium"
+     },
+     {
+      "date": "2026-10-29",
+      "stage": 3,
+      "conv": "Medium"
+     },
+     {
+      "date": "2026-10-30",
+      "stage": 3,
+      "conv": "Medium"
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 3,
+      "conv": "Medium"
+     }
+    ]
+   },
+   "stmicroelectronics": {
+    "first_seen": "2026-10-28",
+    "last_updated": "2026-10-28",
+    "history": [
+     {
+      "date": "2026-10-28",
+      "stage": 3,
+      "conv": "High"
+     },
+     {
+      "date": "2026-10-29",
+      "stage": 3,
+      "conv": "High"
+     },
+     {
+      "date": "2026-10-30",
+      "stage": 3,
+      "conv": "High"
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 3,
+      "conv": "High"
+     }
+    ]
+   },
+   "sk-hynix": {
+    "first_seen": "2026-10-28",
+    "last_updated": "2026-10-29",
+    "history": [
+     {
+      "date": "2026-10-28",
+      "stage": 4,
+      "conv": "High"
+     },
+     {
+      "date": "2026-10-29",
+      "stage": 4,
+      "conv": "High"
+     },
+     {
+      "date": "2026-10-30",
+      "stage": 4,
+      "conv": "High"
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 4,
+      "conv": "High"
+     }
+    ]
+   },
+   "tsmc": {
+    "first_seen": "2026-10-28",
+    "last_updated": "2026-10-28",
+    "history": [
+     {
+      "date": "2026-10-28",
+      "stage": 4,
+      "conv": "Medium"
+     },
+     {
+      "date": "2026-10-29",
+      "stage": 4,
+      "conv": "Medium"
+     },
+     {
+      "date": "2026-10-30",
+      "stage": 4,
+      "conv": "Medium"
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 4,
+      "conv": "Medium"
+     }
+    ]
+   },
+   "nvidia": {
+    "first_seen": "2026-10-28",
+    "last_updated": "2026-10-28",
+    "history": [
+     {
+      "date": "2026-10-28",
+      "stage": 4,
+      "conv": "Medium"
+     },
+     {
+      "date": "2026-10-29",
+      "stage": 4,
+      "conv": "Medium"
+     },
+     {
+      "date": "2026-10-30",
+      "stage": 4,
+      "conv": "Medium"
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 4,
+      "conv": "Medium"
+     }
+    ]
+   },
+   "amd": {
+    "first_seen": "2026-10-28",
+    "last_updated": "2026-10-28",
+    "history": [
+     {
+      "date": "2026-10-28",
+      "stage": 4,
+      "conv": "Watch"
+     },
+     {
+      "date": "2026-10-29",
+      "stage": 4,
+      "conv": "Watch"
+     },
+     {
+      "date": "2026-10-30",
+      "stage": 4,
+      "conv": "Watch"
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 4,
+      "conv": "Watch"
+     }
+    ]
+   },
+   "janus-henderson": {
+    "first_seen": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "history": [
+     {
+      "date": "2026-10-30",
+      "stage": 3,
+      "conv": "Medium"
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 3,
+      "conv": "Medium"
+     }
+    ]
+   },
+   "nasdaq": {
+    "first_seen": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "history": [
+     {
+      "date": "2026-10-30",
+      "stage": 3,
+      "conv": "Watch"
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 3,
+      "conv": "Watch"
+     }
+    ]
+   },
+   "upstart": {
+    "first_seen": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "history": [
+     {
+      "date": "2026-10-30",
+      "stage": 3,
+      "conv": "High"
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 3,
+      "conv": "High"
+     }
+    ]
+   },
+   "sofi-technologies": {
+    "first_seen": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "history": [
+     {
+      "date": "2026-10-30",
+      "stage": 3,
+      "conv": "Medium"
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 3,
+      "conv": "Medium"
+     }
+    ]
+   },
+   "bajaj-finance": {
+    "first_seen": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "history": [
+     {
+      "date": "2026-10-30",
+      "stage": 3,
+      "conv": "Watch"
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 3,
+      "conv": "Watch"
+     }
+    ]
+   },
+   "lloyds-banking-group": {
+    "first_seen": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "history": [
+     {
+      "date": "2026-10-30",
+      "stage": 3,
+      "conv": "Watch"
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 3,
+      "conv": "Watch"
+     }
+    ]
+   },
+   "one-97-communications-paytm": {
+    "first_seen": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "history": [
+     {
+      "date": "2026-10-30",
+      "stage": 3,
+      "conv": "Medium"
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 3,
+      "conv": "Medium"
+     }
+    ]
+   },
+   "microsoft": {
+    "first_seen": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "history": [
+     {
+      "date": "2026-10-30",
+      "stage": 3,
+      "conv": "Watch"
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 3,
+      "conv": "Watch"
+     }
+    ]
+   },
+   "amazon": {
+    "first_seen": "2026-10-30",
+    "last_updated": "2026-10-30",
+    "history": [
+     {
+      "date": "2026-10-30",
+      "stage": 3,
+      "conv": "Watch"
+     },
+     {
+      "date": "2026-10-31",
+      "stage": 3,
+      "conv": "Watch"
+     }
+    ]
+   },
+   "crispr-therapeutics": {
+    "first_seen": "2026-10-31",
+    "last_updated": "2026-10-31",
+    "history": [
+     {
+      "date": "2026-10-31",
+      "stage": 3,
+      "conv": "Medium"
+     }
+    ]
+   },
+   "intellia-therapeutics": {
+    "first_seen": "2026-10-31",
+    "last_updated": "2026-10-31",
+    "history": [
+     {
+      "date": "2026-10-31",
+      "stage": 2,
+      "conv": "Medium"
+     }
+    ]
+   },
+   "sealsq": {
+    "first_seen": "2026-10-31",
+    "last_updated": "2026-10-31",
+    "history": [
+     {
+      "date": "2026-10-31",
+      "stage": 2,
+      "conv": "Medium"
+     }
+    ]
+   },
+   "mtar-technologies": {
+    "first_seen": "2026-10-31",
+    "last_updated": "2026-10-31",
+    "history": [
+     {
+      "date": "2026-10-31",
+      "stage": 3,
+      "conv": "Medium"
+     }
+    ]
+   },
+   "icici-bank": {
+    "first_seen": "2026-10-31",
+    "last_updated": "2026-10-31",
+    "history": [
+     {
+      "date": "2026-10-31",
+      "stage": 3,
+      "conv": "Watch"
+     }
+    ]
+   },
+   "quick-heal-technologies": {
+    "first_seen": "2026-10-31",
+    "last_updated": "2026-10-31",
+    "history": [
+     {
+      "date": "2026-10-31",
+      "stage": 3,
+      "conv": "Medium"
+     }
+    ]
+   }
+  }
  }
 }
